@@ -155,4 +155,4 @@ En suivant ces étapes, les transporteurs peuvent gérer efficacement les plans 
 * [Sous-traitants](README.md)
 * [Enregistrer un sous-traitant](register-a-contractor.md)
 * [Gérer la liste d’adresses](manage-address-list.md)
-* Optimiser les livraisons
+* [Optimiser les livraisons](../simulation/simulation-deliveries-optimize.md)
