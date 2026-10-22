@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Dernières mises à jour](summer-release-topics-2026/README.md)
+  * [Version d’été 2026](summer-release-topics-2026/summer-release-topics-2026.md)
+  * [Version d’automne 2026](fall-release-2026/fall-release-2026.md)
 * [Page d’accueil](page-daccueil/README.md)
   * [Comprendre l’écran d’accueil](page-daccueil/comprendre-lecran-daccueil.md)
   * [Configurer l’affichage des statuts des missions](page-daccueil/configurer-laffichage-des-statuts-des-missions.md)
