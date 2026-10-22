@@ -1,69 +1,85 @@
 # Gérer les flottes de véhicules
 
-### Gérer les flottes de véhicules
+La fonctionnalité **Gérer les flottes de véhicules** de Nomadia Delivery permet aux administrateurs et aux planificateurs de tenir un registre à jour des véhicules utilisés pour les opérations de livraison. Cela comprend l’ajout, la modification ou la désactivation de véhicules, l’attribution de caractéristiques spécifiques et la garantie que chaque véhicule est correctement configuré pour répondre aux besoins logistiques.
 
-La gestion des flottes de véhicules dans Nomadia Delivery permet aux administrateurs et aux planificateurs de tenir un registre à jour des véhicules utilisés pour les opérations de livraison. Cela comprend l’ajout, la modification ou la désactivation de véhicules, l’attribution de caractéristiques spécifiques et la garantie que chaque véhicule est correctement configuré pour répondre aux besoins logistiques.
+## Importer des flottes de véhicules
 
-#### Importer des flottes de véhicules
+1. Ouvrez la page **Configuration**.
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
+![Ouvrez la page Configuration](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_001.png)
 
-<figure><img src="../.gitbook/assets/msedge_ol5iBepEex.png" alt=""><figcaption></figcaption></figure>
+2. Sous **Mes données**, cliquez sur **Gérer les véhicules**.
 
-4. Sous Mes flottes, cliquez sur le menu déroulant Actions.
-5. Cliquez sur Importer
+![Sous Mes données, cliquez sur Gérer les véhicules](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_002.png)
 
-<figure><img src="../.gitbook/assets/msedge_tXHQ7RehH1.png" alt=""><figcaption></figcaption></figure>
+3. Sous **Mes flottes**, cliquez sur le menu déroulant **Actions**.
+4. Cliquez sur **Importer**.
 
-6. Cliquez sur Parcourir un fichier pour téléverser le fichier
+![Cliquez sur Importer](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_003.png)
 
-<figure><img src="../.gitbook/assets/msedge_xOByPiEx7N.png" alt=""><figcaption></figcaption></figure>
+5. Cliquez sur **Parcourir un fichier** pour téléverser le fichier.
 
-7. Sélectionnez un fichier valide depuis votre système local.
+![Cliquez sur Parcourir un fichier pour téléverser le fichier](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_004.png)
 
-<figure><img src="../.gitbook/assets/msedge_rixRgmxkOt.png" alt=""><figcaption></figcaption></figure>
+6. Sélectionnez un fichier valide depuis votre système local.
+
+![Sélectionnez un fichier valide depuis votre système local](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_005.png)
+
+### Résultat
 
 Les flottes de véhicules ont été importées avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_hiCgPX1sFs.png" alt=""><figcaption></figcaption></figure>
+![Les flottes de véhicules ont été importées avec succès](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_006.png)
 
-#### Ajouter une flotte de véhicules
+## Ajouter une flotte de véhicules
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Sous Mes flottes, cliquez sur le menu déroulant Actions.
-5. Cliquez sur Ajouter
+1. Ouvrez la page **Configuration**.
+2. Sous **Mes données**, cliquez sur **Gérer les véhicules**.
+3. Sous **Mes flottes**, cliquez sur le menu déroulant **Actions**.
+4. Cliquez sur **Ajouter**.
 
-<figure><img src="../.gitbook/assets/msedge_PxAch2ltF3.png" alt=""><figcaption></figcaption></figure>
+![Cliquez sur Ajouter](../.gitbook/assets/VehicleFleets_AddVehiclesFleets_001.png)
 
-6. Saisissez le nom et le nom de l’agence
-7. Cliquez sur Ajouter
+5. Saisissez le **Nom** et le **Nom de l’agence**.
 
-<figure><img src="../.gitbook/assets/msedge_vglKpDgs2I.png" alt=""><figcaption></figcaption></figure>
+Lors de l’ajout d’un véhicule, activez le bouton bascule **Adresse de départ dédiée** pour modifier l’**Adresse de départ**.
+
+6. Cliquez sur **Ajouter**.
+
+<figure><img src="../.gitbook/assets/VehicleFleets_AddVehiclesFleets_002.png" alt="Cliquez sur Ajouter"><figcaption></figcaption></figure>
+
+### Résultat
+
+Le champ d’adresse est désormais activé afin que vous puissiez le modifier.
+
+<figure><img src="../.gitbook/assets/VehicleFleets_AddVehiclesFleets_003.png" alt="Le champ d’adresse a été activé pour le modifier"><figcaption></figcaption></figure>
 
 Les flottes de véhicules ont été ajoutées avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_t9Y9POVxYR.png" alt=""><figcaption></figcaption></figure>
+![Les flottes de véhicules ont été ajoutées avec succès](../.gitbook/assets/VehicleFleets_AddVehiclesFleets_004.png)
 
-#### Supprimer une flotte de véhicules
+## Supprimer une flotte de véhicules
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Sélectionnez une équipe
-5. Sous Mes flottes, cliquez sur le menu déroulant Actions.
-6. Cliquez sur Supprimer
+1. Ouvrez la page **Configuration**.
+2. Sous **Mes données**, cliquez sur **Gérer les véhicules**.
+3. Sélectionnez une **Équipe**.
+4. Sous **Mes flottes**, cliquez sur le menu déroulant **Actions**.
+5. Cliquez sur **Supprimer**.
 
-<figure><img src="../.gitbook/assets/msedge_wUsPpnQGiR.png" alt=""><figcaption></figcaption></figure>
+![Cliquez sur Supprimer](../.gitbook/assets/VehicleFleets_DeleteVehiclesFleets_001.png)
 
-7. Vous verrez un message contextuel de confirmation indiquant : « Voulez-vous supprimer le véhicule ? »
-8. Cliquez sur Supprimer
+6. Un message contextuel de confirmation s’affiche : « Voulez-vous supprimer le véhicule ? »
+7. Cliquez sur **Supprimer**.
 
-<figure><img src="../.gitbook/assets/msedge_FWBiuYHPfa.png" alt=""><figcaption></figcaption></figure>
+![Cliquez sur Supprimer](../.gitbook/assets/VehicleFleets_DeleteVehiclesFleets_002.png)
+
+### Résultat
 
 Les flottes de véhicules ont été supprimées avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_R166e9Kqy2.png" alt=""><figcaption></figcaption></figure>
+![Les flottes de véhicules ont été supprimées avec succès](../.gitbook/assets/VehicleFleets_DeleteVehiclesFleets_003.png)
+
+## Rubriques connexes
+
+* [Gérer les véhicules d’une flotte](manage-vehicles-in-a-fleet.md)
+* [Personnaliser les contraintes](customize-the-constraints.md)
