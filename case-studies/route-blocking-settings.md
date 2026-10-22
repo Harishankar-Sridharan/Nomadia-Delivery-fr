@@ -1,95 +1,110 @@
-# Paramètres de blocage d'itinéraire
+# Paramètres de blocage d’itinéraire
 
-Le blocage des itinéraires empêche systématiquement les conducteurs de démarrer des itinéraires contenant des articles de grande valeur jusqu’à ce qu’un planificateur les examine. Cette fonctionnalité նվազise les risques financiers tels que le vol de cargaison et garantit que les protocoles de sécurité sont suivis chaque jour. Les utilisateurs obtiennent un processus de conformité proactif et documenté pour chaque livraison.
+Le blocage des itinéraires empêche systématiquement les conducteurs de démarrer des itinéraires contenant des articles de grande valeur jusqu’à ce qu’un planificateur les examine. Cette fonctionnalité réduit les risques financiers tels que le vol de cargaison et garantit que les protocoles de sécurité sont suivis chaque jour. Les utilisateurs obtiennent un processus de conformité proactif et documenté pour chaque livraison.
 
-#### Pour commencer
+## Avant de commencer
 
-* Les missions doivent inclure un **valeur du colis** champ.
-* Accès au **module de configuration** est requis.
-* Ouvrez le **module de configuration**.
+* Les missions doivent inclure un champ **Valeur du colis**.
+* L’accès au **module Configuration** est requis.
 
-<figure><img src="../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
+1. Ouvrez le **module Configuration**.
 
-* Sélectionnez **paramètres** dans le **itinéraire** section.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_21.png)
 
-<figure><img src="../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
+2. Sélectionnez **Paramètres** dans la section **Itinéraire**.
 
-* Saisissez un seuil numérique dans le **condition de valeur du colis** champ.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_25.png)
 
-<figure><img src="../.gitbook/assets/image (834).png" alt=""><figcaption></figcaption></figure>
+3. Saisissez un seuil numérique dans le champ **Condition de valeur du colis**.
 
-* Cliquez sur **enregistrer** pour appliquer la configuration.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_51.png)
 
-<figure><img src="../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
+4. Cliquez sur **Enregistrer** pour appliquer la configuration.
 
-#### Présentation de la fonctionnalité
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_00.png)
 
-* **Condition de valeur du colis** : Définissez le seuil monétaire qui déclenche un verrouillage automatique de l’itinéraire.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (836).png" alt=""><figcaption></figcaption></figure>
+* **Condition de valeur du colis** : définissez le seuil monétaire qui déclenche un verrouillage automatique de l’itinéraire.
 
-* **Symbole de verrouillage** : Cette icône apparaissant sur un itinéraire indique qu’il contient une mission de grande valeur et qu’il est bloqué.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_30.png)
 
-<figure><img src="../.gitbook/assets/image (837).png" alt=""><figcaption></figcaption></figure>
+* **Symbole de verrouillage** : cette icône apparaissant sur un itinéraire indique qu’il contient une mission de grande valeur et qu’il est bloqué.
 
-* **Infobulle** : Survolez le cadenas pour voir la raison précise du blocage.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_44.png)
 
-<figure><img src="../.gitbook/assets/image (838).png" alt=""><figcaption></figcaption></figure>
+* **Infobulle** : survolez le cadenas pour voir la raison précise du blocage.
 
-* **Liste déroulante d’autorisation de départ** : Sélectionnez entre **Aucun blocage**, **Bloqué**, ou **Autorisé** pour gérer l’accès à l’itinéraire.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_51.png)
 
-<figure><img src="../.gitbook/assets/image (839).png" alt=""><figcaption></figcaption></figure>
+* **Liste déroulante d’autorisation de départ** : sélectionnez entre **Aucun blocage**, **Bloqué** ou **Autorisé** pour gérer l’accès à l’itinéraire.
 
-* **Section du journal** : Consultez l’historique de qui a approuvé un itinéraire et à quel moment pour la conformité.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_5_to_32.png)
 
-<figure><img src="../.gitbook/assets/image (840).png" alt=""><figcaption></figcaption></figure>
+* **Section du journal** : consultez l’historique de qui a approuvé un itinéraire et à quel moment pour la conformité.
 
-#### Mode d’emploi : optimiser et identifier les itinéraires bloqués
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_NBosKi9VMM.png" alt=""><figcaption></figcaption></figure>
 
-1. Accédez à **onglet des missions**.
+## Optimiser et identifier les itinéraires bloqués
 
-<figure><img src="../.gitbook/assets/image (841).png" alt=""><figcaption></figcaption></figure>
+1. Accédez à l’**onglet Missions**.
 
-2. Sélectionnez les missions qui dépassent votre **valeur du colis**.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_20.png)
 
-<figure><img src="../.gitbook/assets/image (842).png" alt=""><figcaption></figcaption></figure>
+2. Sélectionnez les missions qui dépassent la **valeur du colis** que vous avez configurée.
 
-3. Cliquez sur **actions** et sélectionnez **optimiser** (ou tout autre flux de travail d’optimisation).
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_28_to_3_to_46.gif)
 
-<figure><img src="../.gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>
+3. Cliquez sur **Actions** et sélectionnez **Optimiser** (ou tout autre flux de travail d’optimisation).
 
-4. Une fois le processus d’optimisation terminé, sélectionnez le nouvel itinéraire et cliquez sur valider.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_55.png)
 
-<figure><img src="../.gitbook/assets/image (844).png" alt=""><figcaption></figcaption></figure>
+4. Une fois le processus d’optimisation terminé, sélectionnez le nouvel itinéraire et cliquez sur Valider.
 
-5. Vérifiez la présence de l’ **cadenas** sur l’itinéraire pour confirmer que le blocage est actif.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_21_to_4_to_30.gif)
 
-<figure><img src="../.gitbook/assets/image (845).png" alt=""><figcaption></figcaption></figure>
+5. Vérifiez la présence de l’icône de **cadenas** sur l’itinéraire pour confirmer que le blocage est actif.
 
-#### Mode d’emploi : autoriser l’accès à un itinéraire bloqué
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_40.png)
 
-1. Cliquez sur le **icône crayon** à côté de l’itinéraire bloqué.
+## Autoriser l’accès à un itinéraire bloqué
 
-<figure><img src="../.gitbook/assets/image (846).png" alt=""><figcaption></figcaption></figure>
+1. Cliquez sur l’**icône crayon** à côté de l’itinéraire bloqué.
 
-2. Ouvrez le **liste déroulante d’autorisation de départ**.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_5_to_25.png)
 
-<figure><img src="../.gitbook/assets/image (847).png" alt=""><figcaption></figcaption></figure>
+2. Ouvrez la **liste déroulante d’autorisation de départ**.
 
-3. Sélectionnez **autorisé**.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_6_to_50.png)
 
-<figure><img src="../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
+3. Sélectionnez **Autorisé**.
 
-4. Cliquez sur le **bouton enregistrer**.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_6_to_55.png)
 
-<figure><img src="../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
+4. Cliquez sur le **bouton Enregistrer**.
 
-5. Vérifiez que l’ **icône verte déverrouillée** est maintenant affichée.
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_6_to_58.png)
 
-<figure><img src="../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
+5. Vérifiez que l’**icône verte de cadenas déverrouillé** est maintenant affichée.
 
-#### Conseils de productivité
+![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_7_to_02.png)
 
-* 💡 **Filtrage rapide** : Filtrez par **autorisation de départ** dans l’onglet des missions pour voir instantanément tous les itinéraires bloqués.
-* 💡 **Dossiers de conformité**: Utilisez le **section du journal** pour documenter qui a examiné les missions de grande valeur en cas de litige futur.
-* ⚠️ **Verrouillage automatique** : Les conducteurs ne peuvent pas démarrer d’itinéraires dans l’application mobile si le statut est **Bloqué**.
+## Conseils
+
+{% hint style="info" %}
+**Filtrage rapide** : filtrez par **Autorisation de départ** dans l’onglet Missions pour voir instantanément tous les itinéraires bloqués.
+{% endhint %}
+
+{% hint style="info" %}
+**Dossiers de conformité** : utilisez la **section du journal** pour documenter qui a examiné les missions de grande valeur en cas de litige futur.
+{% endhint %}
+
+{% hint style="warning" %}
+**Verrouillage automatique** : les conducteurs ne peuvent pas démarrer d’itinéraires dans l’application mobile si le statut est **Bloqué**.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Durée fixe réduite](reduced-fixed-duration.md)
+* [Optimisation des missions pour l’agence](optimizing-missions-for-agency.md)

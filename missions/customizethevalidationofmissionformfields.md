@@ -18,7 +18,7 @@ Prérequis administratifs et étapes de configuration :
 
 ![Cliquez sur Champs personnalisés pour gérer les champs du formulaire](../.gitbook/assets/FormFieldValidation_BeforeBegin_002.gif)
 
-## Vue d’ensemble de la fonctionnalité
+## Présentation de la fonctionnalité
 
 Principaux éléments de l’interface utilisateur :
 

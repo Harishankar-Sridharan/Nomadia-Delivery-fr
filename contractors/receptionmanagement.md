@@ -18,7 +18,7 @@ Effectuez ensuite la configuration dans cet ordre :
 2. Configurez un sous-statut pour scanner tous les articles du conteneur.
 3. Configurez le rapport de réception.
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 Les éléments d’interface suivants contrôlent votre flux de suivi des réceptions :
 

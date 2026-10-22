@@ -1,33 +1,60 @@
-# Enregistrer un sous-traitantPage 1
+# Enregistrement
 
-Dans l’application Nomadia Delivery, les sous-traitants doivent être enregistrés par le transporteur avant de pouvoir téléverser des données de mission. Pour enregistrer un sous-traitant, le transporteur doit ajouter un sous-traitant depuis les « Sous-traitants.
+Dans l’application Nomadia Delivery, les sous-traitants doivent être enregistrés par le transporteur avant de pouvoir téléverser des données de mission. Pour enregistrer un sous-traitant, le transporteur doit ajouter un sous-traitant depuis le module **Sous-traitants**. Une fois le sous-traitant enregistré, le transporteur peut créer un accès sous-traitant depuis la section ou le module Configuration. Cela permet au sous-traitant d’accéder au système et d’effectuer ses tâches.
 
-Pour créer un nouveau sous-traitant, suivez ces étapes :
+## Avant de commencer
 
-1. Ouvrez l’application Nomadia Delivery et accédez au Sous-traitant
-2. Cliquez sur Missions
+* Connectez-vous à **Nomadia Delivery** en tant que transporteur avec un profil utilisateur ayant accès au module **Sous-traitants**.
+* Munissez-vous de l’identifiant et du nom du sous-traitant, car ce sont des champs obligatoires.
+* Pour un import en masse, préparez un fichier Excel contenant les sous-traitants.
 
-<figure><img src="../.gitbook/assets/msedge_39JwylKN9e.png" alt=""><figcaption></figcaption></figure>
+## Présentation de la fonctionnalité
 
-3. Cliquez sur le menu « Actions » et cliquez sur le bouton « Ajouter »
+* **Identifiant et nom** : champs obligatoires lors de l’enregistrement d’un sous-traitant.
+* **Détails supplémentaires** : informations facultatives telles que l’adresse du sous-traitant, la région et les types de configuration de statut.
+* **Carte** : affiche l’emplacement géographique correspondant à l’adresse du sous-traitant.
+* **Import en masse** : ajoute plusieurs sous-traitants à la fois à partir d’un fichier Excel.
 
-<figure><img src="../.gitbook/assets/msedge_wQ0BMaOtxA.png" alt=""><figcaption></figcaption></figure>
+## Enregistrer un sous-traitant
 
-4. Lors de l’ajout d’un sous-traitant, l’identifiant et le nom sont des champs obligatoires. Le transporteur peut également fournir des détails supplémentaires, tels que l’adresse du sous-traitant, la région et les types de configuration de statut."
-5. Une fois l’adresse du sous-traitant saisie, la carte affiche l’emplacement géographique correspondant.
+1. Ouvrez l’application Nomadia Delivery et accédez à **Sous-traitants**.
+2. Cliquez sur **Missions**.
 
-<figure><img src="../.gitbook/assets/msedge_orK3flEdJA.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-1 (4).png>)
 
-6. Cliquez sur « Enregistrer » pour inscrire le sous-traitant dans le système de gestion des livraisons
+3. Cliquez sur le menu **Actions** et cliquez sur le bouton **Ajouter**.
 
-<figure><img src="../.gitbook/assets/Image 63.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-2 (4).png>)
 
-7. Le nouveau sous-traitant sera ajouté avec succès
+4. Saisissez l’identifiant et le nom, qui sont des champs obligatoires. Le transporteur peut également fournir des détails supplémentaires, tels que l’adresse du sous-traitant, la région et les types de configuration de statut.
+5. Saisissez l’adresse du sous-traitant. La carte affiche l’emplacement géographique correspondant.
 
-<figure><img src="../.gitbook/assets/msedge_gv2mvjsR6f.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-3 (4).png>)
 
-8. Les sous-traitants peuvent également être importés en masse à l’aide d’un fichier Excel, ce qui permet de gagner du temps et de réduire les efforts lors de l’ajout simultané de plusieurs sous-traitants
+6. Cliquez sur **Enregistrer** pour inscrire le sous-traitant dans le système de gestion des livraisons.
 
-<figure><img src="../.gitbook/assets/msedge_NFVqi7hntg.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-4 (4).png>)
 
-Une fois le sous-traitant enregistré, le transporteur peut créer un accès sous-traitant depuis la section/le module de configuration. Cela permet au sous-traitant d’accéder au système et d’effectuer ses tâches.
+### Résultat
+
+Le nouveau sous-traitant est ajouté avec succès.
+
+![](<../.gitbook/assets/image-5 (4).png>)
+
+## Importer des sous-traitants en masse
+
+Les sous-traitants peuvent également être importés en masse à l’aide d’un fichier Excel, ce qui permet de gagner du temps et de réduire les efforts lors de l’ajout simultané de plusieurs sous-traitants.
+
+![](<../.gitbook/assets/image-2 (4).png>)
+
+## Conseils
+
+{% hint style="info" %}
+**Créez ensuite l’accès** : après avoir enregistré le sous-traitant, créez l’accès du sous-traitant depuis la section Configuration afin qu’il puisse accéder au système et effectuer ses tâches.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Sous-traitants](README.md)
+* [Créer un utilisateur sous-traitant](create-a-contractor-user.md)
+* [Gérer la liste d’adresses](manage-address-list.md)

@@ -2,90 +2,105 @@
 
 La fonctionnalité Zone de secours vous permet de gérer les absences imprévues de sous-traitants en créant des secteurs secondaires temporaires. Elle permet un transfert rapide des missions existantes vers les équipes disponibles sans modifier votre infrastructure principale. Cela garantit que vos SLA sont respectés et que les livraisons arrivent à l’heure malgré les changements de nuit.
 
-#### Pour commencer
+## Avant de commencer
 
 * Accès au **module de configuration**.
 * Une sous-zone principale existante nécessitant une sauvegarde.
 * Un sous-traitant de remplacement disponible pour l’affectation.
-* Accédez à **module de configuration**.
 
-<figure><img src="../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
+1. Accédez au **module de configuration**.
 
-* Cliquez sur **gérer les études et les zones**.
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_07.png)
 
-<figure><img src="../.gitbook/assets/image (852).png" alt=""><figcaption></figcaption></figure>
+2. Cliquez sur **gérer les études et les zones**.
 
-* Sélectionnez le **icône crayon** à côté de l’étude concernée.
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_09.png)
 
-<figure><img src="../.gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
+3. Sélectionnez l’**icône crayon** à côté de l’étude concernée.
 
-#### Présentation de la fonctionnalité
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_17.png)
 
-* **Sous-secteur principal**: Le territoire de livraison d’origine attribué au premier sous-traitant.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (854).png" alt=""><figcaption></figcaption></figure>
+* **Sous-secteur principal** : le territoire de livraison d’origine attribué au premier sous-traitant.
 
-* **Sous-secteur secondaire**: Le mode d’affectation de la zone de secours nouvellement créé, qui le distingue de l’original.
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_42.png)
 
-<figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
+* **Sous-secteur secondaire** : le mode d’affectation de la zone de secours nouvellement créée, qui la distingue de l’original.
 
-* **Identifiant**: Un champ de code unique pour la zone de secours.
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_37.png)
 
-<figure><img src="../.gitbook/assets/image (856).png" alt=""><figcaption></figcaption></figure>
+* **Identifiant** : un champ de code unique pour la zone de secours.
 
-* **tableau des zones**: La liste dans l’étude affichant à la fois les zones principales et les zones de secours.
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_59.png)
 
-<figure><img src="../.gitbook/assets/image (857).png" alt=""><figcaption></figcaption></figure>
+* **Tableau des zones** : la liste dans l’étude affichant à la fois les zones principales et les zones de secours.
 
-#### Mode d’emploi : Création d’une zone de secours
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_36.png)
 
-1. Cliquez sur le **sous-zone principale** que vous souhaitez sauvegarder.
+## Créer une zone de secours
 
-<figure><img src="../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
+1. Cliquez sur la **sous-zone principale** que vous souhaitez sauvegarder.
+
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_33_to_2_to_42.gif)
 
 2. Ouvrez le **menu des actions**.
 
-<figure><img src="../.gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_YBu0fNj8ur.png" alt=""><figcaption></figcaption></figure>
 
 3. Sélectionnez **créer une zone de secours**.
-4. Saisissez un nouveau **identifiant** et **nom**.
+4. Saisissez un nouvel **identifiant** et un nouveau **nom**.
 
-<figure><img src="../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_59_to_3_to_17.gif)
 
 5. Cliquez sur **OK** pour créer la zone.
 
-<figure><img src="../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_17.png)
 
-#### Mode d’emploi : Affectation d’un sous-traitant de secours
+## Affecter un sous-traitant de secours
 
 1. Choisissez l’étude concernée.
 
-<figure><img src="../.gitbook/assets/image (862).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_08.png)
 
 2. Cliquez sur **actions** et sélectionnez **attribuer** à nouveau.
 
-<figure><img src="../.gitbook/assets/image (863).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_09.png)
 
 3. Cliquez sur **attribuer** pour lier le territoire.
 
-<figure><img src="../.gitbook/assets/image (864).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_29.png)
 
-#### Mode d’emploi : Vérification de l’affectation
+## Vérifier l’affectation
 
-1. Accédez à **module des sous-traitants**.
+1. Accédez au **module des sous-traitants**.
 
-<figure><img src="../.gitbook/assets/image (865).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_51.png)
 
 2. Cliquez sur **modifier** sur le sous-traitant de remplacement.
 
-<figure><img src="../.gitbook/assets/image (866).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_58.png)
 
-3. Vérifiez le **zones secondaires** menu déroulant.
+3. Vérifiez le menu déroulant **zones secondaires**.
 
-<figure><img src="../.gitbook/assets/image (867).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_5_to_06.png)
 
-#### Conseils de productivité
+## Conseils
 
-* 💡 **Synchronisation automatique**: Les mises à jour du système sont effectuées immédiatement, sans actualisation manuelle, après avoir cliqué sur Affecter.
-* ⚠️ **Mise à jour des missions existantes**: Les sous-traitants de remplacement ne peuvent pas voir les missions en cours tant que vous n’avez pas mis à jour les informations du secteur et du livreur.
-* 💡 **Préserver l’infrastructure**: Les zones de secours sont temporaires et ne modifient pas la configuration de votre sous-zone principale.
+{% hint style="info" %}
+**Synchronisation automatique** : les mises à jour du système sont effectuées immédiatement, sans actualisation manuelle, après avoir cliqué sur attribuer.
+{% endhint %}
+
+{% hint style="warning" %}
+**Mise à jour des missions existantes** : les sous-traitants de remplacement ne peuvent pas voir les missions en cours tant que vous n’avez pas mis à jour les informations du secteur et du livreur.
+{% endhint %}
+
+{% hint style="info" %}
+**Préserver l’infrastructure** : les zones de secours sont temporaires et ne modifient pas la configuration de votre sous-zone principale.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Permutation du sous-traitant vers la zone de secours](subcontractor-swap-to-backup-zone.md)
+* [Permutation du sous-traitant vers la zone principale](subcontractor-swap-to-primary-zone.md)

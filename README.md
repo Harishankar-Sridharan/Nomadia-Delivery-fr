@@ -4,14 +4,36 @@ Nomadia Delivery est une solution SaaS basée sur le cloud, conçue pour simplif
 
 La plateforme prend en charge la gestion de jusqu’à 500 000 Missions, avec de puissantes fonctions de filtrage et de tri disponibles pour aider les utilisateurs à se concentrer sur les Missions pertinentes pour leurs opérations.
 
-**Dans le Backoffice**
+## Avant de commencer
+
+* Ayez à disposition les Missions que vous souhaitez gérer, par exemple sous forme de feuille de calcul Excel ou via un import par API.
+* Connaissez l’Itinéraire et la ressource de livraison auxquels les Missions seront affectées.
+
+## Présentation de la fonctionnalité
+
+* **Mission** : un flux logistique de marchandises d’un point d’origine vers une destination de livraison, tel qu’un colis, une palette ou tout autre conteneur transportable.
+* **Statuts** : suivent chaque Mission, tels que En attente, Reçue, Chargée, À livrer et Livrée.
+* **Backoffice** : l’endroit où les Missions sont importées, progressent à travers les statuts et sont affectées à un Itinéraire.
+* **Application mobile** : l’endroit où le personnel de livraison met à jour les statuts des Missions jusqu’à ce qu’elles atteignent le statut Livrée.
+
+## Dans le Backoffice
 
 * Les Missions (telles que des colis ou des palettes) peuvent être importées dans le système par différentes méthodes, notamment des feuilles de calcul Excel et des API.
-* Chaque mission progresse à travers des statuts définis jusqu’à atteindre le statut « À livrer »."
-* Les Missions sont ensuite attribuées à un itinéraire spécifique, ainsi qu’à la ressource de livraison désignée.
+* Chaque mission progresse à travers des statuts définis jusqu’à atteindre le statut « À livrer ».
+* Les Missions sont ensuite affectées à un Itinéraire spécifique, ainsi qu’à la ressource de livraison désignée.
 
-**Dans l’application mobile**
+## Dans l’application mobile
 
 * Le personnel de livraison continue de mettre à jour les statuts de la Mission au fur et à mesure de son parcours, jusqu’à atteindre finalement le statut Livrée.
 
-**Remarque**: À chaque mise à jour du statut d’une Mission, les modifications sont immédiatement synchronisées en temps réel avec la base de données du Backoffice, garantissant des informations cohérentes et à jour sur toutes les plateformes.
+## Conseils
+
+{% hint style="info" %}
+**Synchronisation en temps réel** : à chaque mise à jour du statut d’une Mission, les modifications sont immédiatement synchronisées en temps réel avec la base de données du Backoffice, garantissant des informations cohérentes et à jour sur toutes les plateformes.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Page d’accueil](page-daccueil/README.md)
+* [Missions](missions/README.md)
+* [Itinéraires](routes/README.md)

@@ -1,75 +1,95 @@
 # Réaffecter les zones manuellement
 
-Le réaffectation manuelle de zone vous permet de déplacer des missions vers une nouvelle configuration territoriale selon vos propres conditions. Utilisez cette option lors du passage entre différentes études ou configurations saisonnières où les déclencheurs automatiques ne s’appliquent pas. Vous obtiendrez des enregistrements de mission précis et des cycles de planification ininterrompus.
+La réaffectation manuelle de zone vous permet de déplacer des missions vers une nouvelle configuration territoriale selon vos propres conditions. Utilisez cette option lors du passage entre différentes études ou configurations saisonnières où les déclencheurs automatiques ne s’appliquent pas. Vous obtiendrez des enregistrements de mission précis et des cycles de planification ininterrompus.
 
-#### Pour commencer
+## Avant de commencer
 
 * Au moins deux études configurées pour la même zone.
 * Un ensemble de missions actives nécessitant une réaffectation.
-* Accédez à **Configuration** module.
-* Cliquez sur **Gérer les études et les zones**.
 
-<figure><img src="../.gitbook/assets/image (928).png" alt=""><figcaption></figcaption></figure>
+1. Accédez au module **Configuration**.
+2. Cliquez sur **Gérer les études et les zones**.
 
-#### Présentation de la fonctionnalité
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_23.png)
 
-* **Activer le bouton bascule**: Active ou désactive une configuration d’étude spécifique.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (929).png" alt=""><figcaption></figcaption></figure>
+* **Bouton bascule Activer** : active ou désactive une configuration d’étude spécifique.
 
-* **Filtre enregistré**: Isole des missions spécifiques sur la base de critères prédéfinis comme d’anciennes affectations de zone.
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_33.png)
 
-<figure><img src="../.gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
+* **Filtre enregistré** : isole des missions spécifiques sur la base de critères prédéfinis comme d’anciennes affectations de zone.
 
-* **Réaffecter la zone**: Met instantanément à jour les missions sélectionnées pour refléter la géométrie de l’étude actuellement active.
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_22.png)
 
-<figure><img src="../.gitbook/assets/image (931).png" alt=""><figcaption></figcaption></figure>
+* **Réaffecter la zone** : met instantanément à jour les missions sélectionnées pour refléter la géométrie de l’étude actuellement active.
 
-#### Mode d’emploi : basculer les études de mission
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_44.png)
 
-1. Cliquez sur le **modifier** bouton et sélectionnez **Paramètres** .
+## Basculer les études de mission
 
-<figure><img src="../.gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
+1. Cliquez sur le bouton **Modifier** et sélectionnez l’onglet **Paramètres**.
 
-2. Désactiver le **Activer le bouton bascule** et cliquez sur **Enregistrer**.
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_28.png)
 
-<figure><img src="../.gitbook/assets/image (933).png" alt=""><figcaption></figcaption></figure>
+2. Désactivez le **bouton bascule Activer** et cliquez sur **Enregistrer**.
+
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_30_to_2_to_36.gif)
 
 3. Trouvez la nouvelle étude expérimentale et cliquez sur **Modifier**.
 
-<figure><img src="../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_44.png)
 
-4. Basculez le **Activer le bouton bascule** pour la mettre en actif et cliquez sur **Enregistrer**.
+4. Activez le **bouton bascule Activer** et cliquez sur **Enregistrer**.
 
-<figure><img src="../.gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_46_to_2_to_52.gif)
 
-5. Allez à la **Missions**.
+5. Accédez à l’onglet **Missions**.
 
-<figure><img src="../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_AkVi2K5j5I.png" alt=""><figcaption></figcaption></figure>
 
-6. Appliquez un **Filtre** pour isoler les missions attribuées à l’ancienne étude.
+6. Appliquez un **Filtre** pour isoler les missions affectées à l’ancienne étude.
 
-<figure><img src="../.gitbook/assets/image (937).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_17_to_3_to_24.gif)
 
 7. Sélectionnez toutes les missions pertinentes dans le tableau.
 
-<figure><img src="../.gitbook/assets/image (938).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_39.png)
 
-8. Ouvrez le **Actions** menu et cliquez sur **Réaffecter la zone**.
+8. Ouvrez le menu **Actions** et cliquez sur **Réaffecter la zone**.
 
-<figure><img src="../.gitbook/assets/image (939).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_41_to_3_to_44.gif)
 
 9. Cliquez sur **Oui** pour confirmer la réaffectation.
 
-<figure><img src="../.gitbook/assets/image (940).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_48.png)
 
-10. Les missions sélectionnées sont réaffectées à l’étude choisie.
+### Résultat
 
-<figure><img src="../.gitbook/assets/image (941).png" alt=""><figcaption></figcaption></figure>
+Les missions sélectionnées sont réaffectées à l’étude choisie.
 
-#### Conseils de productivité
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_6K4eeR7hp3.png" alt=""><figcaption></figcaption></figure>
 
-* 💡 **Tests en toute sécurité**: Testez de nouvelles configurations en réaffectant un échantillon de missions avant d’engager l’ensemble de la flotte.
-* 💡 **Transitions saisonnières**: Utilisez la réaffectation manuelle pour basculer instantanément entre les configurations d’été et d’hiver.
-* ⚠️ **Limites de l’automatisation**: Le système ne met à jour automatiquement que les changements de géométrie, pas les nouvelles activations d’étude.
-* ⚠️ **Supervision humaine**: Vérifiez toujours la liste filtrée pour vous assurer que seules les missions prévues sont déplacées.
+## Conseils
+
+{% hint style="info" %}
+**Tests en toute sécurité** : testez de nouvelles configurations en réaffectant un échantillon de missions avant d’engager l’ensemble de la flotte.
+{% endhint %}
+
+{% hint style="info" %}
+**Transitions saisonnières** : utilisez la réaffectation manuelle pour basculer instantanément entre les configurations d’été et d’hiver.
+{% endhint %}
+
+{% hint style="warning" %}
+**Limites de l’automatisation** : le système ne met à jour automatiquement que les changements de géométrie, pas les nouvelles activations d’étude.
+{% endhint %}
+
+{% hint style="warning" %}
+**Supervision humaine** : vérifiez toujours la liste filtrée pour vous assurer que seules les missions prévues sont déplacées.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Attribution des zones aux missions](assigning-zones-to-missions.md)
+* [Création d’une étude avec zone principale](study-creation-with-primary-zone.md)

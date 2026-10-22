@@ -2,57 +2,72 @@
 
 Nomadia Delivery intègre la logistique inverse directement dans le cycle de vie standard de vos missions. Cette fonctionnalité vous permet de déclencher, planifier et exécuter les retours sans quitter la plateforme. Vous obtiendrez une visibilité complète et un routage optimisé pour chaque trajet de retour.
 
-#### Pour commencer
+## Avant de commencer
 
-* Accès au **Back Office Nomadia Delivery**.
-* Le **Identifiant de mission** de la livraison échouée ou non collectée.
-* Accès API au **Logistique inverse** point de terminaison.
-* Ouvrez le **Back Office** et localisez l’itinéraire spécifique contenant la mission à retourner.
-* Identifiez si l’article doit retourner au donneur d’ordre initial ou simplement à l’agence.
+* Accès au **Backoffice Nomadia Delivery**.
+* L’**Identifiant de mission** de la livraison échouée ou non collectée.
+* Accès API au point de terminaison **Logistique inverse**.
 
-#### Présentation de la fonctionnalité
+1. Ouvrez le **Backoffice** et localisez l’itinéraire spécifique contenant la mission à retourner.
+2. Identifiez si l’article doit retourner à l’expéditeur initial ou simplement à l’agence.
 
-* **Identifiant de mission**: Un code unique avec un **\_r** suffixe utilisé pour suivre les retours jusqu’à leur origine.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (942).png" alt=""><figcaption></figcaption></figure>
+* **Identifiant de mission** : un code unique avec un suffixe **\_r** utilisé pour suivre les retours jusqu’à leur origine.
 
-* **Retour à l’expéditeur**: Un paramètre déterminant si un article est acheminé vers l’expéditeur ou reste à l’agence.
-* **Nouveau type de mission**: Utilisez le **Type de mission** paramètre pour classer le retour comme une **Cross Docking**, **Livraison**, ou **Enlèvement** mission.
-* **Bouton Modifier**: Cela ouvre les détails de la mission pour vérifier que les adresses de collecte et de livraison ont bien été inversées.
+![](../.gitbook/assets/Case-Studies-Reverse_Logistics_timestamp_3_to_52.png)
 
-<figure><img src="../.gitbook/assets/image (943).png" alt=""><figcaption></figcaption></figure>
+* **Retour à l’expéditeur** : un paramètre déterminant si un article est acheminé vers l’expéditeur ou reste à l’agence.
+* **Nouveau type de mission** : utilisez le paramètre **Type de mission** pour classer le retour comme une mission **Cross Docking**, **Livraison** ou **Retrait**.
+* **Bouton Modifier** : il ouvre les détails de la mission pour vérifier que les adresses de collecte et de livraison ont bien été inversées.
 
-#### Mode d’emploi : créer un retour Cross Docking
+![](../.gitbook/assets/Case-Studies-Reverse_Logistics_timestamp_4_to_11.png)
 
-Utilisez cette tâche lorsque l’article doit retourner au donneur d’ordre initial via l’agence.
+## Créer un retour en cross-docking
 
-1. Copiez le **Identifiant de mission** de la mission d’origine dans le **Back Office** ou récupérez la liste des missions qui doivent être renvoyées à l’expéditeur via l’API.
+Utilisez cette tâche lorsque l’article doit retourner à l’expéditeur initial via l’agence.
 
-<figure><img src="../.gitbook/assets/image (944).png" alt=""><figcaption></figcaption></figure>
+1. Copiez l’**Identifiant de mission** de la mission d’origine dans le **Backoffice** ou récupérez, via l’API, la liste des missions qui doivent être renvoyées à l’expéditeur.
 
-2. Incluez la liste des identifiants de mission dans le tableau Mission Ids.
-3. Définissez le **Retour à l’expéditeur** paramètre à **Vrai**.
+![](../.gitbook/assets/Case-Studies-Reverse_Logistics_timestamp_2_to_35.png)
+
+2. Incluez la liste des identifiants de mission dans le tableau Mission Ids.&#x20;
+3. Définissez le paramètre **Retour à l’expéditeur** sur **Vrai**.
 4. Définissez le **Nouveau type de mission** sur **Cross Docking**.
-5. Sélectionnez **Exécuter** pour générer la ou les missions de retour**en une seule fois**.
+5. Sélectionnez **Exécuter** pour générer **en une seule fois** la ou les missions de retour.
 
-<figure><img src="../.gitbook/assets/image (945).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Reverse_Logistics_timestamp_3_to_35_to_3_to_38.gif)
 
-6. **Actualisez** l’ **Back Office** interface pour voir la nouvelle mission avec le **\_r** suffixe.
-7. Incluez la nouvelle **Cross-docking** mission dans le prochain cycle de planification pour l’optimisation.
+6. **Actualisez** l’interface du **Backoffice** pour voir la nouvelle mission avec le suffixe **\_r**.
+7. Incluez la nouvelle mission **Cross-docking** dans le prochain cycle de planification pour l’optimisation.
 
-#### Mode d’emploi : créer un retour de livraison
+## Créer un retour de livraison
 
 Utilisez cette tâche lorsque l’article doit seulement parvenir à l’agence pour être récupéré par l’expéditeur.
 
-1. Copiez le **Identifiant de mission** pour la mission de livraison échouée ou récupérez la liste des missions qui doivent être renvoyées à l’agence via l’API.
-2. Ajoutez la liste des identifiants de mission au tableau **Mission IDs** .
-3. Définissez le **Retour à l’expéditeur** paramètre à **Faux**.
-4. Définissez le **Nouveau type de mission** sur **Enlèvement**.
+1. Copiez l’**Identifiant de mission** de la mission de livraison échouée ou récupérez, via l’API, la liste des missions qui doivent être renvoyées à l’agence.
+2. Ajoutez la liste des identifiants de mission au tableau **Mission IDs**.
+3. Définissez le paramètre **Retour à l’expéditeur** sur **Faux**.
+4. Définissez le **Nouveau type de mission** sur **Retrait**.
 5. Sélectionnez **Exécuter** pour créer la mission.
-6. Actualisez l’ **Back Office** interface pour voir la nouvelle mission avec le `_r` suffixe..
+6. Actualisez l’interface du **Backoffice** pour voir la nouvelle mission avec le suffixe `_r`.
 
-#### Conseils de productivité
+## Conseils
 
-* 💡 **Suivi unifié**: Utilisez le **\_r** suffixe pour relier instantanément tout retour à sa livraison aller d’origine.
-* 💡 **Planification fluide**: Traitez les missions de retour comme des missions standard afin de les inclure dans l’optimisation automatisée des itinéraires.
-* ⚠️ **Contournements manuels**: Évitez d’utiliser des tableurs pour suivre les retours en dehors du système afin de prévenir le chaos des données.
+{% hint style="info" %}
+**Suivi unifié** : utilisez le suffixe **\_r** pour relier instantanément tout retour à sa livraison aller d’origine.
+{% endhint %}
+
+{% hint style="info" %}
+**Planification fluide** : traitez les missions de retour comme des missions standard afin de les inclure dans l’optimisation automatisée des itinéraires.
+{% endhint %}
+
+{% hint style="warning" %}
+**Contournements manuels** : évitez d’utiliser des tableurs pour suivre les retours en dehors du système afin de prévenir le chaos des données.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Missions à étapes multiples](multi-leg-missions.md)
+* [Missions de cross-docking](../missions/cross-docking-missions.md)

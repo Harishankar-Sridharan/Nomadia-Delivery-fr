@@ -1,49 +1,79 @@
 # Report par le client
 
-Pour envoyer des notifications par e-mail au client final, suivez ces étapes :
+Utilisez cette fonctionnalité pour permettre aux clients finaux de recevoir des notifications par e-mail concernant leur livraison et de reprogrammer une mission sur un créneau qui leur convient.
 
-1. Accédez à **Missions** onglet et attribuez une mission à un livreur.
-2. Cliquez sur le **Actions** menu et sélectionnez **Publier sur l’application mobile.**
+## Avant de commencer
 
-<figure><img src="../.gitbook/assets/msedge_Z22cSUlLMp.png" alt=""><figcaption></figcaption></figure>
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à l’onglet **Missions**.
+* Disposez d’une mission que vous pouvez affecter à un livreur.
+* Configurez la mission avec l’adresse e-mail de livraison/retrait, afin que Nomadia Delivery puisse envoyer des notifications par e-mail à votre client final.
 
-3. Activez le **Envoyer les bons de livraison** interrupteur pour envoyer des notifications par e-mail aux clients finaux, puis cliquez sur **OK**.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/msedge_brDwUlKDDl.png" alt=""><figcaption></figcaption></figure>
+* **Publier sur l’application mobile** : action que vous sélectionnez après avoir affecté une mission à un livreur.
+* **Envoyer les bons de livraison** : bouton qui envoie des notifications par e-mail aux clients finaux.
+* **Reprogrammer** : bouton sur lequel le client clique lorsque la date et l’heure proposées ne lui conviennent pas.
+* **Choisir** : bouton sur lequel le client clique pour confirmer le créneau préféré.
+* **Créneaux disponibles** : les créneaux que le moteur d’optimisation en temps réel suggère lorsque le client reprogramme.
 
-4. Une fenêtre contextuelle apparaîtra pour confirmer que les e-mails ont été envoyés, en indiquant le nombre d’e-mails distribués.
+## Envoyer des notifications par e-mail au client final
 
-<figure><img src="../.gitbook/assets/Image (37).png" alt=""><figcaption></figcaption></figure>
+1. Accédez à l’onglet **Missions** et affectez une mission à un livreur.
+2. Cliquez sur le menu **Actions** et sélectionnez **Publier sur l’application mobile.**
 
-Veuillez noter que la mission a été configurée avec l’adresse e-mail de livraison/retrait, ce qui permet à Nomadia Delivery d’envoyer des notifications par e-mail à votre client final.
+![](<../.gitbook/assets/image-37 (3).png>)
 
-<figure><img src="../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
+3. Activez le bouton **Envoyer les bons de livraison** pour envoyer des notifications par e-mail aux clients finaux, puis cliquez sur **OK**.
 
-Pour reprogrammer une mission, le client final doit suivre les étapes suivantes
+![](<../.gitbook/assets/image-38 (3).png>)
 
-1. Le jour de la livraison, le client recevra un e-mail.
+4. Consultez la fenêtre contextuelle qui confirme que les e-mails ont été envoyés, en indiquant le nombre d’e-mails distribués.
 
-<figure><img src="../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-39 (3).png>)
 
-2. Le client doit cliquer sur le lien dans l’e-mail pour reprogrammer la mission.
+La mission doit être configurée avec l’adresse e-mail de livraison/retrait, ce qui permet à Nomadia Delivery d’envoyer des notifications par e-mail à votre client final.
 
-<figure><img src="../.gitbook/assets/image (965).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-40 (3).png>)
 
-3. Si la date et l’heure proposées ne conviennent pas, le client peut cliquer sur le **Reprogrammer** bouton.
+## Reprogrammer une mission en tant que client final
 
-<figure><img src="../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+1. Le jour de la livraison, consultez l’e-mail que vous recevez.
 
-4. Le client peut alors choisir l’un des créneaux disponibles suggérés par le moteur d’optimisation en temps réel.
+![](<../.gitbook/assets/image-41 (3).png>)
 
-<figure><img src="../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
+2. Cliquez sur le lien dans l’e-mail pour reprogrammer la mission.
 
-4. Les créneaux horaires marqués d’une feuille verte indiquent des options écologiques, montrant qu’un livreur sera à proximité à ce moment-là, ce qui en fait le choix le plus optimal.
-5. Après avoir sélectionné un créneau préféré, le client doit cliquer sur le **Choisir** bouton.
+![](<../.gitbook/assets/image-42 (3).png>)
 
-<figure><img src="../.gitbook/assets/image (968).png" alt=""><figcaption></figcaption></figure>
+3. Si la date et l’heure proposées ne vous conviennent pas, cliquez sur le bouton **Reprogrammer**.
 
-4. Une confirmation du créneau sélectionné est envoyée au client final.
+![](<../.gitbook/assets/image-43 (3).png>)
 
-<figure><img src="../.gitbook/assets/Image 4.png" alt=""><figcaption></figcaption></figure>
+4. Choisissez l’un des créneaux disponibles suggérés par le moteur d’optimisation en temps réel.
 
-4. Le plan d’itinéraire est automatiquement mis à jour en fonction du créneau choisi par le client.
+![](<../.gitbook/assets/image-44 (3).png>)
+
+5. Sélectionnez votre créneau préféré.
+6. Cliquez sur le bouton **Choisir**.
+
+![](<../.gitbook/assets/image-45 (3).png>)
+
+7. Consultez la confirmation du créneau sélectionné qui vous est envoyée.
+
+![](<../.gitbook/assets/image-46 (3).png>)
+
+### Résultat
+
+Le plan d’itinéraire est automatiquement mis à jour en fonction du créneau choisi par le client.
+
+## Conseils
+
+{% hint style="info" %}
+**Créneaux écologiques** : les créneaux horaires marqués d’une feuille verte indiquent des options écologiques, montrant qu’un livreur sera à proximité à ce moment-là, ce qui en fait le choix le plus optimal.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Portail de réservation](README.md)
+* [Configuration du report](reschedule-configuration.md)
+* [Reprogrammer plusieurs fois un créneau préréservé](prebookingtheslotmultipletimes.md)

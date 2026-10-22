@@ -1,32 +1,52 @@
 # Accès à eCMR
 
-#### ACCÉDER À L’ECMR
+Un eCMR (lettre de voiture électronique) est l’équivalent numérique du CMR papier traditionnel utilisé dans le transport routier. Il sert de preuve du contrat de transport, d’accusé de réception des marchandises reçues et de titre de propriété. Vous téléchargez le PDF eCMR directement via le système de gestion des livraisons.
 
-Un eCMR (lettre de voiture électronique) est l’équivalent numérique du papier traditionnel-
+## Avant de commencer
 
-CMR utilisé dans le transport routier. Il sert de preuve du contrat de transport, d’accusé de réception des marchandises reçues et de titre de propriété.
+* Configurez le nom de l’entreprise, l’adresse et le numéro SIRET dans **Configuration → Général** avant de générer l’eCMR. Ces informations sont requises par la loi et sont affichées sur l’eCMR.
 
-Téléchargez le PDF eCMR directement via le système de gestion des livraisons.
+<figure><img src="../.gitbook/assets/image (125) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Connectez-vous au système de gestion des livraisons et allez dans l’onglet Missions.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/jdlpoS7Tat.png" alt=""><figcaption></figcaption></figure>
+* **eCMR (lettre de voiture électronique)** : l’équivalent numérique du CMR papier utilisé dans le transport routier. Il sert de preuve du contrat de transport, d’accusé de réception des marchandises reçues et de titre de propriété.
+* **Configuration → Général** : l’endroit où vous configurez le nom de l’entreprise, l’adresse et le numéro SIRET qui apparaissent sur l’eCMR.
+* **Actions → Lettres de voiture** : génère l’eCMR pour les itinéraires que vous sélectionnez dans l’onglet **Missions**.
+* Bouton **Télécharger** : télécharge le PDF eCMR.
 
-2\. Avant de générer l’eCMR, assurez-vous que le nom de l’entreprise, l’adresse et le numéro SIRET sont configurés dans **Configuration → Général**.
+## Télécharger l’eCMR
 
-* Ces informations sont requises par la loi et seront affichées sur l’eCMR.
+1. Connectez-vous au système de gestion des livraisons et allez dans l’onglet **Missions**.
 
-<figure><img src="../.gitbook/assets/msedge_X4zMYrDXvO.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Sélectionnez les itinéraires pour lesquels vous souhaitez générer l’eCMR.
-4. Cliquez sur Actions → Lettres de voiture.
+2. Sélectionnez les itinéraires pour lesquels vous souhaitez générer l’eCMR.
+3. Cliquez sur **Actions → Lettres de voiture**.
 
-<figure><img src="../.gitbook/assets/msedge_W5FKqWAKNf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Cliquez sur le bouton Télécharger.
+4. Cliquez sur le bouton **Télécharger**.
 
-<figure><img src="../.gitbook/assets/msedge_KTi2ZihYVG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128) (1).png" alt=""><figcaption></figcaption></figure>
 
-Le système générera le PDF eCMR, que vous pourrez télécharger et partager avec les livreurs.
+### Résultat
 
-<figure><img src="../.gitbook/assets/Image 110.png" alt=""><figcaption></figcaption></figure>
+Le système génère le PDF eCMR, que vous pouvez télécharger et partager avec les livreurs.
+
+<figure><img src="../.gitbook/assets/image (129) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Conseils
+
+{% hint style="warning" %}
+**Informations requises sur l’entreprise** : configurez le nom de l’entreprise, l’adresse et le numéro SIRET dans **Configuration → Général** avant de générer l’eCMR. Ces informations sont requises par la loi et sont affichées sur l’eCMR.
+{% endhint %}
+
+{% hint style="info" %}
+**Partager avec les livreurs** : une fois que le système a généré le PDF eCMR, vous pouvez le télécharger et le partager avec les livreurs.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Gérer les modèles de documents](README.md)
+* [Personnalisation des modèles Word](customizing-word-templates.md)

@@ -1,24 +1,68 @@
 # Comprendre les paramètres de mission
 
-### Comprendre les paramètres de mission
+Les paramètres de mission sont les éléments de données essentiels qui définissent les caractéristiques, les objectifs et les détails d’exécution de chaque mission. Comprendre ces paramètres est essentiel pour garantir que les missions sont correctement configurées, affectées et exécutées sur le terrain.
 
-Les paramètres de mission sont les éléments de données essentiels qui définissent les caractéristiques, les objectifs et les détails d’exécution de chaque mission. Comprendre ces paramètres est essentiel pour garantir que les missions sont correctement configurées, attribuées et exécutées sur le terrain.
+Ces paramètres fournissent des informations à la fois opérationnelles et logistiques utilisées par les coordinateurs, les répartiteurs et les livreurs.
 
-Ces paramètres fournissent des informations à la fois opérationnelles et logistiques utilisées par
+## Avant de commencer
 
-les coordinateurs, les répartiteurs et les livreurs.
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à la **page Mission**.
+* Identifiez la mission que vous souhaitez modifier, car vous ouvrez ses paramètres avec l’icône en forme de **crayon** située à côté.
 
-#### Accéder aux paramètres de mission
+## Accéder aux paramètres de mission
 
-Depuis la **Page Mission**
+Depuis la **page Mission** :
 
-1. Cliquez sur le **crayon** icône à côté de la mission que vous souhaitez modifier
+1. Cliquez sur l’icône en forme de **crayon** à côté de la mission que vous souhaitez modifier.
 
-<figure><img src="../../.gitbook/assets/msedge_4P6C8SLeUE.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-6 (3).png>)
 
-#### Description des paramètres de mission
+## Présentation de la fonctionnalité
 
-## Onglet Paramètres de mission
+### Onglet Paramètres de mission
+
+| Section     | Paramètre                                   | Description                                                                                         |
+| ----------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Mission** | Code-barres                                 | Généré automatiquement par Nomadia Delivery pour identifier la mission de manière unique.           |
+|             | Agence (obligatoire)                        | Champ obligatoire précisant l’agence responsable du traitement de la mission.                       |
+|             | Sous-traitant                               | Prestataire de livraison tiers affecté à la réalisation de la mission.                              |
+|             | Code-barres de l’expéditeur                 | Code-barres facultatif fourni par le donneur d’ordre.                                               |
+|             | ID du conteneur parent                      | Identifie le conteneur principal ou le groupe auquel appartient la mission.                         |
+|             | Clé de regroupement                         | Regroupe les missions liées au même client pour faciliter leur traitement.                          |
+|             | Type de conteneur                           | Type de conteneur utilisé (boîte, palette, caisse, etc.).                                           |
+|             | Origine                                     | Lieu d’expédition initial de la livraison.                                                          |
+|             | Livreur programmé                           | Nom du livreur affecté.                                                                             |
+|             | Priorité                                    | Indique l’urgence (Haute, Moyenne, Basse).                                                          |
+|             | Type de configuration du statut             | Définit le workflow appliqué à la mission.                                                          |
+|             | Un type de mot de passe                     | Code de sécurité (PIN/OTP) utilisé pour la vérification.                                            |
+|             | Statut de la mission                        | État actuel de la mission (par exemple : En attente, Livrée).                                       |
+|             | Sous-statut                                 | État détaillé au sein du statut principal.                                                          |
+|             | Motif                                       | Raison du sous-statut actuel.                                                                       |
+|             | Type de mission                             | Livraison, Enlèvement, Enlèvement et livraison enchaînés, Visite, Livraison directe.                |
+|             | Date provisoire                             | Date provisoire de la mission.                                                                      |
+|             | Date de scan au dépôt principal             | Date/heure du scan au dépôt.                                                                        |
+|             | Lieu de stockage                            | Emplacement dans le dépôt où l’article est stocké.                                                  |
+|             | Durée fixe de visite                        | Durée estimée (en minutes) pour terminer la mission.                                                |
+|             | Compatibilité avec les ressources           | Indique la compatibilité avec les ressources affectées.                                             |
+|             | Exiger que toutes les compétences soient compatibles | Garantit que la ressource possède toutes les compétences requises.                         |
+|             | Livraison avant enlèvement                  | Impose la séquence livraison avant enlèvement.                                                      |
+|             | Clés                                        | Indique si des clés ou des codes d’accès sont nécessaires.                                          |
+|             | Position                                    | Ordre de la mission dans l’itinéraire.                                                              |
+
+### Colis
+
+| Section   | Paramètre        | Description                                                  |
+| --------- | ---------------- | ------------------------------------------------------------ |
+| **Colis** | Type de produit  | Catégorie du produit (par exemple : électronique, alimentation). |
+|           | Longueur         | Longueur du colis.                                           |
+|           | Largeur          | Largeur du colis.                                            |
+|           | Hauteur          | Hauteur du colis.                                            |
+|           | Poids            | Poids du colis.                                              |
+|           | Volume           | Volume du colis.                                             |
+|           | Valeur du colis  | Valeur monétaire déclarée.                                   |
+|           | Commentaire      | Notes internes sur la mission.                               |
+
+### Enlèvement
 
 | Section        | Paramètre                                | Description                                             |
 | -------------- | ---------------------------------------- | ------------------------------------------------------- |
@@ -75,6 +119,18 @@ Depuis la **Page Mission**
 
 ### Journaux
 
-| Section      | Paramètre | Description                                                         |
-| ------------ | --------- | ------------------------------------------------------------------- |
-| **Journaux** | Journaux  | Historique des événements et des actions effectuées sur la mission. |
+| Section      | Paramètre                | Description                                                          |
+| ------------ | ------------------------ | -------------------------------------------------------------------- |
+| **Journaux** | Événements de la mission | Chronologie de tous les événements de la mission avec horodatage.    |
+
+## Conseils
+
+{% hint style="warning" %}
+**Les adresses sont figées après le routage** : l’adresse d’enlèvement et l’adresse de livraison ne sont plus modifiables après le routage.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Gérer les missions](manage-missions.md)
+* [Missions](../README.md)
+* [Comprendre la page des missions](../understanding-the-missions-page/README.md)

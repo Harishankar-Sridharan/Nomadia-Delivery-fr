@@ -1,56 +1,72 @@
 # Gestion des navettes
 
-La gestion des navettes vous permet d'organiser et de nommer les ressources de votre flotte de transport. Utilisez cette fonctionnalité pour personnaliser les identifiants des navettes et les affecter à des missions spécifiques. Cela garantit un suivi précis et une planification efficace pour vos opérations logistiques.
+La gestion des navettes vous permet d’organiser et de nommer les ressources de votre flotte de transport. Utilisez cette fonctionnalité pour personnaliser les identifiants des navettes et les affecter à des missions spécifiques. Cela garantit un suivi précis et une planification efficace pour vos opérations logistiques.
 
-**Prérequis**
+## Avant de commencer
 
 * Accès au tableau de bord **Nomadia Delivery**.
 * Autorisations administratives pour modifier les **Champs personnalisés** et les **Missions**.
 
-**Étapes**
-
 1. Connectez-vous à votre compte.
 2. Accédez au menu **Configuration**.
 
-<figure><img src="../../.gitbook/assets/msedge_L0c9mMPK0u.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_14.png)
 
-**Aperçu de la fonctionnalité**
+## Présentation de la fonctionnalité
 
-* **Configuration** : Le menu principal pour les paramètres système et la structure des données.
-* **Champs personnalisés** : Une section pour définir et modifier des libellés de données spécifiques tels que les noms de navettes.
-* **Icône crayon** : Le bouton de modification utilisé pour changer les noms des navettes existantes.
-* **Missions** : Le module où toutes les unités de flotte et le matériel sont répertoriés et gérés.
-* **Actions** : Un bouton qui ouvre un menu d'outils de gestion en masse pour les éléments sélectionnés.
-* **Modification en masse** : Un outil pour appliquer le même changement à plusieurs missions simultanément.
+* **Configuration** : le menu principal pour les paramètres système et la structure des données.
+* **Champs personnalisés** : une section pour définir et modifier des libellés de données spécifiques tels que les noms de navettes.
+* **Icône crayon** : le bouton de modification utilisé pour changer les noms des navettes existantes.
+* **Missions** : le module où toutes les unités de flotte et le matériel sont répertoriés et gérés.
+* **Actions** : un bouton qui ouvre un menu d’outils de gestion en masse pour les éléments sélectionnés.
+* **Modification en masse** : un outil pour appliquer le même changement à plusieurs missions simultanément.
 
-**Comment faire : Mettre à jour les noms des navettes**
+## Mettre à jour les noms des navettes
 
 1. Accédez à **Configuration**.
 
-<figure><img src="../../.gitbook/assets/msedge_L0c9mMPK0u (1).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_00_to_0_to_14.gif)
 
 2. Cliquez sur **Champs personnalisés**.
-3. Cliquez sur l'**icône crayon** à côté du nom du champ navette.
+3. Cliquez sur l’**icône crayon** à côté du nom du champ navette.
+
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_23.png)
+
 4. Modifiez la liste des noms de navettes selon vos besoins.
 5. Cliquez sur **Enregistrer**.
 
-<figure><img src="../../.gitbook/assets/msedge_iuBWjOKbAA.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_28_to_0_to_38.gif)
 
-**Comment faire : Affecter des navettes aux missions**
+## Affecter des navettes aux missions
 
 1. Accédez à **Missions**.
 2. Cochez les cases des missions que vous souhaitez mettre à jour.
 
-<figure><img src="../../.gitbook/assets/msedge_bgGvS2vGn7.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_38_to_0_to_50.gif)
 
 3. Cliquez sur **Actions**.
 4. Cliquez sur **Modification en masse**.
+
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02.png)
+
 5. Cliquez sur le menu déroulant à côté de **Noms des navettes**.
+
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02_to_1_to_07.gif)
+
 6. Sélectionnez un nom de navette dans la liste.
 7. Cliquez sur **Enregistrer**.
 
-<figure><img src="../../.gitbook/assets/msedge_LlZ5fNFAem.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_12_to_1_to_20.gif)
 
-**Conseils de productivité**
+## Conseils
 
-* 💡 **Mises à jour en masse** : Gagnez du temps en utilisant la fonctionnalité **Modification en masse** pour affecter la même navette à plusieurs missions en une seule fois.
+{% hint style="info" %}
+**Mises à jour en masse** : gagnez du temps en utilisant la fonctionnalité **Modification en masse** pour affecter la même navette à plusieurs missions en une seule fois.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Mode Sans Itinéraire](README.md)
+* [Gérer les dépôts / bâtiments](gerer-les-depots-batiments.md)
+* [Modifier en masse les données de mission](../../missions/bulk-edit-mission-data.md)
+* [Champs personnalisés](../../missions/custom-fields/README.md)

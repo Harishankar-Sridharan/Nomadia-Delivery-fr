@@ -9,7 +9,7 @@ Avant d’utiliser cette fonctionnalité, assurez-vous de remplir les conditions
 * Un compte utilisateur actif pour **Nomadia Delivery** disposant de privilèges d’administration.
 * Des profils de conteneurs parent et enfant préconfigurés.
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Récupérer le statut des missions enfants** : ce paramètre permet aux conteneurs parents d’hériter du statut d’avancement des conteneurs enfants. Il garantit des mises à jour automatiques.
 * **Scanner tous les articles du conteneur** : ce bouton bascule oblige les opérateurs à scanner chaque article enfant avant de procéder à la livraison. Il garantit l’exactitude de la livraison.

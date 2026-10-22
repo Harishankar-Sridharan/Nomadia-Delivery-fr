@@ -1,22 +1,49 @@
 # Créer un sous-statut
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
-3. Sous Mes données, cliquez sur **Sous-statuts**.
+Créez un sous-statut avec un code et un type de configuration du statut afin de suivre plus finement l’avancement d’une tâche de livraison.
 
-<figure><img src="../.gitbook/assets/msedge_5lP9g9ClD7.png" alt=""><figcaption></figcaption></figure>
+## Avant de commencer
 
-4. Cliquez sur le **Actions** menu déroulant
-5. Cliquez sur **Ajouter**
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à la page **Configuration**.
+* Ayez à portée de main le code du sous-statut et sachez quel type de **Configuration du statut** sélectionner.
 
-<figure><img src="../.gitbook/assets/msedge_HnJtqSBJIR.png" alt=""><figcaption></figcaption></figure>
+## Présentation de la fonctionnalité
 
-6. Saisissez le **Sous-statut** code
-7. Sélectionnez le **Configuration du statut** type
-8. Cliquez sur **Enregistrer**
+* **Sous-statut** : le code qui identifie le sous-statut.
+* **Configuration du statut** : le type que vous sélectionnez pour le sous-statut.
+* **Actions** > **Ajouter** : ouvre le formulaire de création d’un sous-statut.
 
-<figure><img src="../.gitbook/assets/msedge_BbKbDwC8cL.png" alt=""><figcaption></figcaption></figure>
+## Créer un sous-statut
 
-Le sous-statut a été créé avec succès
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous **Mes données**, cliquez sur **Sous-statuts**.
 
-<figure><img src="../.gitbook/assets/msedge_fMvoRuZxwu.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-80.png)
+
+4. Cliquez sur le menu déroulant **Actions**.
+5. Cliquez sur **Ajouter**.
+
+![](../.gitbook/assets/image-81.png)
+
+6. Saisissez le code du **Sous-statut**.
+7. Sélectionnez le type de **Configuration du statut**.
+
+![](../.gitbook/assets/image-82.png)
+
+8. Cliquez sur **Enregistrer**.
+
+![](../.gitbook/assets/image-83.png)
+
+### Résultat
+
+Le sous-statut est créé avec succès.
+
+![](../.gitbook/assets/image-84.png)
+
+## Rubriques connexes
+
+* [Gérer les sous-statuts](README.md)
+* [Personnaliser les sous-statuts](customizing-substatus.md)
+* [Gérer la configuration des sous-statuts](manage-substatus-configuration.md)
+* [Déclencher des notifications pour les changements de sous-statut](trigger-notifications-for-sub-status-changes.md)

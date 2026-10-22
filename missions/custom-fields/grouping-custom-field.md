@@ -1,33 +1,55 @@
 # Regroupement de champs personnalisés
 
-Pour regrouper des champs personnalisés dans le formulaire de création de mission à l’aide d’un nom de groupe :
+Vous pouvez regrouper des champs personnalisés dans le formulaire de création de mission à l’aide d’un nom de groupe.
 
-* Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration.**
-* Dans la liste, sélectionnez **Champs personnalisés**.
+## Avant de commencer
 
-<figure><img src="../../.gitbook/assets/msedge_nJ49HuXZmD.png" alt=""><figcaption></figcaption></figure>
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à l’onglet **Configuration**.
+* Assurez-vous qu’un champ personnalisé de mission existant est disponible pour modification.
+* Décidez d’un nom de groupe, existant ou nouveau.
 
-* Cliquez sur **Missions**.
+## Présentation de la fonctionnalité
 
-<figure><img src="../../.gitbook/assets/msedge_R6MOn7CYLW.png" alt=""><figcaption></figcaption></figure>
+* **Champs personnalisés** : entrée de la liste **Configuration** où vous gérez les champs personnalisés.
+* **Missions** : onglet qui liste les champs personnalisés utilisés dans le formulaire de création de mission.
+* **Icône Crayon** : ouvre un champ personnalisé existant pour modification.
+* **Nom du groupe** : champ où vous saisissez un nom de groupe existant ou nouveau pour le champ personnalisé.
+* **Tableau des champs personnalisés** : affiche le nom du groupe attribué après l’enregistrement.
 
-* Cliquez sur le **icône Crayon** pour modifier un champ personnalisé existant.
+## Regrouper des champs personnalisés
 
-<figure><img src="../../.gitbook/assets/msedge_TRovlhkY2s.png" alt=""><figcaption></figcaption></figure>
+1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
 
-Dans le **Nom du groupe** champ :
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Saisissez un **nom du groupe**.
-* Choisissez un groupe existant ou créez-en un nouveau.
+2. Dans la liste, sélectionnez **Champs personnalisés**.
 
-<figure><img src="../../.gitbook/assets/msedge_0D8pLQmgYl.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Cliquez sur **Enregistrer** pour appliquer les modifications.
+3. Cliquez sur **Missions**.
 
-<figure><img src="../../.gitbook/assets/msedge_iYEpLIiDR0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Le nom du groupe attribué sera affiché dans le tableau des champs personnalisés.
+4. Cliquez sur l’**icône Crayon** pour modifier un champ personnalisé existant.
 
-<figure><img src="../../.gitbook/assets/msedge_IaRHidsRTZ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-<br>
+5. Dans le champ **Nom du groupe**, saisissez un **nom de groupe**. Vous pouvez choisir un groupe existant ou en créer un nouveau.
+
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+
+6. Cliquez sur **Enregistrer** pour appliquer les modifications.
+
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Résultat
+
+Le nom du groupe attribué est affiché dans le tableau des champs personnalisés.
+
+<figure><img src="../../.gitbook/assets/en-image (9).png" alt=""><figcaption></figcaption></figure>
+
+## Rubriques connexes
+
+* [Champs personnalisés](README.md)
+* [Ajout d’une mission](../adding-a-mission.md)
+* [Configurer la visibilité des missions](configuring-mission-visibility.md)

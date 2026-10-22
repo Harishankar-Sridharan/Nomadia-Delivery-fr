@@ -104,7 +104,7 @@ Prérequis et configuration requise :
 **Accès direct aux arrêts** : cliquez directement sur une ligne d’itinéraire pour ouvrir la vue des arrêts sans passer par des menus secondaires.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Vue Gantt](ganttview.md)
 * [Éditeur d’itinéraires](routeeditor.md)

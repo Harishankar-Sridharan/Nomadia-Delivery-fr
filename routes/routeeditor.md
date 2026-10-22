@@ -23,7 +23,7 @@ La fonctionnalité **Éditeur d’itinéraire** permet aux répartiteurs de gér
 
 ![Cliquez sur l’icône de modification à côté du nom de la livraison](../.gitbook/assets/RouteEditor_BeforeBegin_003.gif)
 
-## Vue d’ensemble de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Date** : définit la date d’exécution prévue de l’itinéraire.
 * **Heure de début** : définit l’heure de début officielle quotidienne de l’itinéraire.

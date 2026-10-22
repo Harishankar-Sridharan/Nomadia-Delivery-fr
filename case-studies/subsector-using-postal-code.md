@@ -2,67 +2,80 @@
 
 La sous-sectorisation divise automatiquement une zone principale en sous-zones individuelles en fonction de ses codes postaux associés. Utilisez cette fonctionnalité pour créer instantanément des territoires précis sans avoir besoin de données de mission ni d’équilibrage manuel. C’est la voie la plus rapide vers une zone de livraison entièrement structurée.
 
-#### Pour commencer
+## Avant de commencer
 
 * Une zone principale existante avec plusieurs codes postaux associés
-* Accès au module de configuration
-* Rendez-vous dans le module de configuration et ouvrez Gérer les études et les zones.
+* Accès au module Configuration
 
-<figure><img src="../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+1. Rendez-vous dans le module Configuration et ouvrez Gérer les études et les zones.
 
-* Recherchez l’étude avec laquelle vous travaillez et cliquez sur le **Modifier** bouton.
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_1_to_49.png)
 
-<figure><img src="../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+2. Recherchez l’étude avec laquelle vous travaillez et cliquez sur le bouton **Modifier**.
 
-#### Présentation de la fonctionnalité
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_C8RpeX1DyG.png" alt=""><figcaption></figcaption></figure>
 
-* **onglet Zone** : La zone au sein d’une étude où vous gérez les zones principales et les sous-zones.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
+* **Onglet Zone** : la zone au sein d’une étude où vous gérez les zones principales et les sous-zones.
 
-* **menu Actions** : Ce menu contient des outils pour modifier la zone principale sélectionnée.
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_tk6Ygg4ERm.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+* **Menu Actions** : ce menu contient des outils pour modifier la zone principale sélectionnée.
 
-* **Sous-sectoriser en fonction des codes postaux** : Cet outil génère instantanément une sous-zone pour chaque code postal de votre zone.
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_23.png)
 
-<figure><img src="../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
+* **Sous-sectoriser en fonction des codes postaux** : cet outil génère instantanément une sous-zone pour chaque code postal de votre zone.
 
-**tableau des zones** : Cette liste affiche immédiatement les sous-zones générées et leurs propriétés.
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_27.png)
 
-<figure><img src="../.gitbook/assets/image (733).png" alt=""><figcaption></figcaption></figure>
+* **Tableau des zones** : cette liste affiche immédiatement les sous-zones générées et leurs propriétés.
 
-#### Mode d’emploi : Sous-sectoriser une zone principale
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_39.png)
 
-1. Accédez à **onglet Zone** dans votre étude.
+## Sous-sectoriser une zone principale
 
-<figure><img src="../.gitbook/assets/image (734).png" alt=""><figcaption></figcaption></figure>
+1. Accédez à l’**onglet Zone** dans votre étude.
+
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_1_to_54.png)
 
 2. Sélectionnez la **zone principale** que vous souhaitez sous-sectoriser.
 
-<figure><img src="../.gitbook/assets/image (735).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_01.png)
 
 3. Ouvrez le **menu Actions**.
 
-<figure><img src="../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_23.png)
 
-4. Cliquez **Sous-sectoriser en fonction des codes postaux**.
+4. Cliquez sur **Sous-sectoriser en fonction des codes postaux**.
 
-<figure><img src="../.gitbook/assets/image (736).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_27_to_2_to_44.gif)
 
 5. Passez en revue les nouvelles sous-zones répertoriées dans le **tableau des zones**.
 
-<figure><img src="../.gitbook/assets/image (733).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_39.png)
 
 6. Vérifiez les limites géographiques sur la **carte**.
 
-<figure><img src="../.gitbook/assets/image (737).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_2_to_44.png)
 
-**Conseils de productivité**
+## Conseils
 
-* 💡 **Configuration instantanée** : Créez des dizaines de sous-zones en un clic, sans charger les données de mission ni attendre le traitement.
-* 💡 **Précision maximale** : Utilisez cette méthode lorsque les limites des codes postaux constituent les repères territoriaux les plus précis sur votre marché.
-* ⚠️ **Équilibrage de la charge de travail** : Évitez cette fonctionnalité si vous devez équilibrer les charges de travail entre les missions ; utilisez plutôt le gestionnaire de territoires.
+{% hint style="info" %}
+**Configuration instantanée** : créez des dizaines de sous-zones en un clic, sans charger les données de mission ni attendre le traitement.
+{% endhint %}
 
-\
-<br>
+{% hint style="info" %}
+**Précision maximale** : utilisez cette méthode lorsque les limites des codes postaux constituent les repères territoriaux les plus précis sur votre marché.
+{% endhint %}
+
+{% hint style="warning" %}
+**Équilibrage de la charge de travail** : évitez cette fonctionnalité si vous devez équilibrer les charges de travail entre les missions ; utilisez plutôt le gestionnaire de territoires.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Création d’une étude avec zone principale](study-creation-with-primary-zone.md)
+* [Sous-sectoriser la zone principale](sub-sectorize-primary-zone/README.md)
+* [Attribution des sous-zones](assigning-sub-zones.md)

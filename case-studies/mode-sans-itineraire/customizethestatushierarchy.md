@@ -11,7 +11,7 @@ Cette fonctionnalité est activée exclusivement pour les comptes configurés en
 * Créez un conteneur parent dans le système.
 * Créez un conteneur enfant.
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Types de conteneurs** : Sélectionne la catégorie de conteneur que vous souhaitez configurer.
 * **Nom de l’identifiant** : Indique le nom unique permettant d’identifier le type de conteneur.
@@ -92,7 +92,7 @@ Suivez ces étapes de configuration initiale :
 **Activer la récupération du statut** : Activez d’abord **Récupérer le statut des missions enfants**, sinon l’option **Gérer la hiérarchie des statuts** ne sera pas visible.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Personnaliser le flux de travail](personnaliser-le-flux-de-travail.md)
 * [Mode Sans Itinéraire](README.md)

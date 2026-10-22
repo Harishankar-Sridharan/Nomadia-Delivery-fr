@@ -2,49 +2,74 @@
 
 La fonctionnalité Déclencher des notifications pour les changements de sous-statut permet une communication précise et en temps réel avec toutes les parties prenantes impliquées dans le mouvement des colis. Elle améliore la transparence, la coordination et la qualité globale du service sur les opérations du premier kilomètre, du kilomètre intermédiaire et du dernier kilomètre.
 
-Pour configurer les notifications liées aux changements de sous-statut, suivez les étapes ci-dessous
+## Avant de commencer
 
-1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration.**
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à l’onglet **Configuration**.
+* Assurez-vous que le sous-statut que vous souhaitez modifier existe déjà dans la liste **Sous-statuts**.
+* Préparez un modèle de message personnalisé, car seuls les modèles de messages personnalisés sont pris en charge.
+* Ayez à portée de main les adresses e-mail ou les numéros de mobile si vous notifiez **Autres destinataires**.
+
+## Présentation de la fonctionnalité
+
+Les notifications peuvent être envoyées aux destinataires suivants :
+
+* **Expéditeur** : l’expéditeur initial de la mission. Les notifications sont envoyées à l’adresse e-mail ou au numéro de mobile du sous-traitant enregistré dans les détails de la mission.
+* **Destinataire** : le destinataire initial de la mission (client). Les notifications sont envoyées à l’adresse e-mail de livraison ou au numéro de mobile enregistré dans les détails de la mission.
+* **Autres destinataires** : les parties prenantes internes telles que les équipes d’exploitation ou de logistique. Ce champ accepte plusieurs adresses e-mail ou numéros de téléphone, séparés par des virgules. Ce champ est activé uniquement lorsque **Autres destinataires** est sélectionné dans la colonne **Destinataire**.
+
+## Configurer les notifications pour les changements de sous-statut
+
+1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
+
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 2. Sélectionnez **Sous-statuts** dans la liste.
 
-<figure><img src="../.gitbook/assets/msedge_uHHYp8bT0g.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3\. Cliquez sur l'icône **crayon** à côté du sous-statut existant pour le modifier.
+3. Cliquez sur l’icône **crayon** à côté du sous-statut existant pour le modifier.
 
-<figure><img src="../.gitbook/assets/msedge_h0HJfiHeSH.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. La section Configuration des messages personnalisés s'affiche en bas de la page.
+4. Repérez la section Configuration des messages personnalisés en bas de la page.
 
-<figure><img src="../.gitbook/assets/msedge_rr3SjXnBps.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Cliquez sur l'icône **+** bouton pour ajouter la configuration de notification au sous-statut.
+5. Cliquez sur le bouton **+** pour ajouter la configuration de notification au sous-statut.
 
-<figure><img src="../.gitbook/assets/msedge_wZ7kOCnvJV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-6. Les notifications peuvent être envoyées aux destinataires suivants :
+6. Sélectionnez le destinataire : **Expéditeur**, **Destinataire** ou **Autres destinataires**.
 
-* **Expéditeur** – L'expéditeur initial de la mission. Les notifications sont envoyées à l'adresse e-mail ou au numéro de mobile du prestataire enregistré dans les détails de la mission.
-* **Destinataire** – Le destinataire initial de la mission (client). Les notifications sont envoyées à l'adresse e-mail de livraison ou au numéro de mobile enregistré dans les détails de la mission.
-* **Autres destinataires** – Les parties prenantes internes telles que les équipes d'exploitation ou de logistique. Ce champ accepte plusieurs adresses e-mail ou numéros de téléphone, séparés par des virgules.
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/msedge_hV9xSW7YPG.png" alt=""><figcaption></figcaption></figure>
+7. Sélectionnez un **destinataire**, un **type de message** (e-mail ou SMS) et un **modèle de message** pour créer la configuration de notification.
 
-7\. Les notifications peuvent être envoyées par e-mail ou SMS.
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Pour créer une configuration de notification, sélectionnez un **destinataire**, **type de message**, et **modèle de message**.
-* Seuls les **modèles de messages personnalisés** sont pris en charge dans ce cas.
+8. Si vous avez sélectionné **Autres destinataires**, saisissez plusieurs adresses e-mail ou numéros de téléphone dans le champ Autres destinataires, séparés par des virgules.
 
-<figure><img src="../.gitbook/assets/msedge_qRWj5HYW8u.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-8.  Le champ Autres destinataires vous permet de saisir plusieurs adresses e-mail ou numéros de téléphone, séparés par des virgules.
+9. Cliquez sur **Enregistrer** pour appliquer et enregistrer les modifications.
 
-    * Ce champ est activé uniquement lorsque **Autres destinataires** est sélectionné dans la colonne **Destinataire.**
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image 111.png" alt=""><figcaption></figcaption></figure>
-9. Une fois la configuration terminée, cliquez sur **Enregistrer** pour appliquer et enregistrer les modifications.
+### Résultat
 
-<figure><img src="../.gitbook/assets/msedge_llaL3jU34R.png" alt=""><figcaption></figcaption></figure>
+Lorsque l’utilisateur mobile déclenche un sous-statut, tous les destinataires configurés reçoivent automatiquement la mise à jour par e-mail ou SMS en même temps, ce qui fournit des informations en temps réel sur le mouvement de la mission.
 
-Lorsque l'utilisateur mobile déclenche un sous-statut, tous les destinataires configurés reçoivent automatiquement la mise à jour par e-mail ou SMS en même temps, fournissant des informations en temps réel sur le mouvement de la mission.
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image 112.png" alt=""><figcaption></figcaption></figure>
+## Conseils
+
+{% hint style="info" %}
+**Modèles de messages** : seuls les **modèles de messages personnalisés** sont pris en charge dans ce cas.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Gérer les sous-statuts](README.md)
+* [Créer un sous-statut](creating-a-substatus.md)
+* [Gérer les notifications](../manage-notifications/README.md)
+* [Personnaliser les modèles d’e-mail](../manage-notifications/customize-email-templates.md)

@@ -81,7 +81,7 @@ Une fois que l’utilisateur du Backoffice a confirmé l’affectation, la deman
 **Option Réorganiser** : l’option Réorganiser est désactivée pour les itinéraires qui contiennent des emplacements de retrait et de livraison dynamiques, car cette fonctionnalité n’est pas compatible avec ce mode.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Missions de drop shipping](../missions/drop-shipping-missions.md)
 * [Création manuelle d’un itinéraire](manualroutecreation.md)

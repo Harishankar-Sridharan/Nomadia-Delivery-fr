@@ -20,7 +20,7 @@ Prérequis et configuration système :
 
 ![Cliquer sur Modèles d’e-mail sur le côté gauche de l’écran](../.gitbook/assets/EmailTemplates_BeforeBegin_002.gif)
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Modèles d’e-mail** : Menu de gauche où sont listés tous vos modèles configurés.
 * **Actions** : Bouton déroulant qui ouvre les commandes permettant de gérer vos modèles d’e-mail.
@@ -75,7 +75,7 @@ Utilisez le mot-clé **$** pour ajouter les champs appropriés.
 **Basculement de mode** : Basculez de **Mode standard** vers **Mode avancé** si vous souhaitez utiliser les options d’édition avancées.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [E-mail](email.md)
 * [SMS](sms.md)

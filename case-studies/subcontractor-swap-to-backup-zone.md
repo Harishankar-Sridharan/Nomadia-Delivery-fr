@@ -1,71 +1,86 @@
 # Permutation du sous-traitant vers la zone de secours
 
-Cette fonctionnalité vous permet de réattribuer rapidement des missions lorsqu'un sous-traitant principal n'est pas disponible. Vous remapperez les missions concernées vers une zone de secours et un sous-traitant de remplacement en une seule action. Cela garantit que votre charge de travail reste visible pour l'équipe de remplacement et évite les retards de livraison.
+Cette fonctionnalité vous permet de réaffecter rapidement des missions lorsqu’un sous-traitant principal n’est pas disponible. Vous réaffecterez les missions concernées à une zone de secours et à un sous-traitant de remplacement en une seule action. Cela garantit que votre charge de travail reste visible pour l’équipe de remplacement et évite les retards de livraison.
 
-#### Pour commencer
+## Avant de commencer
 
 Avant de commencer, assurez-vous que les conditions suivantes sont remplies :
 
 * Une zone de secours est déjà créée.
 * Un sous-traitant de remplacement est affecté à cette zone de secours.
 * Vous avez identifié la sous-zone principale qui nécessite une couverture.
-* Ouvrez le **Missions** onglet pour commencer l'échange.
 
-<figure><img src="../.gitbook/assets/image (868).png" alt=""><figcaption></figcaption></figure>
+1. Ouvrez l’onglet **Missions** pour commencer la permutation.
 
-#### Présentation de la fonctionnalité
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_1_to_51.png)
 
-* **Panneau de filtrage**: Utilisez-le pour isoler les missions appartenant à une sous-zone spécifique.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (869).png" alt=""><figcaption></figcaption></figure>
+* **Panneau de filtrage** : utilisez-le pour isoler les missions appartenant à une sous-zone spécifique.
 
-* **Tableau des missions**: Affiche la liste filtrée des missions nécessitant une réattribution.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_04.png)
 
-<figure><img src="../.gitbook/assets/image (870).png" alt=""><figcaption></figcaption></figure>
+* **Tableau des missions** : affiche la liste filtrée des missions nécessitant une réaffectation.
 
-* **menu Actions**: Contient l'outil permettant de réattribuer plusieurs missions à la fois.
-* **Attribuer au sous-traitant**: Ouvre la fenêtre contextuelle pour modifier le propriétaire de la mission et les zones.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_22.png)
 
-<figure><img src="../.gitbook/assets/image (871).png" alt=""><figcaption></figcaption></figure>
+* **Menu Actions** : contient l’outil permettant de réaffecter plusieurs missions à la fois.
+* **Affecter au sous-traitant** : ouvre la fenêtre contextuelle pour modifier le propriétaire de la mission et les zones.
 
-* **Attribuer les zones principales**: Un interrupteur permettant d'attribuer les missions au territoire principal du sous-traitant.
-* **Attribuer la zone secondaire**: Un interrupteur permettant d'attribuer les missions spécifiquement à la zone de secours.
-* **Sélectionner le tableau des sous-traitants**: Répertorie les sous-traitants disponibles et leur couverture géographique pour les missions sélectionnées.
-* **Appliquer**: Exécute la modification sur tous les enregistrements de mission sélectionnés.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_48.png)
 
-#### Mode d'emploi : isoler les missions concernées
+* **Affecter les zones principales** : un interrupteur permettant d’affecter les missions au territoire principal du sous-traitant.
+* **Affecter la zone secondaire** : un interrupteur permettant d’affecter les missions spécifiquement à la zone de secours.
+* **Tableau de sélection du sous-traitant** : répertorie les sous-traitants disponibles et leur couverture géographique pour les missions sélectionnées.
+* **Appliquer** : exécute la modification sur tous les enregistrements de mission sélectionnés.
 
-1. Accédez à **Panneau de filtrage** et saisissez « sector ».
-2. Choisissez le **Parmi** option de filtrage.
-3. Sélectionnez la sous-zone principale qui nécessite un échange de secours.
+## Isoler les missions concernées
 
-<figure><img src="../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
+1. Accédez au **Panneau de filtrage** et saisissez « sector ».
+2. Choisissez l’option de filtrage **Parmi**.
+3. Sélectionnez la sous-zone principale qui nécessite une permutation vers la zone de secours.
 
-#### Mode d'emploi : échanger les sous-traitants
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_06_to_2_to_14.gif)
+
+## Permuter les sous-traitants
 
 1. Sélectionnez toutes les missions dans le **Tableau des missions**.
-2. Ouvrez le **menu Actions** et cliquez sur **Attribuer au sous-traitant**.
+2. Ouvrez le **menu Actions** et cliquez sur **Affecter au sous-traitant**.
 
-<figure><img src="../.gitbook/assets/image (873).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_39_to_2_to_46.gif)
 
-3. Assurez-vous que le **Attribuer les zones principales** interrupteur est désactivé.
-4. Activez la **Attribuer la zone secondaire** interrupteur.
-5. Sélectionnez le sous-traitant de remplacement affichant une couverture à 100 % dans le **Sélectionner le tableau des sous-traitants**.
-6. Cliquez sur **Appliquer** pour finaliser l'échange.
+3. Assurez-vous que l’interrupteur **Affecter les zones principales** est désactivé.
+4. Activez l’interrupteur **Affecter la zone secondaire**.
+5. Sélectionnez le sous-traitant de remplacement affichant une couverture à 100 % dans le **Tableau de sélection du sous-traitant**.
+6. Cliquez sur **Appliquer** pour finaliser la permutation.
 
-<figure><img src="../.gitbook/assets/image (874).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_3_to_18_to_3_to_47.gif)
 
-#### Mode d'emploi : vérifier l'échange
+## Vérifier la permutation
 
 1. Retournez au **Panneau de filtrage** et recherchez « sector ».
-2. Sélectionnez le **Parmi** opérateur.
-3. Choisissez la zone de secours que vous venez d'attribuer.
-4. Confirmez que les missions apparaissent maintenant sous la bonne zone de secours et le bon sous-traitant.
+2. Sélectionnez l’opérateur **Parmi**.
+3. Choisissez la zone de secours que vous venez d’affecter.
+4. Confirmez que les missions apparaissent maintenant sous le bon secteur de secours et le bon sous-traitant.
 
-<figure><img src="../.gitbook/assets/image (875).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_4_to_17.png)
 
-#### Conseils de productivité
+## Conseils
 
-* 💡 **Efficacité**: Une seule action met simultanément à jour le secteur, le sous-traitant et le livreur pour toutes les missions.
-* ⚠️ **Itinéraire du conducteur**: Si aucun livreur n'est affecté à la zone de secours, le système efface le conducteur existant. Cela évite que des missions soient routées vers des conducteurs qui ne sont plus responsables du territoire.
-* 💡 **Validation de la couverture**: Recherchez une couverture à 100 % dans le tableau des sous-traitants afin de vous assurer que leur zone de secours correspond aux missions sélectionnées.
+{% hint style="info" %}
+**Efficacité** : une seule action met simultanément à jour le secteur, le sous-traitant et le livreur pour toutes les missions.
+{% endhint %}
+
+{% hint style="warning" %}
+**Itinéraire du conducteur** : si aucun livreur n’est affecté à la zone de secours, le système efface le conducteur existant. Cela évite que des missions soient routées vers des conducteurs qui ne sont plus responsables du territoire.
+{% endhint %}
+
+{% hint style="info" %}
+**Validation de la couverture** : recherchez une couverture à 100 % dans le tableau des sous-traitants afin de vous assurer que leur zone de secours correspond aux missions sélectionnées.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Création d’une zone de secours](creating-backup-zone.md)
+* [Permutation du sous-traitant vers la zone principale](subcontractor-swap-to-primary-zone.md)

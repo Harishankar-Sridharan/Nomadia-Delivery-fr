@@ -80,7 +80,7 @@ Prérequis :
 **Avertissement sur les itinéraires bloqués** : évitez de répartir les itinéraires qui affichent un symbole Bloqué à côté du symbole Publié.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Vue tableau](tableview.md)
 * [Éditeur d’itinéraires](routeeditor.md)

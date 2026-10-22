@@ -1,132 +1,158 @@
 # Plans fixes et récurrents
 
-Ce guide fournit des instructions étape par étape aux transporteurs pour créer des plans fixes et récurrents dans Nomadia Delivery. Ces fonctionnalités sont conçues pour aider les sous-traitants ayant des engagements de livraison et d’enlèvement à long terme en simplifiant le processus de planification, en améliorant la précision et en offrant de la flexibilité pour gérer les tournées sur de longues périodes.
+Ce guide fournit des instructions étape par étape aux transporteurs pour créer des plans fixes et récurrents dans Nomadia Delivery. Ces fonctionnalités sont conçues pour aider les sous-traitants ayant des engagements de livraison et de retrait à long terme en simplifiant le processus de planification, en améliorant la précision et en offrant de la flexibilité pour gérer les itinéraires sur de longues périodes.
 
-« Suivez ces étapes pour créer un plan fixe et récurrent : »
+## Avant de commencer
 
-1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet Sous-traitants.
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à l’onglet **Sous-traitants**.
+* Assurez-vous que le sous-traitant pour lequel vous souhaitez planifier existe et qu’il possède des adresses dans sa **Liste d’adresses**.
+* Connaissez les dates de début et de fin de la période d’optimisation ainsi que les véhicules pour lesquels les itinéraires doivent être créés.
 
-<figure><img src="../.gitbook/assets/msedge_hpMWLta00l.png" alt=""><figcaption></figcaption></figure>
+## Présentation de la fonctionnalité
+
+Les détails du plan d’itinéraire sont les suivants :
+
+* **Nom** : attribuez un nom pour faciliter la référence ultérieure.
+* **Activé** : activez le bouton bascule pour activer le plan d’itinéraire.
+* **Itinéraires dédiés** : activez cette option si le plan doit générer des itinéraires dédiés qui ne peuvent pas être combinés avec les missions d’autres sous-traitants.
+* **Récurrent** : activez cette option pour rendre le plan récurrent.
+* **Du et au** : indiquez les dates de début et de fin pour définir la période de validité du plan.
+* **Répéter tous les** : définissez la fréquence de récurrence (hebdomadaire ou mensuelle).
+* **Jours de la semaine** : choisissez les jours de répétition du plan et définissez, si nécessaire, l’intervalle entre les récurrences.
+
+## Créer un plan fixe et récurrent
+
+1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Sous-traitants**.
+
+![](<../.gitbook/assets/image-1 (7).png>)
 
 2. Sélectionnez le sous-traitant pour lequel vous souhaitez créer un plan fixe et récurrent, puis cliquez sur l’icône crayon pour le modifier.
 
-<figure><img src="../.gitbook/assets/msedge_usqC7Kaqdd.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-2 (8).png>)
 
-3. Accédez à la liste des adresses.
+3. Accédez à la **Liste d’adresses**.
 4. Sélectionnez les adresses pour lesquelles vous souhaitez créer le plan fixe et récurrent.
 
-<figure><img src="../.gitbook/assets/msedge_WOw6VHrHan.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-3 (7).png>)
 
-5. Ouvrez le menu Actions et choisissez Ajouter à une simulation.
+5. Ouvrez le menu **Actions** et choisissez **Ajouter à une simulation**.
 
-<figure><img src="../.gitbook/assets/msedge_MVWIDUu7V4.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-4 (7).png>)
 
-6. Cliquez sur Créer une simulation ou sélectionnez une simulation existante dans la liste déroulante Sélectionner une simulation.
+6. Cliquez sur **Créer une simulation** ou sélectionnez une simulation existante dans la liste déroulante **Sélectionner une simulation**.
 
-<figure><img src="../.gitbook/assets/msedge_W1yJnOojyd.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-5 (7).png>)
 
 7. Définissez les dates de début et de fin de la période d’optimisation.
 
-<figure><img src="../.gitbook/assets/ShareX_ynsjJEHfeW.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-6 (7).png>)
 
-8. Sélectionnez les véhicules pour lesquels les tournées doivent être créées.
-9. Cliquez sur Optimiser pour lancer le processus d’optimisation.
+8. Sélectionnez les véhicules pour lesquels les itinéraires doivent être créés.
+9. Cliquez sur **Optimiser** pour lancer le processus d’optimisation.
 
-<figure><img src="../.gitbook/assets/beOpgU4D10.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-7 (7).png>)
 
-10. Une fois l’optimisation en cours, cliquez sur Arrêter pour voir les résultats, puis cliquez sur Afficher la simulation pour consulter le résultat.
+10. Une fois l’optimisation en cours, cliquez sur **Arrêter** pour voir les résultats, puis cliquez sur **Afficher la simulation** pour consulter le résultat.
 
-<figure><img src="../.gitbook/assets/image 74.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-8 (6).png>)
 
-11. Si les résultats sont satisfaisants, allez dans la section Tournées, ouvrez le menu Actions et sélectionnez créer le plan de tournée.
+11. Si les résultats sont satisfaisants, accédez à la section **Itinéraires**, ouvrez le menu **Actions** et sélectionnez **Créer le plan d’itinéraire**.
 
-<figure><img src="../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-9 (6).png>)
 
-12. Cliquez sur OK pour confirmer et commencer la création du plan de tournée.
+12. Cliquez sur **OK** pour confirmer et commencer la création du plan d’itinéraire.
 
-<figure><img src="../.gitbook/assets/image 75.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-10 (5).png>)
 
-Renseignez les détails du plan de tournée :
+13. Renseignez les détails du plan d’itinéraire décrits dans la présentation de la fonctionnalité.
+14. Cliquez sur **Enregistrer** pour sauvegarder le plan d’itinéraire récurrent.
 
-* Nom : attribuez un nom pour faciliter la référence ultérieure.
-* Activé : activez le bouton bascule pour activer le plan de tournée.
-* Tournées dédiées : activez cette option si le plan doit générer des tournées dédiées qui ne peuvent pas être combinées avec les missions d’autres sous-traitants.
-* Récurrent : activez cette option pour rendre le plan récurrent.
-* Du et au : indiquez les dates de début et de fin pour définir la période de validité du plan.
-* Répéter tous les : définissez la fréquence de récurrence (hebdomadaire ou mensuelle).
-* Jours de la semaine : choisissez les jours de répétition du plan et définissez, si nécessaire, l’intervalle entre les récurrences.
+![](<../.gitbook/assets/image-11 (5).png>)
 
-13. Cliquez sur Enregistrer pour sauvegarder le plan de tournée récurrent.
+### Résultat
 
-<figure><img src="../.gitbook/assets/Image 80.png" alt=""><figcaption></figcaption></figure>
+Une notification de confirmation apparaît une fois le plan créé avec succès.
 
-Une notification de confirmation apparaîtra une fois le plan créé avec succès.
+![Capture d’écran](<../.gitbook/assets/image-12 (5).png>)
 
-<figure><img src="../.gitbook/assets/image 90.png" alt=""><figcaption></figcaption></figure>
+Tous les plans d’itinéraire enregistrés sont accessibles depuis la page Liste d’adresses dans le module Sous-traitants.
 
-Tous les plans de tournée enregistrés sont accessibles depuis la page Liste des adresses dans le module sous-traitant.
+![](<../.gitbook/assets/image-13 (5).png>)
 
-<figure><img src="../.gitbook/assets/msedge_H34fuPxmSP.png" alt=""><figcaption></figcaption></figure>
+## Accéder aux plans d’itinéraire depuis la page Missions
 
-« Suivez ces étapes pour accéder aux plans de tournée depuis la page Missions : »
+1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Missions**.
+2. Cliquez sur l’icône **Panneau** pour activer la personnalisation du panneau.
 
-1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet Missions.
-2. Cliquez sur l’icône Panneau pour activer la personnalisation du panneau.
+![](<../.gitbook/assets/image-14 (5).png>)
 
-<figure><img src="../.gitbook/assets/msedge_rPxMuf541y.png" alt=""><figcaption></figcaption></figure>
+3. Faites glisser-déposer le panneau **Plan d’itinéraire** à l’emplacement souhaité.
 
-3. Faites glisser-déposer le panneau Plan de tournée à l’emplacement souhaité.
+![](<../.gitbook/assets/image-15 (5).png>)
 
-<figure><img src="../.gitbook/assets/msedge_mOesSJFqw9.png" alt=""><figcaption></figcaption></figure>
+4. Cliquez de nouveau sur le panneau **Plan d’itinéraire** pour quitter le mode d’édition du panneau.
 
-4. Cliquez de nouveau sur le panneau Plan de tournée pour quitter le mode d’édition du panneau.
+![](<../.gitbook/assets/image-16 (5).png>)
 
-<figure><img src="../.gitbook/assets/image (992).png" alt=""><figcaption></figcaption></figure>
+## Générer des missions le jour prévu
 
-Suivez ces étapes pour générer des missions le jour prévu de livraison ou d’enlèvement :
+Le jour de la livraison ou du retrait, les missions peuvent être soit :
 
-1. Le jour de la livraison ou de l’enlèvement, les missions peuvent être soit :
-   * créées directement par le sous-traitant via le Portail sous-traitant.
-   * créées automatiquement par le transporteur pour effectuer les livraisons.
-2. Si des missions ont déjà été créées par le sous-traitant :
-   * Ouvrez le **Actions** menu et sélectionnez **Appliquer le plan de tournée**.
+* créées directement par le sous-traitant via le Portail sous-traitant ;
+* créées automatiquement par le transporteur pour effectuer les livraisons.
 
-**Remarque** : si aucune mission n’est liée au plan de tournée sélectionné, le système affichera une notification d’erreur.
+Si des missions ont déjà été créées par le sous-traitant :
 
-3.  Si le transporteur doit créer des missions pour le compte du sous-traitant :
+1. Ouvrez le menu **Actions** et sélectionnez **Appliquer le plan d’itinéraire**.
 
-    * Cliquez sur **Générer les livraisons** pour créer des missions de livraison.
-    * Cliquez sur **Générer les enlèvements** pour créer des missions d’enlèvement.
+![](<../.gitbook/assets/image-17 (6).png>)
 
-    <figure><img src="../.gitbook/assets/Image 96.png" alt=""><figcaption></figcaption></figure>
-4. Cliquez sur Oui pour confirmer et générer des missions pour tous les clients inclus dans le plan récurrent.
+Si le transporteur doit créer des missions pour le compte du sous-traitant :
 
-<figure><img src="../.gitbook/assets/Image 96 (1).png" alt=""><figcaption></figcaption></figure>
+1. Cliquez sur **Générer les livraisons** pour créer des missions de livraison.
+2. Cliquez sur **Générer les retraits** pour créer des missions de retrait.
 
-5. Nomadia Delivery créera ensuite automatiquement les missions pour tous les clients associés au plan de tournée récurrent.
+![](<../.gitbook/assets/image-18 (6).png>)
 
-<figure><img src="../.gitbook/assets/image (993).png" alt=""><figcaption></figcaption></figure>
+3. Cliquez sur **Oui** pour confirmer et générer des missions pour tous les clients inclus dans le plan récurrent.
 
-Suivez ces étapes pour exécuter le plan de tournée le jour de la livraison
+![](<../.gitbook/assets/image-19 (6).png>)
 
-Le jour de la livraison, les sous-traitants peuvent créer des missions uniquement pour certains clients, par exemple
+### Résultat
 
-si certaines commandes peuvent être refusées pour des raisons telles qu’une rupture de stock ou l’indisponibilité du client.
+Nomadia Delivery crée automatiquement les missions pour tous les clients associés au plan d’itinéraire récurrent.
 
-indisponibilité.
+![](<../.gitbook/assets/image-20 (6).png>)
 
-Pour valider le plan de tournée :
+## Exécuter le plan d’itinéraire le jour de la livraison
 
-1. Ouvrez le menu Actions et sélectionnez Appliquer le plan de tournée.
+Le jour de la livraison, les sous-traitants peuvent créer des missions uniquement pour certains clients, par exemple lorsque certaines commandes peuvent être refusées pour des raisons telles qu’une rupture de stock ou l’indisponibilité du client.
 
-<figure><img src="../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
+Pour valider le plan d’itinéraire :
 
-2. Le système passera en mode Comparaison, ce qui vous permettra de comparer le plan de tournée prédéfini avec les missions créées. Cela aide les transporteurs à évaluer le pourcentage du plan de tournée qui sera exécuté en temps réel.
+1. Ouvrez le menu **Actions** et sélectionnez **Appliquer le plan d’itinéraire**.
 
-<figure><img src="../.gitbook/assets/Image 97.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-17 (6).png>)
 
-3. Cliquez sur Valider pour générer le plan de tournée final.
+2. Comparez le plan d’itinéraire prédéfini avec les missions créées en mode Comparaison. Cela aide les transporteurs à évaluer le pourcentage du plan d’itinéraire qui sera exécuté en temps réel.
 
-<figure><img src="../.gitbook/assets/Image 98.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-22 (6).png>)
+
+3. Cliquez sur **Valider** pour générer le plan d’itinéraire final.
+
+![](<../.gitbook/assets/image-23 (6).png>)
 
 En suivant ces étapes, les transporteurs peuvent gérer efficacement les plans fixes et récurrents dans Nomadia Delivery, en garantissant des opérations fluides et un service fiable pour les sous-traitants et leurs clients.
+
+## Conseils
+
+{% hint style="warning" %}
+**Aucune mission liée** : si aucune mission n’est liée au plan d’itinéraire sélectionné, le système affiche une notification d’erreur.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Sous-traitants](README.md)
+* [Enregistrer un sous-traitant](register-a-contractor.md)
+* [Gérer la liste d’adresses](manage-address-list.md)
+* Optimiser les livraisons

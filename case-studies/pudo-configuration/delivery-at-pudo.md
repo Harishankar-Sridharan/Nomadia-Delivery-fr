@@ -1,95 +1,110 @@
 # Livraison en PUDO
 
-Le flux de livraison PUDO (Pick-Up Drop-Off) permet aux chauffeurs de rediriger les colis vers des points relais locaux lorsque les clients sont indisponibles. Cette fonctionnalité élimine le besoin de tournées de re-livraison coûteuses et maintient votre arriéré d’entrepôt à un niveau gérable. Vous obtiendrez de meilleurs taux de résolution au premier essai et offrirez davantage de flexibilité à vos clients.
+Le flux de livraison PUDO (Pick-Up Drop-Off) permet aux chauffeurs de rediriger les colis vers des points relais locaux lorsque les clients sont indisponibles. Cette fonctionnalité élimine le besoin de tournées de relivraison coûteuses et maintient votre arriéré d’entrepôt à un niveau gérable. Vous obtiendrez de meilleurs taux de résolution au premier essai et offrirez davantage de flexibilité à vos clients.
 
-#### Pour commencer
+## Avant de commencer
 
 Avant d’utiliser cette fonctionnalité, assurez-vous que les exigences suivantes sont remplies :
 
 * Les données du réseau PUDO sont configurées dans le système.
-* Le **fallback delivery in PUDO** champ est activé pour la mission spécifique.
-* Les sous-statuts pour les dépôts PUDO échoués (par ex. « PUDO full ») sont définis dans le **menu de configuration**.
-* Créez un itinéraire dans le back-office.
-* Sélectionnez la case à cocher de l’itinéraire que vous souhaitez partager dans le **tableau des itinéraires**.
+* Le champ **Livraison de repli en PUDO** est activé pour la mission concernée.
+* Les sous-statuts pour les dépôts PUDO échoués (par ex. « PUDO complet ») sont définis dans le **menu de configuration**.
 
-<figure><img src="../../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
+1. Créez un itinéraire dans le Backoffice.
+2. Cochez la case de l’itinéraire que vous souhaitez partager dans le **tableau des itinéraires**.
 
-* Cliquez sur le **actions** bouton.
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_38.png)
 
-<figure><img src="../../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
+3. Cliquez sur le bouton **Actions**.
 
-* Sélectionnez **publier sur l’application mobile**.
+<figure><img src="../../.gitbook/assets/msedge_E5lHjjPgfE.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (907).png" alt=""><figcaption></figcaption></figure>
+4. Sélectionnez **Publier sur l’application mobile**.
 
-* Cliquez sur **OK** pour confirmer la publication.
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_45.png)
 
-<figure><img src="../../.gitbook/assets/image (908).png" alt=""><figcaption></figcaption></figure>
+5. Cliquez sur **OK** pour confirmer la publication.
 
-#### Présentation de la fonctionnalité
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_52.png)
 
-* **page de sélection du point PUDO**: Affiche une liste de lieux relais préchargés près de l’adresse du client.
+## Présentation de la fonctionnalité
 
-<figure><img src="../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+* **Page de sélection du point PUDO** : affiche une liste de lieux relais préchargés près de l’adresse du client.
 
-* **curseur de rayon de recherche**: Permet au chauffeur d’augmenter ou de diminuer la distance pour trouver davantage de points relais.
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_2_to_02.png)
 
-<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
+* **Curseur de rayon de recherche** : permet au chauffeur d’augmenter ou de diminuer la distance pour trouver davantage de points relais.
 
-* **ID du lieu de livraison PUDO**: Enregistre automatiquement le point précis où le chauffeur a déposé le colis.
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_2_to_14.png)
 
-<figure><img src="../../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
+* **ID du lieu de livraison PUDO** : enregistre automatiquement le point précis où le chauffeur a déposé le colis.
 
-* **onglet des journaux de mission**: Suit chaque action, de la première tentative de livraison au dépôt final en PUDO.
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_4_to_09.png)
 
-<figure><img src="../../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
+* **Onglet des journaux de mission** : suit chaque action, de la première tentative de livraison au dépôt final en PUDO.
 
-#### Mode d’emploi : gérer les livraisons échouées
+<figure><img src="../../.gitbook/assets/I6FbOxmXRq.png" alt=""><figcaption></figcaption></figure>
 
-**Chauffeur : redirection d’un colis**
+## Rediriger un colis (chauffeur)
 
 1. Touchez l’itinéraire partagé dans l’application mobile.
-2. Chargez le véhicule et touchez **valider mon chargement**.
+2. Chargez le véhicule et touchez **Valider mon chargement**.
 
-<figure><img src="../../.gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_1_to_16_to_1_to_29.gif)
 
-3. Touchez **démarrer mon itinéraire**.
-4. À l’adresse du client, sélectionnez **ne pas livrer** si le client est absent.
+3. Touchez **Démarrer mon itinéraire**.
+4. À l’adresse du client, sélectionnez **Ne pas livrer** si le client est absent.
 
-<figure><img src="../../.gitbook/assets/image (914).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_1_to_35_to_1_to_45.gif)
 
-5. Sélectionnez le **client indisponible** sous-statut.
+5. Sélectionnez le sous-statut **Client indisponible**.
 6. Faites glisser le curseur pour ajuster le rayon de recherche si nécessaire.
 7. Sélectionnez un **point PUDO** dans la liste.
 8. Confirmez le statut et poursuivez les autres livraisons.
 9. Lorsque vous êtes prêt à déposer, touchez la notification du point relais dans les **détails de l’itinéraire**.
 10. Sélectionnez la mission et utilisez le **scanner** pour déposer le colis.
 
-<figure><img src="../../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_3_to_08_to_3_to_24.gif)
 
 11. Capturez la **signature** et une **photo** pour valider le dépôt.
 
-**Planificateur : vérifier le dépôt**
+## Vérifier le dépôt (planificateur)
 
-1. Cliquez sur le **bouton d’actualisation** dans le back-office pour voir les mises à jour en temps réel.
+1. Cliquez sur le **bouton d’actualisation** dans le Backoffice pour voir les mises à jour en temps réel.
 
-<figure><img src="../../.gitbook/assets/image (916).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_3_to_51.png)
 
-2. Ouvrez la mission dans l’ **éditeur** pour vérifier le **ID du lieu de livraison PUDO**.
-3. Vérifiez le **onglet des journaux** pour une séquence complète d’actions horodatées.
+2. Ouvrez la mission dans l’**éditeur** pour vérifier l’**ID du lieu de livraison PUDO**.
+3. Consultez l’**onglet des journaux** pour obtenir une séquence complète d’actions horodatées.
 
-**Dépannage : problèmes PUDO**
+## Résoudre les problèmes PUDO
 
 Si un point PUDO est plein ou fermé :
 
 1. Marquez la mission comme **non livrée au point PUDO**.
-2. Sélectionnez le sous-statut spécifique, tel que **PUDO full** ou **PUDO closed**.
+2. Sélectionnez le sous-statut spécifique, tel que **PUDO complet** ou **PUDO fermé**.
 3. La mission apparaîtra comme **non résolue** pour le planificateur.
-4. Incluez la mission dans le prochain **cycle de planification** pour une tentative de re-livraison.
+4. Incluez la mission dans le prochain **cycle de planification** pour une tentative de relivraison.
 
-#### Conseils de productivité
+## Conseils
 
-* 💡 **Détection automatique**: Le système identifie automatiquement les emplacements PUDO dans un rayon de 5 km autour de l’itinéraire.
-* 💡 **Données préchargées**: Les chauffeurs n’ont pas besoin de chercher manuellement, car les options les plus proches sont préchargées avant qu’ils n’ouvrent l’application.
-* 💡 **Synchronisation en temps réel**: Les informations se synchronisent avec le back-office immédiatement après que le chauffeur a confirmé le dépôt.
-* ⚠️ **Sous-statuts précis**: Utilisez toujours le sous-statut correct pour les points PUDO pleins ou fermés afin de garantir que la mission soit suivie pour une re-livraison.
+{% hint style="info" %}
+**Détection automatique** : le système identifie automatiquement les emplacements PUDO dans un rayon de 5 km autour de l’itinéraire.
+{% endhint %}
+
+{% hint style="info" %}
+**Données préchargées** : les chauffeurs n’ont pas besoin de chercher manuellement, car les options les plus proches sont préchargées avant qu’ils n’ouvrent l’application.
+{% endhint %}
+
+{% hint style="info" %}
+**Synchronisation en temps réel** : les informations se synchronisent avec le Backoffice immédiatement après que le chauffeur a confirmé le dépôt.
+{% endhint %}
+
+{% hint style="warning" %}
+**Sous-statuts précis** : utilisez toujours le sous-statut correct pour les points PUDO pleins ou fermés afin de garantir que la mission soit suivie pour une relivraison.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Configuration PUDO](README.md)
+* [Études de cas](../README.md)

@@ -1,126 +1,147 @@
 # Gérer les articles
 
-### Gérer les articles
+La fonctionnalité Gérer les articles de Nomadia Delivery permet aux utilisateurs de maintenir et d’organiser un catalogue centralisé de produits (articles) faisant partie du flux de travail de livraison. Cette fonctionnalité prend en charge le cycle de vie complet des articles — y compris la création, la modification, l’activation/la désactivation et la suppression — permettant un suivi fluide et une planification précise des livraisons.
 
-La fonctionnalité Gérer les articles dans Nomadia Delivery permet aux utilisateurs de maintenir et d’organiser un catalogue centralisé de produits (articles) faisant partie du flux de travail de livraison. Cette fonctionnalité prend en charge le cycle de vie complet des articles — y compris la création, la modification, l’activation/la désactivation et la suppression — permettant un suivi fluide et une planification précise des livraisons.
+## Avant de commencer
 
-#### Gérer les types d’articles
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à **Configuration**.
+* Pour un import, disposez d’un fichier valide sur votre système local contenant les données des types d’articles.
+* Pour les articles de mission, ouvrez la page Mission et la mission que vous souhaitez modifier.
 
-La fonctionnalité Gérer les types d’articles permet aux administrateurs de définir et de catégoriser les différents types d’articles traités dans le processus de livraison. Cette classification garantit une meilleure organisation, un meilleur filtrage et un meilleur reporting des éléments lors de la planification des tournées, du chargement et de l’exécution des livraisons.
+## Présentation de la fonctionnalité
 
-| Nom du champ dans le fichier d’import | Nom du champ dans la table du back office | Description                                                                                                                                                                                                            |
-| ------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Identifiant                           | Nom                                       | Obligatoire et unique parmi tous les identifiants / noms des articles                                                                                                                                                  |
-| Libellés                              | Libellés                                  | Dans le fichier d’import, pour plusieurs langues, la syntaxe est :\[code de langue sur deux caractères] = \[Traduction] ; \[code de langue sur deux caractères] = \[Traduction]. Ex. : « fr=Tournevis;en=Screwdriver » |
+La fonctionnalité Gérer les types d’articles permet aux administrateurs de définir et de catégoriser les différents types d’articles traités dans le processus de livraison. Cette classification garantit une meilleure organisation, un meilleur filtrage et un meilleur reporting des éléments lors de la planification des itinéraires, du chargement et de l’exécution des livraisons.
 
-#### Importer les types d’articles.
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Nom du champ dans le fichier d’import</td><td valign="top">Nom du champ dans la table du Backoffice</td><td valign="top">Description</td></tr><tr><td valign="top">Identifiant</td><td valign="top">Nom</td><td valign="top">Obligatoire et unique parmi tous les identifiants / noms des articles</td></tr><tr><td valign="top">Libellés</td><td valign="top">Libellés</td><td valign="top"><p>Dans le fichier d’import, pour plusieurs langues, la syntaxe est :</p><p>[code de langue sur deux caractères] = [Traduction] ; [code de langue sur deux caractères] = [Traduction]. Ex. : « fr=Tournevis;en=Screwdriver »</p></td></tr></tbody></table>
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
+## Importer les types d’articles
+
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
 3. Sous Personnalisation, cliquez sur **Types d’articles.**
 
-<figure><img src="../.gitbook/assets/msedge_NaBYLjVGiJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Cliquez sur le **Actions** menu déroulant
-5. Cliquez sur **Importer**
+4. Cliquez sur le menu déroulant **Actions**.
+5. Cliquez sur **Importer**.
 
-<figure><img src="../.gitbook/assets/msedge_ESM1VKzhf5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Cliquez sur **Parcourir le fichier** pour téléverser le fichier contenant les données de zone.
 
-<figure><img src="../.gitbook/assets/msedge_WOM7BGfJQ9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez un **fichier valide** depuis votre système local.
 
-<figure><img src="../.gitbook/assets/msedge_yXjfTvwNU5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-7. Les articles ont été importés avec succès.
+### Résultat
 
-<figure><img src="../.gitbook/assets/msedge_VRMPjKvUos.png" alt=""><figcaption></figcaption></figure>
+Les articles sont importés avec succès.
 
-**Modifier un type d’article**
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
+## Modifier un type d’article
+
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
 3. Sous Personnalisation, cliquez sur **Types d’articles.**
-4. Sélectionnez un **Article**
-5. Cliquez sur le **crayon** icône
+4. Sélectionnez un **article**.
+5. Cliquez sur l’icône **crayon**.
 
-<figure><img src="../.gitbook/assets/msedge_u7W67rF5bn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-6. Modifiez les informations selon les besoins
-7. Cliquez sur **Enregistrer**
+6. Modifiez les informations selon les besoins.
 
-<figure><img src="../.gitbook/assets/msedge_MVt9xcliwG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Exporter les types d’articles**
+7. Cliquez sur **Enregistrer**.
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
+<figure><img src="../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Exporter les types d’articles
+
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
 3. Sous Personnalisation, cliquez sur **Types d’articles.**
-4. Sélectionnez un **Article**
-5. Cliquez sur le **Actions** menu déroulant
-6. Cliquez sur **Exporter**
+4. Sélectionnez un **article**.
+5. Cliquez sur le menu déroulant **Actions**.
+6. Cliquez sur **Exporter**.
 
-<figure><img src="../.gitbook/assets/msedge_sfsMZ3Kd4a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Les types d’articles ont été exportés avec succès
+### Résultat
 
-<figure><img src="../.gitbook/assets/msedge_IRSe2lMeUz.png" alt=""><figcaption></figcaption></figure>
+Les types d’articles sont exportés avec succès.
 
-#### Supprimer un type d’article
+<figure><img src="../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
+## Supprimer un type d’article
+
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
 3. Sous Personnalisation, cliquez sur **Types d’articles.**
-4. Sélectionnez un **Article**
-5. Cliquez sur le **Actions** menu déroulant
-6. Cliquez sur **Supprimer**
+4. Sélectionnez un **article**.
+5. Cliquez sur le menu déroulant **Actions**.
+6. Cliquez sur **Supprimer**.
 
-<figure><img src="../.gitbook/assets/msedge_ANdZALpCMC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-7. Vous verrez un message pop-up de confirmation indiquant : «**Voulez-vous supprimer l’article**?"
-8. Cliquez sur **Supprimer**
+7. Consultez le message pop-up de confirmation qui indique : « **Voulez-vous supprimer l’article** ? »
+8. Cliquez sur **Supprimer**.
 
-<figure><img src="../.gitbook/assets/msedge_oeFVTCB8G3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Les types d’articles ont été supprimés avec succès
+### Résultat
 
-<figure><img src="../.gitbook/assets/msedge_HkOBhr6w4Z.png" alt=""><figcaption></figcaption></figure>
+Les types d’articles sont supprimés avec succès.
 
-#### Modifier un article de mission
+<figure><img src="../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Depuis la page Mission
+## Modifier un article de mission
 
-1. Cliquez sur le **crayon** icône de la mission choisie
+1. Depuis la page Mission, cliquez sur l’icône **crayon** de la mission choisie.
 
-<figure><img src="../.gitbook/assets/msedge_YF1H6UOnSM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Dans le menu de gauche, cliquez sur l’onglet **Articles** onglet
+2. Dans le menu de gauche, cliquez sur l’onglet **Articles**.
 
-<figure><img src="../.gitbook/assets/msedge_gulU8MpdU9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Modifiez le **Article**
+3. Modifiez l’**article**.
 
-<figure><img src="../.gitbook/assets/msedge_YVLEANx53H.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Mettez à jour les détails nécessaires tels que **Planifiés, Réalisés**, et **Quantités retournées**
-5. Cliquez sur **Enregistrer**
+4. Mettez à jour les détails nécessaires tels que les quantités **Planifiées, Réalisées** et **Retournées**.
+5. Cliquez sur **Enregistrer**.
 
-<figure><img src="../.gitbook/assets/msedge_oQcRQbOCzY.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Supprimer un article de mission
+## Supprimer un article de mission
 
-Depuis la page Mission
+1. Depuis la page Mission, cliquez sur l’icône **crayon** à côté de la mission souhaitée.
+2. Dans le menu de gauche, sélectionnez l’onglet **Articles**.
+3. Cliquez sur l’icône **Corbeille** de l’article à supprimer.
 
-1. Cliquez sur le **crayon** icône à côté de la mission souhaitée
-2. Dans le menu de gauche, sélectionnez l’ **Articles** onglet
-3. Cliquez sur le **Corbeille** icône de l’article à supprimer
+<figure><img src="../.gitbook/assets/image (43) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/msedge_z41ExGTUef.png" alt=""><figcaption></figcaption></figure>
+### Résultat
 
-4. Les articles de mission seront supprimés avec succès.
+Les articles de mission sont supprimés avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_e66FS354T2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<br>
+## Conseils
+
+{% hint style="info" %}
+**Identifiants uniques** : l’identifiant de l’article est obligatoire et doit être unique parmi tous les articles ; vérifiez donc votre fichier d’import avant de le téléverser.
+{% endhint %}
+
+{% hint style="warning" %}
+**Confirmation de suppression** : lorsque vous supprimez un type d’article, un pop-up de confirmation affiche « Voulez-vous supprimer l’article ? » ; consultez-le donc avant de cliquer sur **Supprimer**.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Créer un article](create-an-article.md)
+* [Ajouter des articles à une mission](add-articles-to-mission.md)

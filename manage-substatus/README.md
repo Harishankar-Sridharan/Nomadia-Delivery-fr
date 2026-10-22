@@ -1,46 +1,79 @@
 # Gérer les sous-statuts
 
-La fonctionnalité Gérer les sous-statuts permet aux administrateurs de créer, modifier et attribuer des libellés de statut détaillés qui reflètent l’avancement en temps réel ou l’état d’une tâche de livraison. Ces sous-statuts offrent un mécanisme de suivi plus granulaire au sein de catégories de statut plus larges telles que « Enlèvement », « En attente » ou « Livré »
+La fonctionnalité Gérer les sous-statuts permet aux administrateurs de créer, modifier et affecter des libellés de statut détaillés qui reflètent l’avancement en temps réel ou l’état d’une tâche de livraison. Ces sous-statuts offrent un mécanisme de suivi plus granulaire au sein de catégories de statut plus larges telles que « Retrait », « En attente » ou « Livré ».
 
-**Supprimer un sous-statut**
+## Avant de commencer
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
-3. Sous Mes données, cliquez sur **Sous-statuts.**
-4. Sélectionnez un **Sous-statuts**
-5. Cliquez sur le **Actions** menu déroulant
-6. Cliquez sur **Supprimer**
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à la page **Configuration**.
+* Ouvrez **Configuration**, cliquez sur le menu **Configuration**, puis, sous **Mes données**, cliquez sur **Sous-statuts**.
+* Disposez d’au moins un sous-statut à supprimer ou à colorer.
 
-<figure><img src="../.gitbook/assets/msedge_QCAHPvgP1I.png" alt=""><figcaption></figcaption></figure>
+## Présentation de la fonctionnalité
 
-Vous verrez un message de confirmation contextuel indiquant : « Voulez-vous supprimer le sous-statut ? »
+* **Sous-statut** : un libellé de statut détaillé qui reflète l’avancement en temps réel ou l’état d’une tâche de livraison au sein de catégories de statut plus larges telles que « Retrait », « En attente » ou « Livré ».
+* **Supprimer** : supprime le sous-statut sélectionné après confirmation.
+* **Coloration** : applique une couleur au sous-statut sélectionné.
+* Menu déroulant **Actions** : contient les options **Supprimer** et **Coloration**.
 
-7. Cliquez sur **Oui**
+## Supprimer un sous-statut
 
-<figure><img src="../.gitbook/assets/msedge_S1wx0soaZA.png" alt=""><figcaption></figcaption></figure>
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous **Mes données**, cliquez sur **Sous-statuts**.
+4. Sélectionnez un sous-statut.
+5. Cliquez sur le menu déroulant **Actions**.
+6. Cliquez sur **Supprimer**.
 
-Le sous-statut a été supprimé avec succès
+![](../.gitbook/assets/image-85.png)
 
-<figure><img src="../.gitbook/assets/msedge_jhZ0aB56V4.png" alt=""><figcaption></figcaption></figure>
+7. Consultez le message de confirmation contextuel : « Voulez-vous supprimer le sous-statut ? »
+8. Cliquez sur **Oui**.
 
-#### Coloration d’un sous-statut
+![](../.gitbook/assets/image-86.png)
 
-Appliquez des conditions basées sur les attributs de la zone tels que le type de mission (Livraison, Enlèvement), la priorité de la zone, le livreur assigné, le préfixe du code postal, etc.
+### Résultat
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
-3. Sous Mes données, cliquez sur **Sous-statuts**.
-4. Sélectionnez un **Sous-statuts**
-5. Cliquez sur le **Actions** menu déroulant
-6. Cliquez sur **Coloration**
+Le sous-statut est supprimé avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_Gro0JhNE1B.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-87.png)
 
-7. Choisissez un **Couleur**
-8. Cliquez sur **Enregistrer**
+## Colorer un sous-statut
 
-<figure><img src="../.gitbook/assets/msedge_D5f7PxgEX0.png" alt=""><figcaption></figcaption></figure>
+Appliquez des conditions basées sur les attributs de la zone tels que le type de mission (livraison, retrait), la priorité de la zone, le livreur affecté, le préfixe du code postal, etc.
 
-La couleur sélectionnée a été appliquée avec succès.
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous **Mes données**, cliquez sur **Sous-statuts**.
+4. Sélectionnez un sous-statut.
+5. Cliquez sur le menu déroulant **Actions**.
+6. Cliquez sur **Coloration**.
 
-<figure><img src="../.gitbook/assets/msedge_4k95EfGelL.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-88.png)
+
+7. Choisissez une **Couleur**.
+8. Cliquez sur **Enregistrer**.
+
+![](../.gitbook/assets/image-89.png)
+
+### Résultat
+
+La couleur sélectionnée est appliquée avec succès.
+
+![](../.gitbook/assets/image-90.png)
+
+## Conseils
+
+{% hint style="info" %}
+**Suivi granulaire** : les sous-statuts offrent un mécanisme de suivi plus granulaire au sein de catégories de statut plus larges ; utilisez-les donc pour refléter l’avancement en temps réel d’une tâche de livraison.
+{% endhint %}
+
+{% hint style="warning" %}
+**Confirmer avant de supprimer** : une fenêtre contextuelle de confirmation demande « Voulez-vous supprimer le sous-statut ? » avant la suppression du sous-statut ; vérifiez donc votre sélection avant de cliquer sur **Oui**.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Créer un sous-statut](creating-a-substatus.md)
+* [Personnaliser les sous-statuts](customizing-substatus.md)
+* [Gérer la configuration des sous-statuts](manage-substatus-configuration.md)
+* [Déclencher des notifications pour les changements de sous-statut](trigger-notifications-for-sub-status-changes.md)

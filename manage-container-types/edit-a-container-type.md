@@ -16,7 +16,7 @@ Utilisez cette procédure pour modifier les paramètres d’un type de conteneur
 
 Le type de conteneur est mis à jour avec vos modifications.
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Héritage du parent vers l’enfant](parenttochildinheritance.md)
 * [Héritage de l’enfant vers le parent](childtoparentinheritance.md)

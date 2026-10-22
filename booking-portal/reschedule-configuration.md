@@ -1,54 +1,80 @@
 # Configuration du report
 
-Ce guide propose des instructions étape par étape pour les transporteurs utilisant Nomadia Delivery, permettant aux clients finaux de reprogrammer facilement leur mission de livraison ou d’enlèvement. Ces nouvelles fonctionnalités améliorent la commodité et la communication avec les clients en leur permettant de choisir un créneau horaire adapté à leur emploi du temps.
+Utilisez ce guide pour permettre aux clients finaux de reprogrammer leurs missions de livraison ou de retrait dans Nomadia Delivery. Ces fonctionnalités améliorent la commodité et la communication avec les clients en leur permettant de choisir un créneau horaire adapté à leur emploi du temps.
 
-Pour configurer le bouton de replanification dans les communications par e-mail, suivez ces étapes :
+## Avant de commencer
 
-1. Lancez l’application Nomadia Delivery et allez dans l’onglet **Configuration** .
-2. Dans le menu déroulant, sélectionnez **Configurez les pages d’expérience client.**
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à l’onglet **Configuration**.
+* Décidez combien de temps avant la livraison le lien de replanification reste actif, de 12 heures au maximum à 3 heures au minimum avant la livraison.
 
-<figure><img src="../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
+## Présentation de la fonctionnalité
 
-3. Cliquez sur le **Avant la livraison** élément de menu.
-4. Activez le **Reprogrammer une livraison** pour activer le **replanifier** bouton dans **les communications par e-mail avec les clients**
+* **Configurer les pages d’expérience client** : entrée du menu Configuration où vous configurez le bouton de replanification.
+* **Reprogrammer une livraison** : bouton dans l’élément de menu **Avant la livraison** qui active le bouton **replanifier** dans les communications par e-mail avec les clients.
+* **Désactiver avant la livraison** : option qui définit la validité du lien de replanification.
+* **Configurer les messages sortants** > **Modèles d’e-mail** : emplacement où vous ajoutez le modèle d’e-mail contenant le lien de replanification.
+* **Fenêtre horaire pour communiquer** : type de modèle sur lequel vous cliquez lors de l’ajout d’un modèle d’e-mail.
+* **E-mails sortants** : paramètre que vous activez pour permettre la communication avec le client final.
 
-<figure><img src="../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
+## Configurer le bouton de replanification
+
+1. Lancez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
+
+![](<../.gitbook/assets/image-26 (4).png>)
+
+2. Dans le menu déroulant, sélectionnez **Configurer les pages d’expérience client.**
+
+![](<../.gitbook/assets/image-27 (4).png>)
+
+3. Cliquez sur l’élément de menu **Avant la livraison**.
+4. Activez le bouton **Reprogrammer une livraison** pour activer le bouton **replanifier** dans **les communications par e-mail avec les clients**.
+
+![](<../.gitbook/assets/image-28 (4).png>)
 
 5. Définissez la validité du lien de replanification à l’aide de l’option Désactiver avant la livraison. Vous pouvez configurer le lien pour qu’il soit actif au maximum 12 heures avant la livraison et au minimum 3 heures avant la livraison, en fonction de vos besoins opérationnels.
+
+![](<../.gitbook/assets/image-29 (4).png>)
+
 6. Cliquez sur **Enregistrer** pour appliquer et enregistrer la configuration de replanification.
 
-<figure><img src="../.gitbook/assets/image (1019).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-30 (3).png>)
 
-Pour configurer le lien de replanification dans les communications par e-mail avec les clients, suivez ces étapes :
+## Configurer le lien de replanification dans les e-mails clients
 
-1. Lancez l’application Nomadia Delivery et allez dans l’onglet **Configuration** .
+1. Lancez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
 
-<figure><img src="../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-26 (4).png>)
 
 2. Dans le menu déroulant, sélectionnez **Configurer les messages sortants**.
 
-<figure><img src="../.gitbook/assets/msedge_RzBrVlWzK9.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-32 (3).png>)
 
-3. Cliquez sur le **Modèles d’e-mail** élément de menu.
+3. Cliquez sur l’élément de menu **Modèles d’e-mail**.
 
-<figure><img src="../.gitbook/assets/msedge_lOq67rmr8a.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-33 (3).png>)
 
-4. Cliquez sur **Actions** menu déroulant et sélectionnez Ajouter
+4. Cliquez sur le menu déroulant **Actions** et sélectionnez **Ajouter**.
 
-<figure><img src="../.gitbook/assets/msedge_zIIadAWj2N.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-34 (3).png>)
 
-5. Cliquez sur « **Fenêtre horaire pour communiquer** »
+5. Cliquez sur **Fenêtre horaire pour communiquer**.
 
-<figure><img src="../.gitbook/assets/msedge_ei97YkA4CO.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image-35 (3).png>)
 
 6. Activez les e-mails sortants pour permettre la communication avec le client final.
 
-<figure><img src="../.gitbook/assets/msedge_01yhw5BRKL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Lors de la rédaction du message, utilisez le mot-clé $ pour insérer des liens et des valeurs spécifiques à la mission.
 
-<figure><img src="../.gitbook/assets/msedge_19Bl5IzTsD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-8. Cliquez sur **Enregistrer**
+8. Cliquez sur **Enregistrer**.
 
-<figure><img src="../.gitbook/assets/msedge_Jb7ItZvspL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (4) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Rubriques connexes
+
+* [Portail de réservation](README.md)
+* [Report par le client](rescheduling-by-customer.md)
+* [Reprogrammer plusieurs fois un créneau préréservé](prebookingtheslotmultipletimes.md)

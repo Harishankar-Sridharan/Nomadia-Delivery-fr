@@ -15,7 +15,7 @@ Prérequis :
 
 ![Cliquez sur l’option Visibilité du bloc des adresses clients](../.gitbook/assets/AddressVisibility_BeforeBegin_001.gif)
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Liste d’adresses des sous-traitants** : gérez les paramètres de visibilité spécifiquement pour les listes d’adresses des sous-traitants.
 * **Liste d’adresses globale** : gérez les paramètres de visibilité de la liste d’adresses globale à l’échelle de la plateforme.

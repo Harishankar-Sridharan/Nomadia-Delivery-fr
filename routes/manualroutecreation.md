@@ -79,7 +79,7 @@ L’itinéraire a été créé avec succès.
 **Paramètres de gestion des conflits** : choisissez d’ignorer ou de remplacer les conflits avant de cliquer sur **Forcer l’affectation** afin d’éviter les écrasements d’itinéraire inattendus.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Affecter des missions de retrait et de livraison](assignpickupanddelivery.md)
 * [Éditeur d’itinéraires](routeeditor.md)

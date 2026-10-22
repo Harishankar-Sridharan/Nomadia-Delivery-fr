@@ -18,7 +18,7 @@ Prérequis :
 
 ![Cliquez sur Gestion des seuils d’alerte dans les options d’itinéraire](.gitbook/assets/AlertManagement_BeforeBegin_002.png)
 
-## Vue d’ensemble de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Icône rouge** : icône située dans le coin supérieur droit qui ouvre la fenêtre de pré-filtre.
 * **Pré-filtre** : fenêtre permettant de sélectionner les critères de recherche précédents et les filtres d’agence.

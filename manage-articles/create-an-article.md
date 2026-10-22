@@ -1,20 +1,44 @@
 # Créer un article
 
-#### Créer un type d’article
+Créez un type d’article pour définir une sorte d’article que vous pouvez utiliser dans le processus de livraison.
 
-1. Aller à **Configuration**.
-2. Cliquez sur **Configuration** Menu
-3. Sous Personnalisation, cliquez sur **Types d’articles.**
-4. Cliquez sur le **Actions** menu déroulant
-5. Cliquez sur **Ajouter**
+## Avant de commencer
 
-<figure><img src="../.gitbook/assets/msedge_mNpo3vgyDb.png" alt=""><figcaption></figcaption></figure>
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à **Configuration**.
+* Munissez-vous du **Nom** et de la **Traduction** du type d’article.
 
-6. Saisissez le **Nom** et **Traduction**
-7. Cliquez sur **Enregistrer**
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/msedge_lnFKDostN4.png" alt=""><figcaption></figcaption></figure>
+* **Types d’articles** : page sous Personnalisation où vous gérez les types d’articles.
+* **Actions** : menu déroulant qui contient l’option **Ajouter**.
+* **Nom** : nom du type d’article.
+* **Traduction** : traduction du nom du type d’article.
 
-Le type d’article a été créé avec succès
+## Créer un type d’article
 
-<figure><img src="../.gitbook/assets/msedge_G6efIv9r2O.png" alt=""><figcaption></figcaption></figure>
+1. Accédez à **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Personnalisation, cliquez sur **Types d’articles**.
+4. Cliquez sur le menu déroulant **Actions**.
+5. Cliquez sur **Ajouter**.
+
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+6. Saisissez le **Nom** et la **Traduction**.
+
+<figure><img src="../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+7. Cliquez sur **Enregistrer**.
+
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Résultat
+
+Le type d’article est créé avec succès.
+
+<figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Rubriques connexes
+
+* [Gérer les articles](README.md)
+* [Ajouter des articles à une mission](add-articles-to-mission.md)

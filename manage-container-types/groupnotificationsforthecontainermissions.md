@@ -27,7 +27,7 @@ Suivez ces étapes initiales pour accéder aux paramètres :
 
 ![Activer l’interrupteur Peut agréger plusieurs missions et l’héritage du statut](../.gitbook/assets/GroupNotifications_BeforeBegin_004.gif)
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Peut agréger plusieurs missions** : Transforme une mission en conteneur parent pouvant contenir plusieurs autres missions.
 * **Messages client** : Section contenant les configurations des destinataires et des messages. Elle contrôle vos préférences de notification.
@@ -94,7 +94,7 @@ Le sous-traitant reçoit l’e-mail de notification.
 **Choix du moment du scan** : Le choix de l’envoi au premier ou au dernier scan optimise le moment de la notification en fonction des besoins du client.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Modifier un type de conteneur](edit-a-container-type.md)
 * [Héritage de l’enfant vers le parent](childtoparentinheritance.md)

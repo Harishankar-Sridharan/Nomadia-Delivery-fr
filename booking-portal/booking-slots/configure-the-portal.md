@@ -1,83 +1,115 @@
 # Configurer le portail
 
-Le portail de réservation de rendez-vous dans Nomadia Delivery vous permet de planifier des créneaux optimisés pour les missions, en garantissant l’alignement avec les tournées existantes des livreurs. Ce guide explique comment utiliser les fonctionnalités du portail pour améliorer l’efficacité de la planification.
+Le portail de réservation de rendez-vous de Nomadia Delivery vous permet de planifier des créneaux optimisés pour les missions, en garantissant l’alignement avec les tournées existantes des livreurs. Utilisez ce guide pour améliorer l’efficacité de la planification.
 
-Pour configurer Nomadia Delivery pour le portail de réservation de rendez-vous, le transporteur doit suivre les étapes suivantes :
+## Avant de commencer
 
-1. Ouvrez l'application Nomadia Delivery et accédez à l'onglet **Configuration** .
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à l’onglet **Configuration** et à l’onglet **Missions**.
+* Connaissez les jours et les horaires de disponibilité de vos livreurs, car vous les définissez dans l’onglet **Planning**.
+* Disposez d’une mission standard de retrait ou de livraison existante si vous souhaitez réserver un créneau, car **Réservation de rendez-vous** est désactivée pour les missions de cross-docking et de retrait et livraison en chaîne.
+
+## Présentation de la fonctionnalité
+
+* **Onglet Planning** : définit les créneaux horaires disponibles à la réservation dans le portail de rendez-vous.
+* **Bouton Réservation de rendez-vous** : affiche les propositions de créneaux disponibles lorsque vous modifiez une mission.
+* **Notation par étoiles** : classe les créneaux proposés selon leur distance par rapport aux tournées existantes dans le Backoffice.
+  * **1 étoile** : le créneau proposé se situe à plus de 30 minutes des tournées existantes dans le Backoffice.
+  * **2 étoiles** : le créneau proposé se situe entre 10 et 30 minutes des tournées existantes dans le Backoffice.
+  * **3 étoiles** : le créneau proposé se situe à moins de 10 minutes des tournées existantes dans le Backoffice.
+
+## Configurer le portail de réservation de rendez-vous
+
+1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
+
+![](<../../.gitbook/assets/image-1 (5).png>)
+
 2. Dans le menu déroulant, sélectionnez **Configurer les pages d’expérience client.**
 
-<figure><img src="../../.gitbook/assets/msedge_SG8lOhDyh3.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-2 (5).png>)
 
-3. Cliquez sur le **Planifier une option de livraison.**
-4. Ouvrez l’onglet Planning. Cet onglet permet au transporteur de définir les créneaux horaires qui seront disponibles à la réservation dans le portail de rendez-vous.
+3. Cliquez sur l’option **Planifier une livraison.**
 
-<figure><img src="../../.gitbook/assets/msedge_UryGdiNYXC.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-3 (5).png>)
+
+4. Ouvrez l’onglet Planning. Cet onglet vous permet de définir les créneaux horaires qui seront disponibles à la réservation dans le portail de rendez-vous.
+
+![](../../.gitbook/assets/image-6.png)
 
 5. Cliquez dans la zone grise pour définir la disponibilité de vos livreurs.
 
-<figure><img src="../../.gitbook/assets/msedge_cSrMMWR9xd.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-5 (5).png>)
 
-6. Choisissez les jours et horaires souhaités selon vos préférences de livraison, puis enregistrez le planning.
+6. Choisissez les jours et les horaires souhaités selon vos préférences de livraison, puis enregistrez le planning.
 
-**Remarque**: Les créneaux de livraison définis ici sont ceux proposés par le moteur d’optimisation en temps réel. Veillez à les configurer avec soin afin d’éviter des suggestions de créneaux indésirables pendant les pauses (par exemple, déjeuner, briefing ou débriefing). Vous pouvez soit appliquer les mêmes créneaux à tous les jours de la semaine, soit configurer des créneaux différents pour chaque jour. Une fois la configuration terminée, la vue de planification affichera les créneaux préférés, comme indiqué dans la capture d’écran exemple.
+Vous pouvez soit appliquer les mêmes créneaux à tous les jours de la semaine, soit configurer des créneaux différents pour chaque jour. Une fois la configuration terminée, la vue de planification affiche les créneaux préférés, comme indiqué dans la capture d’écran exemple.
 
-<figure><img src="../../.gitbook/assets/msedge_HndwOicxEd.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-6 (5).png>)
 
-7. Enfin, cliquez sur **Enregistrer** pour confirmer le planning.
+7. Cliquez sur **Enregistrer** pour confirmer le planning.
 
-<figure><img src="../../.gitbook/assets/msedge_gpZXy4CTjY.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-7 (5).png>)
 
-Pour mettre à jour ou supprimer un planning existant, suivez les étapes suivantes
+## Mettre à jour ou supprimer un planning existant
 
-1. Cliquez sur le **zone bleue** pour ouvrir le planning que vous souhaitez modifier
+1. Cliquez sur la **zone bleue** pour ouvrir le planning que vous souhaitez modifier.
 
-<figure><img src="../../.gitbook/assets/msedge_byS4anKvDK.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-8 (4).png>)
 
-2. Ajustez la date et l’heure si nécessaire, puis cliquez sur Mettre à jour pour enregistrer les modifications ou sur Supprimer pour retirer le planning.
+2. Ajustez la date et l’heure si nécessaire.
+3. Cliquez sur **Mettre à jour** pour enregistrer les modifications, ou sur **Supprimer** pour retirer le planning.
 
-**Remarque**: Les propositions de créneaux sont influencées par plusieurs facteurs, tels que la disponibilité de l’utilisateur, la disponibilité du véhicule et les horaires d’ouverture de la mission. Veillez à ce que vos définitions de créneaux prennent ces facteurs en compte.
+## Réserver un créneau via le portail de réservation de rendez-vous
 
-Pour réserver un créneau via le portail de réservation de rendez-vous, suivez les étapes suivantes :
+1. Lancez l’application Nomadia Delivery et accédez à l’onglet **Missions**.
+2. Sélectionnez une mission existante en cliquant sur l’icône **crayon** pour la modifier.
 
-1. Lancez l’application Nomadia Delivery et allez dans l’onglet **Missions** .
-2. Sélectionnez n’importe quelle mission existante en cliquant sur l’ **crayon** icône pour la modifier.
+![](<../../.gitbook/assets/image-9 (4).png>)
 
-<figure><img src="../../.gitbook/assets/msedge_8mctvYyvkn.png" alt=""><figcaption></figcaption></figure>
+3. Cliquez sur le bouton **Réservation de rendez-vous** pour afficher les propositions de créneaux disponibles.
 
-3. Ensuite, cliquez sur le bouton « **Réservation de rendez-vous** » pour afficher les propositions de créneaux disponibles.
+![](<../../.gitbook/assets/image-10 (3).png>)
 
-<figure><img src="../../.gitbook/assets/image (1016).png" alt=""><figcaption></figcaption></figure>
-
-Veuillez noter que la fonctionnalité « **Réservation de rendez-vous** » est disponible uniquement pour les missions standard de collecte ou de livraison. Elle sera désactivée pour les types de mission suivants :
+La fonctionnalité **Réservation de rendez-vous** est disponible uniquement pour les missions standard de retrait ou de livraison. Elle est désactivée pour les types de mission suivants :
 
 * **Cross-docking**
-* **Collecte et livraison en chaîne**
+* **Retrait et livraison en chaîne**
 
-Pour ces missions, un message d’infobulle, comme indiqué dans la capture d’écran ci-dessous, apparaîtra.
+Pour ces missions, un message d’infobulle, comme indiqué dans la capture d’écran ci-dessous, apparaît.
 
-<figure><img src="../../.gitbook/assets/image (955).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-11 (3).png>)
 
 Le moteur d’optimisation en temps réel propose des créneaux en tenant compte de la disponibilité du véhicule et de l’utilisateur, ainsi que des horaires de la mission, sur la base des créneaux prédéfinis configurés lors de la mise en place.
 
-<figure><img src="../../.gitbook/assets/image (956).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-12 (3).png>)
 
-Les créneaux proposés sont classés selon la notation par étoiles
+Les créneaux proposés sont classés selon la notation par étoiles.
 
-* **1 étoile**: Le créneau proposé se situe à plus de 30 minutes des tournées existantes dans l’arrière-bureau.
-* **2 étoiles**: Le créneau proposé se situe entre 10 et 30 minutes des tournées existantes dans l’arrière-bureau.
-* **3 étoiles**: Le créneau proposé se situe à moins de 10 minutes des tournées existantes dans l’arrière-bureau.
+![](<../../.gitbook/assets/image-13 (3).png>)
 
-<figure><img src="../../.gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
+4. Choisissez l’un des créneaux proposés et cliquez sur le bouton **Choisir** pour soit créer un nouveau planning de tournée pour le créneau sélectionné (si aucune tournée n’est déjà planifiée dans le Backoffice à cette date et heure), soit ajouter la mission à un planning de tournée existant.
 
-L’utilisateur peut choisir n’importe lequel des créneaux proposés et cliquer sur le bouton « Choisir » pour soit créer un nouveau planning de tournée pour le créneau sélectionné (si aucune tournée n’est déjà planifiée dans l’arrière-bureau à cette date et heure), soit ajouter la mission à un planning de tournée existant.
+![](<../../.gitbook/assets/image-14 (3).png>)
 
-<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption></figcaption></figure>
+5. Consultez la notification qui apparaît dans le Backoffice une fois le créneau réservé avec succès.
 
-Une fois le créneau réservé avec succès, une notification apparaîtra dans l’arrière-bureau.
+![](<../../.gitbook/assets/image-15 (3).png>)
 
-<figure><img src="../../.gitbook/assets/image (959).png" alt=""><figcaption></figcaption></figure>
+6. Retournez à l’onglet **Missions** pour confirmer que la tournée a été créée ou mise à jour pour la date et l’heure sélectionnées.
 
-Retournez à l’onglet Missions pour confirmer que la tournée a été créée ou mise à jour pour la date et l’heure sélectionnées.
+![](<../../.gitbook/assets/image-16 (3).png>)
 
-<figure><img src="../../.gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
+## Conseils
+
+{% hint style="info" %}
+**Définition des créneaux** : les créneaux de livraison définis dans l’onglet Planning sont ceux proposés par le moteur d’optimisation en temps réel. Configurez-les avec soin afin d’éviter des suggestions de créneaux indésirables pendant les pauses (par exemple, déjeuner, briefing ou débriefing).
+{% endhint %}
+
+{% hint style="info" %}
+**Facteurs des propositions de créneaux** : les propositions de créneaux sont influencées par plusieurs facteurs, tels que la disponibilité de l’utilisateur, la disponibilité du véhicule et les horaires d’ouverture de la mission. Veillez à ce que vos définitions de créneaux prennent ces facteurs en compte.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Portail de réservation](../README.md)
+* [Créneaux de réservation](README.md)
+* [Configuration du report](../reschedule-configuration.md)

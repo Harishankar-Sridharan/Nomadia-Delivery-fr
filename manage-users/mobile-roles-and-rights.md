@@ -1,6 +1,16 @@
 # Mobile - Rôles et droits
 
-| <p><br>Rôles et droits</p>           | Description                                                                                                               |
+Les rôles et droits contrôlent les opérations qu’un utilisateur mobile peut effectuer. Utilisez cette référence pour connaître ce que chaque rôle ou droit autorise lorsqu’il est activé.
+
+## Avant de commencer
+
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à la gestion des utilisateurs.
+* Identifiez les opérations mobiles dont chaque utilisateur a besoin, telles que la livraison, le chargement ou la réception.
+* Voir [Activation de l’accès mobile](enabling-mobile-access.md) pour savoir comment l’accès mobile est configuré pour un utilisateur.
+
+## Présentation de la fonctionnalité
+
+| Rôles et droits                      | Description                                                                                                               |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | Livraison                            | Lorsqu’elle est activée, les utilisateurs peuvent effectuer des opérations liées à la livraison.                          |
 | Docking                              | Lorsqu’elle est activée, les utilisateurs peuvent accéder aux activités de docking et les gérer.                          |
@@ -22,8 +32,14 @@
 | Modifier les missions                | Lorsqu’elle est activée, les utilisateurs peuvent modifier les détails des missions.                                      |
 | Rendre l’appel obligatoire           | Lorsqu’elle est activée, les utilisateurs doivent passer un appel avant de terminer la mission.                           |
 
-**Politique de mot de passe pour l’accès mobile**
+## Politique de mot de passe pour l’accès mobile
 
 Le mot de passe doit contenir au minimum 8 caractères, dont au moins une lettre majuscule, une lettre minuscule et un chiffre.
 
-<figure><img src="../.gitbook/assets/msedge_i50688rYhV.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-10.png)
+
+## Rubriques connexes
+
+* [Gérer les utilisateurs](README.md)
+* [Activation de l’accès mobile](enabling-mobile-access.md)
+* [Web - Rôles et droits](web-roles-and-rights.md)

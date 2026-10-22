@@ -1,26 +1,50 @@
 # Configurer l’affichage de mes KPI
 
-Vous pouvez personnaliser votre écran d'accueil en sélectionnant les KPI les plus pertinents pour vos opérations. Nomadia Delivery vous permet d'afficher le tableau de bord de la page d'accueil configuré, ainsi qu'une période de calcul paramétrable allant du dernier jour aux sept derniers jours. Cela vous aide à rester concentré sur les indicateurs qui comptent le plus.
+Vous pouvez personnaliser votre écran d’accueil en sélectionnant les KPI les plus pertinents pour vos opérations. Nomadia Delivery vous permet d’afficher le tableau de bord de la page d’accueil configuré, ainsi qu’une période de calcul paramétrable allant du dernier jour aux sept derniers jours. Cela vous aide à rester concentré sur les indicateurs qui comptent le plus.
 
-Depuis la **Page d'accueil,**
+## Avant de commencer
 
-1. Cliquez sur le **Icône de compte** située dans le coin supérieur droit de l'écran.
-2. Sélectionnez **Mes préférences** dans le menu déroulant
+* Connectez-vous à **Nomadia Delivery** et ouvrez la **page d’accueil**.
+* Assurez-vous qu’un tableau de bord personnalisé de la page d’accueil est disponible à la sélection.
 
-<figure><img src="../.gitbook/assets/image (1007).png" alt=""><figcaption></figcaption></figure>
+## Présentation de la fonctionnalité
 
-3. Choisissez le **Tableau de bord** depuis le tableau de bord personnalisé de la page d'accueil.
+* **Icône de compte** : située dans le coin supérieur droit de l’écran ; ouvre le menu déroulant.
+* **Mes préférences** : l’option dans laquelle vous choisissez le tableau de bord et la période.
+* **Tableau de bord** : le tableau de bord personnalisé de la page d’accueil affiché sur votre page d’accueil.
+* **Période** : la période de calcul, allant du dernier jour aux sept derniers jours.
 
-<figure><img src="../.gitbook/assets/msedge_Ml6nscRkO1.png" alt=""><figcaption></figcaption></figure>
+## Configurer l’affichage de mes KPI
 
-3. Sélectionnez une période allant du dernier jour aux sept derniers jours selon votre préférence.
-4. Cliquez sur **Enregistrer**
+1. Depuis la **page d’accueil**, cliquez sur l’**icône de compte** située dans le coin supérieur droit de l’écran.
+2. Sélectionnez **Mes préférences** dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/msedge_4SLNV73Hfg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Votre page d'accueil affichera le tableau de bord choisi.
+3. Choisissez le **Tableau de bord** parmi les tableaux de bord personnalisés de la page d’accueil.
 
-<figure><img src="../.gitbook/assets/msedge_3SqAljufsj.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
-<br>
+4. Sélectionnez une période allant du dernier jour aux sept derniers jours selon votre préférence.
+5. Cliquez sur **Enregistrer**.
+
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Résultat
+
+Votre page d’accueil affiche le tableau de bord choisi.
+
+<figure><img src="../.gitbook/assets/msedge_BX9pwwqFcH.png" alt=""><figcaption></figcaption></figure>
+
+## Conseils
+
+{% hint style="info" %}
+**Concentrez-vous sur les indicateurs clés** : sélectionnez les KPI les plus pertinents pour vos opérations afin de rester concentré sur les indicateurs qui comptent le plus.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Page d’accueil](README.md)
+* [Comprendre l’écran d’accueil](comprendre-lecran-daccueil.md)
+* [Configurer l’affichage des statuts des missions](configurer-laffichage-des-statuts-des-missions.md)
+* [Actualiser la date des KPI et les statuts des missions](actualiser-la-date-des-kpi-et-les-statuts-des-missions.md)

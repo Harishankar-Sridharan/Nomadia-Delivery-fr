@@ -1,104 +1,122 @@
 # Sous-sectoriser la zone principale
 
-Cette fonctionnalité vous permet de diviser automatiquement une zone principale en territoires plus petits et équilibrés à l’aide du module de gestion des territoires. Les répartiteurs en ont besoin pour créer des zones justes et logiques pour des agents de livraison ou des équipes spécifiques. En suivant ce guide, vous obtiendrez trois sous-zones divisées géographiquement, prêtes à être attribuées immédiatement.
+Cette fonctionnalité vous permet de diviser automatiquement une zone principale en territoires plus petits et équilibrés à l’aide du module de gestion des territoires. Les répartiteurs en ont besoin pour créer des zones justes et logiques pour des livreurs ou des équipes spécifiques. En suivant ce guide, vous obtiendrez trois sous-zones divisées géographiquement, prêtes à être affectées immédiatement.
 
-#### Pour commencer
+## Avant de commencer
 
-Avant de commencer le sous-secteur, assurez-vous que votre système répond à ces exigences :
+Avant de commencer la sous-sectorisation, assurez-vous que votre système répond à ces exigences :
 
 * Une zone principale doit être construite avec des codes postaux cartographiés et une géographie définie.
-* Les données historiques des missions, y compris les points de livraison et les coordonnées, doivent être chargées sur la page des missions.
-* Ouvrez votre **étude** et accédez à l' **onglet zone**.
+* Les données historiques des missions, y compris les points de livraison et les coordonnées, doivent être chargées dans la page des missions.
 
-<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption></figcaption></figure>
+1. Ouvrez votre **étude** et accédez à l’**onglet Zone**.
 
-* Sélectionnez votre **zone principale** dans la liste.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_35.png)
 
-<figure><img src="../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
+2. Sélectionnez votre **zone principale** dans la liste.
 
-**Présentation de la fonctionnalité**
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_42.png)
 
-* **menu Actions**: Permet d’accéder à l’outil de sous-sectorisation pour la zone sélectionnée.
+## Présentation de la fonctionnalité
 
-<figure><img src="../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
+* **Menu Actions** : permet d’accéder à l’outil de sous-sectorisation pour la zone sélectionnée.
 
-* **Fenêtre contextuelle des paramètres de sectorisation**: Vous permet de filtrer les missions que le système utilise pour l’équilibrage.
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_fZka2nACfC.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (741).png" alt=""><figcaption></figcaption></figure>
+* **Fenêtre contextuelle des paramètres de sectorisation** : vous permet de filtrer les missions que le système utilise pour l’équilibrage.
 
-* **Bascule du modèle de nommage**: Nomme automatiquement les nouvelles sous-zones à partir du nom de la zone principale afin de maintenir la cohérence.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_49.png)
 
-<figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+* **Bascule du modèle de nommage** : nomme automatiquement les nouvelles sous-zones à partir du nom de la zone principale afin de maintenir la cohérence.
 
-* **Bouton d’attribution des territoires**: Lance le module de gestion des territoires avec vos données de mission filtrées.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_38.png)
 
-<figure><img src="../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
+* **Bouton d’affectation des territoires** : lance le module de gestion des territoires avec vos données de mission filtrées.
 
-* **bouton Automatisation**: Ouvre l’assistant d’attribution des territoires pour démarrer le processus d’équilibrage automatisé.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_16.png)
 
-<figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+* **Bouton Automatisation** : ouvre l’assistant d’affectation des territoires pour démarrer le processus d’équilibrage automatisé.
 
-* **Points d’équilibrage**: Une méthode d’équilibrage qui répartit les missions uniformément en fonction du nombre de points de livraison.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
 
-<figure><img src="../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
+* **Points d’équilibrage** : une méthode d’équilibrage qui répartit les missions uniformément en fonction du nombre de points de livraison.
 
-* **Bouton de validation de la gestion des territoires**: Finalise la division automatisée et vous fait passer à l’étape d’attribution.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_03.png)
 
-<figure><img src="../../.gitbook/assets/image (746).png" alt=""><figcaption></figcaption></figure>
+* **Bouton de validation de la gestion des territoires** : finalise la division automatisée et vous fait passer à l’étape d’affectation.
 
-#### Mode d’emploi : créer des sous-zones équilibrées
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
 
-1. Ouvrez le **menu Actions** et sélectionnez **sous-sectoriser**.
+## Créer des sous-zones équilibrées
 
-<figure><img src="../../.gitbook/assets/image (747).png" alt=""><figcaption></figcaption></figure>
+1. Ouvrez le **menu Actions** et sélectionnez **Sous-sectoriser**.
 
-2. Utilisez les filtres pour réduire les données des missions par **agence**, **sous-traitant**, **période**, ou **jour de la semaine**.
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_43_to_1_to_48.gif)
 
-<figure><img src="../../.gitbook/assets/image (748).png" alt=""><figcaption></figcaption></figure>
+2. Utilisez les filtres pour réduire les données des missions par **agence**, **sous-traitant**, **période** ou **jour de la semaine**.
+
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_07.png)
 
 3. Activez le **modèle de nommage** pour automatiser le nommage des sous-zones.
 
-<figure><img src="../../.gitbook/assets/image (749).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_41.png)
 
-4. Cliquez sur **attribuer les territoires** pour charger les missions filtrées sur la carte.
+4. Cliquez sur **Affecter des territoires** pour charger les missions filtrées sur la carte.
 
-<figure><img src="../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_16.png)
 
-5. Sélectionnez le **bouton d’automatisation** situé en haut à gauche de la carte.
+5. Sélectionnez le **bouton Automatisation** situé en haut à gauche de la carte.
 
-<figure><img src="../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
 
-6. Sélectionnez **points d’équilibrage** comme méthode d’équilibrage et cliquez sur **démarrer**.
+6. Sélectionnez **Points d’équilibrage** comme méthode d’équilibrage et cliquez sur **Démarrer**.
 
-<figure><img src="../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_03.png)
 
-7. Accédez à **onglet du nombre de territoires** et saisissez votre nombre cible (par exemple, 3).
+7. Accédez à l’**onglet Nombre de territoires** et saisissez votre nombre cible (par exemple, 3).
 
-<figure><img src="../../.gitbook/assets/image (750).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_23.png)
 
-8. Passez à l’ **équilibrer les territoires sur l’onglet** et sélectionnez votre indicateur, par exemple **nombre de points**.
+8. Passez à l’onglet **Équilibrer les territoires sur** et sélectionnez votre indicateur, par exemple **Nombre de points**.
 
-<figure><img src="../../.gitbook/assets/image (751).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_32.png)
 
-9. Cliquez sur **c’est parti** pour lancer l’équilibrage automatisé.
+9. Cliquez sur **C’est parti** pour lancer l’équilibrage automatisé.
 
-<figure><img src="../../.gitbook/assets/image (752).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_00_to_5_to_12.gif)
 
-10. Vérifiez la division de la carte et cliquez sur **valider la gestion des territoires**.
+10. Vérifiez la division de la carte et cliquez sur **Valider la gestion des territoires**.
 
-<figure><img src="../../.gitbook/assets/image (746).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
 
 11. Associez chaque sous-zone à une **agence** ou **sous-agence** à l’aide du menu déroulant.
 
-<figure><img src="../../.gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_10.png)
 
-12. Cliquez sur **enregistrer et attribuer** pour mettre en service immédiatement, ou cliquez sur **enregistrer** pour finaliser plus tard.
+12. Cliquez sur **Enregistrer et affecter** pour mettre en service immédiatement, ou cliquez sur **Enregistrer** pour finaliser plus tard.
 
-<figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_39.png)
 
-#### Conseils de productivité
+## Conseils
 
-* 💡 **Équilibrage intelligent**: Utilisez les données historiques des missions, comme le nombre d’arrêts et les coordonnées, pour garantir que vos zones soient divisées avec précision en fonction de l’activité réelle.
-* 💡 **Indicateurs flexibles**: Vous pouvez équilibrer les territoires à l’aide de n’importe quelle donnée numérique, comme la durée de livraison ou le temps de service, pour répondre à vos besoins opérationnels spécifiques.
-* 💡 **Vérification visuelle**: Utilisez les couleurs distinctes sur la carte pour identifier et vérifier immédiatement la logique géographique de vos nouvelles sous-zones.
-* ⚠️ **Avertissement sur les données manquantes**: Vous ne pouvez pas effectuer de sous-sectorisation si les missions ne sont pas chargées, car le système n’aura aucune donnée sur laquelle s’appuyer pour l’équilibrage.
+{% hint style="info" %}
+**Équilibrage intelligent** : utilisez les données historiques des missions, comme le nombre d’arrêts et les coordonnées, pour garantir que vos zones soient divisées avec précision en fonction de l’activité réelle.
+{% endhint %}
+
+{% hint style="info" %}
+**Indicateurs flexibles** : vous pouvez équilibrer les territoires à l’aide de n’importe quelle donnée numérique, comme la durée de livraison ou le temps de service, pour répondre à vos besoins opérationnels spécifiques.
+{% endhint %}
+
+{% hint style="info" %}
+**Vérification visuelle** : utilisez les couleurs distinctes sur la carte pour identifier et vérifier immédiatement la logique géographique de vos nouvelles sous-zones.
+{% endhint %}
+
+{% hint style="warning" %}
+**Avertissement sur les données manquantes** : vous ne pouvez pas effectuer de sous-sectorisation si les missions ne sont pas chargées, car le système n’aura aucune donnée sur laquelle s’appuyer pour l’équilibrage.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Division des sous-zones](dividing-sub-zones.md)
+* [Fusion des sous-zones](merging-sub-zones.md)
+* [Études de cas](../README.md)

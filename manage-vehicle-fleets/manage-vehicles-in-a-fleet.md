@@ -1,118 +1,151 @@
 # Gérer les véhicules d’une flotte
 
-#### Ajouter un véhicule
+Ajoutez, supprimez, exportez et colorez les véhicules d’une flotte, et personnalisez leur affichage.
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Cliquez sur le nom souhaité
-5. Cliquez sur Actions
-6. Cliquez sur Ajouter dans le menu déroulant
+## Avant de commencer
 
-<figure><img src="../.gitbook/assets/msedge_YDBiMgyEAN.png" alt=""><figcaption></figcaption></figure>
+* Connectez-vous à **Nomadia Delivery** avec un profil utilisateur ayant accès à la page **Configuration**.
+* Ouvrez **Gérer les véhicules** sous **Mes données** et sélectionnez le nom de la flotte avec laquelle vous souhaitez travailler.
 
-7. Saisissez le nom
-8. Cliquez sur Ajouter
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/msedge_UA1jt2TwRr.png" alt=""><figcaption></figcaption></figure>
+* **Ajouter** : ajoute un véhicule avec un **Nom**.
+* **Supprimer** : supprime un véhicule après confirmation du message contextuel.
+* **Exporter** : exporte les véhicules.
+* **Coloration** : applique une couleur à un véhicule.
+* **Personnaliser la liste** : permet de choisir les champs à afficher dans le tableau des véhicules ou dans le tableau des flottes de véhicules.
 
-**Supprimer un véhicule**
+## Ajouter un véhicule
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Cliquez sur le nom souhaité
-5. Cliquez sur Actions
-6. Cliquez sur Supprimer dans le menu déroulant
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Mes données, cliquez sur **Gérer les véhicules**.
+4. Cliquez sur le nom souhaité.
+5. Cliquez sur **Actions**.
+6. Cliquez sur **Ajouter** dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/msedge_Loo3j1CHuV.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-47.png)
 
-7. Vous verrez un message contextuel de confirmation indiquant : « Voulez-vous supprimer le véhicule ? »
-8. Cliquez sur Supprimer.
+7. Saisissez le **Nom**.
 
-<figure><img src="../.gitbook/assets/msedge_bnGa8fvG3k.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-48.png)
 
-Les véhicules ont été supprimés avec succès
+8. Cliquez sur **Ajouter**.
 
-<figure><img src="../.gitbook/assets/msedge_GNRvUfuaRu.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-49.png)
 
-#### Exporter un véhicule
+## Supprimer un véhicule
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Cliquez sur le nom souhaité
-5. Cliquez sur Actions
-6. Cliquez sur Exporter dans le menu déroulant
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Mes données, cliquez sur **Gérer les véhicules**.
+4. Cliquez sur le nom souhaité.
+5. Cliquez sur **Actions**.
+6. Cliquez sur **Supprimer** dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/msedge_2HV6fQeqxN.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-53.png)
+
+7. Consultez le message contextuel de confirmation qui indique : « Voulez-vous supprimer le véhicule ? »
+8. Cliquez sur **Supprimer**.
+
+![](../.gitbook/assets/image-45.png)
+
+### Résultat
+
+Les véhicules ont été supprimés avec succès.
+
+![](../.gitbook/assets/image-1.png)
+
+## Exporter un véhicule
+
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Mes données, cliquez sur **Gérer les véhicules**.
+4. Cliquez sur le nom souhaité.
+5. Cliquez sur **Actions**.
+6. Cliquez sur **Exporter** dans le menu déroulant.
+
+![](../.gitbook/assets/image-56.png)
+
+### Résultat
 
 Les véhicules ont été exportés avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_zzMKqlRLwE.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-57.png)
 
-#### Colorer un véhicule
+## Colorer un véhicule
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Cliquez sur le nom souhaité
-5. Cliquez sur Actions
-6. Cliquez sur Coloration dans le menu déroulant
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Mes données, cliquez sur **Gérer les véhicules**.
+4. Cliquez sur le nom souhaité.
+5. Cliquez sur **Actions**.
+6. Cliquez sur **Coloration** dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/msedge_Zw3PqWqwa5.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-58.png)
 
-7. Choisissez une couleur
-8. Cliquez sur Enregistrer
+7. Choisissez une couleur.
+8. Cliquez sur **Enregistrer**.
 
-<figure><img src="../.gitbook/assets/msedge_iynYNapinz.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-59.png)
+
+### Résultat
 
 La couleur a été appliquée avec succès.
 
-<figure><img src="../.gitbook/assets/msedge_HqK6Fd513g.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-60.png)
 
-#### Personnaliser le tableau des véhicules
+## Personnaliser le tableau des véhicules
 
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Cliquez sur le nom souhaité
-5. Cliquez sur Actions
-6. Cliquez sur Personnaliser la liste dans le menu déroulant
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Mes données, cliquez sur **Gérer les véhicules**.
+4. Cliquez sur le nom souhaité.
+5. Cliquez sur **Actions**.
+6. Cliquez sur **Personnaliser la liste** dans le menu déroulant.
 
-<figure><img src="../.gitbook/assets/msedge_r1A5NFIVSz.png" alt=""><figcaption></figcaption></figure>
-
-7. Choisissez les champs que vous souhaitez afficher dans le tableau.
-
-**Remarque**: Évitez de sélectionner trop de champs à la fois, car il peut devenir difficile de lire ounaviguer.
-
-8. Cliquez sur Enregistrer
-
-<figure><img src="../.gitbook/assets/msedge_AOwNYedpjt.png" alt=""><figcaption></figcaption></figure>
-
-Les champs sélectionnés seront affichés avec succès dans le tableau
-
-<figure><img src="../.gitbook/assets/msedge_DNmlSMXmCk.png" alt=""><figcaption></figcaption></figure>
-
-#### Personnaliser le tableau des flottes de véhicules
-
-1. Allez dans Configuration.
-2. Cliquez sur le menu Configuration
-3. Sous Mes données, cliquez sur Gérer les véhicules.
-4. Sélectionnez une équipe
-5. Sous Mes flottes, cliquez sur le menu déroulant Actions.
-6. Cliquez sur Personnaliser la liste
-
-<figure><img src="../.gitbook/assets/image (999).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image-61.png)
 
 7. Choisissez les champs que vous souhaitez afficher dans le tableau.
+8. Cliquez sur **Enregistrer**.
 
-**Remarque**: Évitez de sélectionner trop de champs à la fois, car cela pourrait rendre la lecture ou la navigation difficile.
+![](../.gitbook/assets/image-62.png)
 
-8. Cliquez sur Enregistrer
+### Résultat
 
-<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
+Les champs sélectionnés sont affichés avec succès dans le tableau.
 
-Les champs sélectionnés ont été affichés avec succès dans le tableau
+![](../.gitbook/assets/image-63.png)
 
-<figure><img src="../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
+## Personnaliser le tableau des flottes de véhicules
+
+1. Allez dans **Configuration**.
+2. Cliquez sur le menu **Configuration**.
+3. Sous Mes données, cliquez sur **Gérer les véhicules**.
+4. Sélectionnez une équipe.
+5. Sous Mes flottes, cliquez sur le menu déroulant **Actions**.
+6. Cliquez sur **Personnaliser la liste**.
+
+![](../.gitbook/assets/image-69.png)
+
+7. Choisissez les champs que vous souhaitez afficher dans le tableau.
+8. Cliquez sur **Enregistrer**.
+
+![](../.gitbook/assets/image-62.png)
+
+### Résultat
+
+Les champs sélectionnés sont affichés avec succès dans le tableau.
+
+![](../.gitbook/assets/image-63.png)
+
+## Conseils
+
+{% hint style="info" %}
+**Sélection des champs** : évitez de sélectionner trop de champs à la fois, car le tableau pourrait devenir difficile à lire ou à parcourir.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Gérer les flottes de véhicules](README.md)
+* [Personnaliser les contraintes](customize-the-constraints.md)

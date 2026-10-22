@@ -15,7 +15,7 @@ Prérequis et configuration système :
 
 ![Cliquez sur Types de conteneurs](../.gitbook/assets/ParentToChildInheritance_BeforeBegin_001.gif)
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Hériter du sous-statut vers les missions enfants :** ce bouton bascule transmet automatiquement le statut du conteneur parent aux conteneurs enfants.
 * **Héritage des sous-statuts :** les sous-statuts peuvent être hérités par les conteneurs enfants de la même manière que les statuts.

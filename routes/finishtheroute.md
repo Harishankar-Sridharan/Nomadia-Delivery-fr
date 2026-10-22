@@ -58,7 +58,7 @@ Cela garantit qu’aucune mission inachevée ne reste ouverte une fois l’itin�
 **Itinéraires non clôturés** : évitez de laisser des itinéraires terminés ouverts dans le système afin de ne pas fausser le suivi des statuts d’itinéraire.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Création manuelle d’un itinéraire](manualroutecreation.md)
 * [Éditeur d’itinéraires](routeeditor.md)

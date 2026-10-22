@@ -1,86 +1,98 @@
 # Permutation du sous-traitant vers la zone principale
 
-Annuler un changement de sous-traitant vous permet de restaurer rapidement les missions dans leur configuration d’origine de zone primaire. Ce processus est essentiel si un changement a été effectué par erreur ou si un sous-traitant retardé arrive enfin au dépôt. Vous obtiendrez une restauration complète des secteurs, des sous-traitants et des chauffeurs sur l’ensemble des missions en une seule action.
+Annuler une permutation de sous-traitant vous permet de restaurer rapidement les missions dans leur configuration d’origine de zone principale. Ce processus est essentiel si une permutation a été effectuée par erreur ou si un sous-traitant retardé arrive enfin au dépôt. Vous obtiendrez une restauration complète des secteurs, des sous-traitants et des chauffeurs sur l’ensemble des missions en une seule action.
 
-#### Pour commencer
+## Avant de commencer
 
-* Accès au **Mission** .
+* Accès à l’onglet **Mission**.
 * Les missions doivent être actuellement affectées à une zone secondaire (de secours).
-* Accédez à **Mission**
 
-<figure><img src="../.gitbook/assets/image (876).png" alt=""><figcaption></figcaption></figure>
+1. Accédez à l’onglet **Mission**.
 
-#### Présentation de la fonctionnalité
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_0_to_44.png)
 
-* **Panneau de filtrage**: Utilisez ce panneau pour isoler les missions attribuées à des secteurs ou des sous-traitants spécifiques.
+## Présentation de la fonctionnalité
 
-<figure><img src="../.gitbook/assets/image (877).png" alt=""><figcaption></figcaption></figure>
+* **Panneau de filtrage** : utilisez ce panneau pour isoler les missions affectées à des secteurs ou des sous-traitants spécifiques.
 
-* **Menu Actions**: Ouvrez ce menu pour accéder aux opérations groupées pour les missions sélectionnées.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_0_to_54.png)
 
-<figure><img src="../.gitbook/assets/image (878).png" alt=""><figcaption></figcaption></figure>
+* **Menu Actions** : ouvrez ce menu pour accéder aux opérations groupées pour les missions sélectionnées.
 
-* **Fenêtre contextuelle d’affectation à un sous-traitant**: Utilisez cette fenêtre pour modifier les affectations de zone et sélectionner des sous-traitants.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_21.png)
 
-<figure><img src="../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
+* **Fenêtre contextuelle Affecter au sous-traitant** : utilisez cette fenêtre pour modifier les affectations de zone et sélectionner des sous-traitants.
 
-* **Bascule Zone primaire**: Activez cet interrupteur pour restaurer les missions dans leur configuration primaire d’origine.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_29.png)
 
-<figure><img src="../.gitbook/assets/image (880).png" alt=""><figcaption></figcaption></figure>
+* **Interrupteur Zone principale** : activez cet interrupteur pour restaurer les missions dans leur configuration principale d’origine.
 
-#### Mode d’emploi : restaurer les missions vers la zone primaire
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_34.png)
 
-1. Accédez à **Panneau de filtrage**.
+## Restaurer les missions vers la zone principale
 
-<figure><img src="../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
+1. Accédez au **Panneau de filtrage**.
 
-2. Filtrez par la **colonne** Secteur **Parmi** opérateur.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_0_to_54_to_1_to_01.gif)
 
-<figure><img src="../.gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
+2. Filtrez par la colonne **Secteur** à l’aide de l’opérateur **Parmi**.
 
-3. Sélectionnez toutes les missions actuellement attribuées à la zone de secours.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_01_to_1_to_11.gif)
 
-<figure><img src="../.gitbook/assets/image (878).png" alt=""><figcaption></figcaption></figure>
+3. Sélectionnez toutes les missions actuellement affectées à la zone de secours.
 
-4. Cliquez sur le **Menu Actions** et sélectionnez **Affecter à un sous-traitant**.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_21.png)
 
-<figure><img src="../.gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
+4. Cliquez sur le **Menu Actions** et sélectionnez **Affecter au sous-traitant**.
 
-5. Activez la **Zone primaire** bascule dans la fenêtre contextuelle.
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_21_to_1_to_29.gif)
 
-<figure><img src="../.gitbook/assets/image (880).png" alt=""><figcaption></figcaption></figure>
+5. Activez l’interrupteur **Zone principale** dans la fenêtre contextuelle.
+
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_34.png)
 
 6. Sélectionnez le sous-traitant d’origine affichant une couverture de 100 %.
 
-<figure><img src="../.gitbook/assets/image (884).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_51.png)
 
 7. Cliquez sur **Appliquer** pour terminer la restauration.
 
-<figure><img src="../.gitbook/assets/image (885).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_2_to_02_to_2_to_09.gif)
 
-**Mode d’emploi : vérifier la restauration**
+## Vérifier la restauration
 
 1. Effacez le filtre de la zone de secours du tableau des missions.
 
-<figure><img src="../.gitbook/assets/image (886).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_2_to_33.png)
 
-2. Appliquez un nouveau filtre à l’aide du **colonne** champ pour sélectionner la sous-zone primaire.
+2. Appliquez un nouveau filtre à l’aide du champ **Secteur** pour sélectionner la sous-zone principale.
 
-<figure><img src="../.gitbook/assets/image (887).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_2_to_33_to_2_to_40.gif)
 
-3. Confirmez que **colonne**, **Sous-traitant**, et **Livreur programmé** ont été restaurés.
+3. Confirmez que **Secteur**, **Sous-traitant** et **Livreur programmé** ont été restaurés.
 
-<figure><img src="../.gitbook/assets/image (888).png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_2_to_54.png)
 
-**Conseils de productivité**
+## Conseils
 
-* 💡 **Restauration à une seule bascule**: Annuler un changement est aussi rapide que d’en effectuer un en basculant un seul interrupteur.
-* 💡 **Raccordement automatique du chauffeur**: Le chauffeur d’origine est automatiquement à nouveau rattaché aux missions lorsque vous restaurez la zone primaire.
-* 💡 **Efficacité en lot**: Annulez des centaines d’affectations de missions en quelques secondes, sans modification manuelle ni réimportation des données.
-* ⚠️ **Vérification via un tableau vide**: Si le tableau des missions apparaît vide après avoir cliqué sur Appliquer, cela confirme que le filtre de secours ne s’applique plus à ces missions.
+{% hint style="info" %}
+**Restauration en un seul clic** : annuler une permutation est aussi rapide que d’en effectuer une, en basculant un seul interrupteur.
+{% endhint %}
 
-\
-<br>
+{% hint style="info" %}
+**Rattachement automatique du chauffeur** : le chauffeur d’origine est automatiquement rattaché à nouveau aux missions lorsque vous restaurez la zone principale.
+{% endhint %}
 
-\
-<br>
+{% hint style="info" %}
+**Efficacité en lot** : annulez des centaines d’affectations de missions en quelques secondes, sans modification manuelle ni réimportation des données.
+{% endhint %}
+
+{% hint style="warning" %}
+**Vérification via un tableau vide** : si le tableau des missions apparaît vide après avoir cliqué sur Appliquer, cela confirme que le filtre de secours ne s’applique plus à ces missions.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Études de cas](README.md)
+* [Permutation du sous-traitant vers la zone de secours](subcontractor-swap-to-backup-zone.md)
+* [Création d’une zone de secours](creating-backup-zone.md)

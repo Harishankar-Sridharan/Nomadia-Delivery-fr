@@ -15,7 +15,7 @@ Les **libellés personnalisés des blocs de mission** permettent aux répartiteu
 
 ![Cliquez sur Libellés personnalisés des blocs de mission pour ouvrir les paramètres des libellés](../.gitbook/assets/MissionBlockLabels_BeforeBegin_002.gif)
 
-## Vue d’ensemble de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Informations prédéfinies** : affiche les champs de libellés par défaut disponibles lors de la création ou de la modification d’une mission.
 * **Informations générales** : permet aux utilisateurs de saisir des noms de libellés personnalisés pour les champs des blocs de mission.

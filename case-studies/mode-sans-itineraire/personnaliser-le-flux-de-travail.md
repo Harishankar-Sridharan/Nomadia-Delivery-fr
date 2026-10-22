@@ -16,7 +16,7 @@ Cette fonctionnalité est activée exclusivement pour les comptes configurés en
 
 <figure><img src="../../.gitbook/assets/CustomizeWorkflow_BeforeBegin_001.png" alt="Cliquer sur l’onglet Flux de travail"><figcaption></figcaption></figure>
 
-## Aperçu de la fonctionnalité
+## Présentation de la fonctionnalité
 
 * **Mappage du flux de travail** : Définissez quel statut peut être modifié vers un statut suivant spécifique.
 * **Bouton de proximité** : Activez cette option pour exiger que l’utilisateur se trouve à proximité de l’adresse du client lorsque ce statut est appliqué dans l’application mobile.
@@ -46,7 +46,7 @@ Cette fonctionnalité est activée exclusivement pour les comptes configurés en
 **Modifications non enregistrées** : Cliquez toujours sur **Enregistrer** après avoir effectué des modifications pour vous assurer que celles de votre flux de travail sont sauvegardées.
 {% endhint %}
 
-## Rubriques associées
+## Rubriques connexes
 
 * [Personnaliser la hiérarchie des statuts](customizethestatushierarchy.md)
 * [Personnalisation des libellés de statut](../../missions/customizing-status-labels.md)
