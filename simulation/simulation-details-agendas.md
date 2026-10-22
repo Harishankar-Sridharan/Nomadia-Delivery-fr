@@ -14,7 +14,7 @@ Cette page explique comment utiliser la vue **Agendas** pour voir quand vos ress
 4. Pour changer de jour, cliquez sur les flèches de chaque côté de la date, ou cliquez sur l’icône de calendrier.
 5. Pour voir la signification des couleurs, cliquez sur l’icône d’information à côté du titre du panneau.
 
-![La vue Agendas avec la disponibilité des ressources sur une chronologie](../.gitbook/assets/Simulation_DetailsAgendas_001.jpg)
+![La vue Agendas avec la disponibilité des ressources sur une chronologie](../.gitbook/assets/Simulation_DetailsAgendas_001_fr.jpg)
 
 ## Résultat
 

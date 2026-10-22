@@ -22,7 +22,7 @@ Le panneau liste chaque itinéraire par véhicule et par date. Dans la **Vue iti
 
 Chaque itinéraire a sa propre couleur, que vous voyez également sur la carte et dans l’icône en forme d’œil à côté de l’itinéraire.
 
-![Le menu Itinéraires ouvert avec Valider, Affecter, Désaffecter, Réordonner, Inverser, Verrouiller, Déverrouiller, Supprimer, Personnaliser la liste et Coloration](../.gitbook/assets/Simulation_Routes_001.png)
+![Le menu Itinéraires ouvert avec Valider, Affecter, Désaffecter, Réordonner, Inverser, Verrouiller, Déverrouiller, Supprimer, Personnaliser la liste et Coloration](../.gitbook/assets/Simulation_Routes_001_fr.png)
 
 ## Fonctionnalités
 

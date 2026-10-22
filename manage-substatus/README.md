@@ -24,7 +24,7 @@ La fonctionnalité Gérer les sous-statuts permet aux administrateurs de créer,
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Supprimer**.
 
-![](../.gitbook/assets/image-85.png)
+![](../.gitbook/assets/image-85_fr.png)
 
 7. Consultez le message de confirmation contextuel : « Voulez-vous supprimer le sous-statut ? »
 8. Cliquez sur **Oui**.
@@ -48,7 +48,7 @@ Appliquez des conditions basées sur les attributs de la zone tels que le type d
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Coloration**.
 
-![](../.gitbook/assets/image-88.png)
+![](../.gitbook/assets/image-88_fr.png)
 
 7. Choisissez une **Couleur**.
 8. Cliquez sur **Enregistrer**.

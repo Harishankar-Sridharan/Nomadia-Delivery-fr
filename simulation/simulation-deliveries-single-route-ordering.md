@@ -25,7 +25,7 @@ Utilisez **Ordonnancement sur un seul itinéraire** lorsque vous souhaitez place
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans ordonnancer l’itinéraire.
 
-![La fenêtre Ordonnancement sur un seul itinéraire avec l’heure de départ, la date, l’heure de début et la ressource](../.gitbook/assets/Simulation_DeliveriesSingleRouteOrdering_001.jpg)
+![La fenêtre Ordonnancement sur un seul itinéraire avec l’heure de départ, la date, l’heure de début et la ressource](../.gitbook/assets/Simulation_DeliveriesSingleRouteOrdering_001_fr.jpg)
 
 ## Options et champs
 

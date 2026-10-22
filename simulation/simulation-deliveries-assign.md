@@ -18,7 +18,7 @@ Cette page explique comment choisir l’itinéraire et le créneau horaire d’u
 
 La carte située à droite de la page affiche l’itinéraire.
 
-![La page Affecter une livraison à un itinéraire avec l’itinéraire, la date et les arrêts de l’itinéraire](../.gitbook/assets/Simulation_DeliveriesAssign_001.jpg)
+![La page Affecter une livraison à un itinéraire avec l’itinéraire, la date et les arrêts de l’itinéraire](../.gitbook/assets/Simulation_DeliveriesAssign_001_fr.jpg)
 
 ## Résultat
 

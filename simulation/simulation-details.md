@@ -13,11 +13,11 @@ Cette page explique comment utiliser le panneau **Détails** pour consulter les 
 3. Cliquez sur **Détails** pour consulter les totaux, ou sur **Agendas** pour consulter les agendas. Voir [Consulter les agendas](simulation-details-agendas.md).
 4. Pour consulter les totaux d’un itinéraire, ouvrez l’itinéraire dans le panneau **Itinéraires**. Voir [Consulter un itinéraire](simulation-routes-view-route.md).
 
-![Le panneau Détails affichant les totaux de tous les itinéraires](../.gitbook/assets/Simulation_Details_001.png)
+![Le panneau Détails affichant les totaux de tous les itinéraires](../.gitbook/assets/Simulation_Details_001_fr.png)
 
 Pour consulter les informations d’une livraison, cliquez sur la livraison dans le panneau **Livraisons**. Le titre du panneau devient la livraison et son itinéraire, par exemple **Livraison Phillips > Camion 1 07/09/2026**, et les informations s’affichent dans les onglets **Client**, **Contraintes** et **Autre**. L’onglet **Client** affiche **Nom**, **Adresse**, **Code postal**, **Ville**, **Pays**, **Longitude**, **Latitude** et **Score**.
 
-![Le panneau Détails avec les informations de la livraison sélectionnée dans l’onglet Client](../.gitbook/assets/Simulation_Details_002.jpg)
+![Le panneau Détails avec les informations de la livraison sélectionnée dans l’onglet Client](../.gitbook/assets/Simulation_Details_002_fr.jpg)
 
 ## Fonctionnalités
 

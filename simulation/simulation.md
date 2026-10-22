@@ -25,13 +25,13 @@ La page comporte une barre d’outils et quatre panneaux : **Livraisons**, **Car
 * [Analyser les résultats](simulation-analysis.md) : accédez aux graphiques d’analyse pour mieux comprendre les résultats.
 * [Consulter les itinéraires validés](simulation-validated-routes.md) : consultez les itinéraires que vous avez validés par itinéraire, par date et par livreur.
 
-![La page Simulation avec les panneaux Livraisons, Carte, Itinéraires et Détails](../.gitbook/assets/Simulation_Overview_001.png)
+![La page Simulation avec les panneaux Livraisons, Carte, Itinéraires et Détails](../.gitbook/assets/Simulation_Overview_001_fr.png)
 
 ## Résultat
 
 Lorsque l’optimisation se termine, la fenêtre **Résultats de l’optimisation** s’ouvre. Elle affiche **Véhicules utilisés**, **Livraisons**, **Durée totale**, **Distance totale**, **Itinéraires planifiés**, **Durée de travail totale**, **Durée de conduite**, **Durée d’attente**, **Durée de repos**, **Taux de remplissage moyen** et **Durée de l’optimisation**. Depuis cette fenêtre, vous pouvez cliquer sur **Plus de résultats**, **Afficher la simulation** ou **Valider les itinéraires**.
 
-![La fenêtre Résultats de l’optimisation avec les graphiques, les totaux et le bouton Afficher la simulation](../.gitbook/assets/Simulation_Overview_002.png)
+![La fenêtre Résultats de l’optimisation avec les graphiques, les totaux et le bouton Afficher la simulation](../.gitbook/assets/Simulation_Overview_002_fr.png)
 
 ## Conseils
 

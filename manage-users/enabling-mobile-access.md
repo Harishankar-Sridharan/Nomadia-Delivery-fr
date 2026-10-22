@@ -16,15 +16,15 @@ Activez l’accès mobile lorsque vous créez un utilisateur afin qu’il puisse
 
 1. Accédez à **Configuration**.
 
-![](<../.gitbook/assets/image-1 (1).png>)
+![](<../.gitbook/assets/image-1 (1)_fr.png>)
 
 2. Dans la liste, sélectionnez **Gérer les utilisateurs**.
 
-![](<../.gitbook/assets/image-2 (1).png>)
+![](<../.gitbook/assets/image-2 (1)_fr.png>)
 
 3. Cliquez sur la liste déroulante **Actions** et choisissez **Ajouter**.
 
-![](<../.gitbook/assets/image-3 (1).png>)
+![](<../.gitbook/assets/image-3 (1)_fr.png>)
 
 4. Définissez **Créer à partir d’un utilisateur existant** sur **Non** pour créer un nouvel utilisateur.
 5. Cliquez sur **OK**. Pour des instructions étape par étape, reportez-vous à [Créer un utilisateur à partir d’un utilisateur existant](creating-a-user-from-an-existing-user.md).
@@ -39,15 +39,15 @@ Activez l’accès mobile lorsque vous créez un utilisateur afin qu’il puisse
 8. Définissez le **Statut de l’utilisateur** sur **Oui** ou **Non**, selon les besoins.
 9. Activez l’**Accès mobile** et saisissez le **mot de passe** de l’utilisateur. Pour plus d’informations sur la politique de mot de passe, reportez-vous à [Politique de mot de passe pour l’accès mobile](mobile-roles-and-rights.md).
 
-![](<../.gitbook/assets/image-6 (1).png>)
+![](<../.gitbook/assets/image-6 (1)_fr.png>)
 
 10. Ouvrez **Rôles et droits** et activez les autorisations requises.
 
-![](<../.gitbook/assets/image-7 (1).png>)
+![](<../.gitbook/assets/image-7 (1)_fr.png>)
 
 11. Allez à **Agence**, sélectionnez l’agence disponible, puis cliquez sur la flèche vers la droite pour l’affecter à l’utilisateur.
 
-![](<../.gitbook/assets/image-8 (1).png>)
+![](<../.gitbook/assets/image-8 (1)_fr.png>)
 
 12. Après avoir renseigné tous les détails requis, cliquez sur **Enregistrer** pour créer l’utilisateur.
 

@@ -29,7 +29,7 @@ Une mission de cross-docking est divisée en deux étapes principales.
 
 1. Ouvrez l’application Nomadia Delivery et accédez à l’**onglet Missions**.
 
-<figure><img src="../.gitbook/assets/en-image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/en-image (47)_fr.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur le menu **Actions** et sélectionnez **Ajouter**.
 

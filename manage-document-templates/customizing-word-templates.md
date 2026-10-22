@@ -9,11 +9,11 @@ Ouvrez la liste des modèles de documents.
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
 2. Dans le menu déroulant, sélectionnez **Modèles de documents**.
 
-![](../.gitbook/assets/image-2.png)
+![](../.gitbook/assets/image-2_fr.png)
 
 La page affiche tous les modèles par défaut que Nomadia Delivery utilise pour générer des PDF, notamment les feuilles de tournée, les feuilles de chargement, les eCMR, les rapports de mission, les feuilles d’autocollants et les rapports de visite.
 
-![](<../.gitbook/assets/image-2 (7).png>)
+![](<../.gitbook/assets/image-2 (7)_fr.png>)
 
 Les modèles par défaut de Nomadia Delivery sont activés par défaut et ne peuvent ni être désactivés, ni modifiés, ni supprimés. Toutefois, si vous souhaitez personnaliser un modèle, vous pouvez télécharger l’existant et apporter les modifications nécessaires afin qu’il réponde à vos besoins.
 
@@ -136,7 +136,7 @@ Le PDF téléchargé est généré à l’aide du nouveau modèle activé.
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
 2. Dans le menu déroulant, sélectionnez **Modèles de documents**.
 
-![](../.gitbook/assets/image-2.png)
+![](../.gitbook/assets/image-2_fr.png)
 
 3. Dans le tableau, choisissez n’importe quel modèle non par défaut, puis cliquez sur le menu **Actions**.
 4. Sélectionnez **Supprimer** pour retirer le modèle.
@@ -163,11 +163,11 @@ Les paramètres du modèle incluent le type de document auquel le modèle est as
 
 2. Mettez à jour le type de document et les agences associées au modèle.
 
-![](<../.gitbook/assets/image-27 (5).png>)
+![](<../.gitbook/assets/image-27 (5)_fr.png>)
 
 3. Cliquez sur **Enregistrer** pour appliquer et enregistrer les paramètres mis à jour.
 
-![](<../.gitbook/assets/image-28 (5).png>)
+![](<../.gitbook/assets/image-28 (5)_fr.png>)
 
 ## Type de configuration personnalisé
 
@@ -185,7 +185,7 @@ Les deux types de configuration peuvent être affectés automatiquement en fonct
 3. Utilisez les trois types de configuration que Nomadia Delivery fournit par défaut (BASIC, INTERMEDIATE et ADVANCED), ou créez-en un nouveau à partir de zéro.
 4. Pour modifier un type de configuration existant, cliquez sur l’icône crayon à côté de celui-ci.
 
-![](<../.gitbook/assets/image-29 (5).png>)
+![](<../.gitbook/assets/image-29 (5)_fr.png>)
 
 5. Dans l’onglet **Général**, activez les interrupteurs en fonction de vos besoins :
    * Activez les deux interrupteurs si le type de configuration doit s’appliquer au sous-statut et à la notification.
@@ -195,7 +195,7 @@ Les deux types de configuration peuvent être affectés automatiquement en fonct
    * Plusieurs conditions peuvent être définies, et vous pouvez choisir si toutes les conditions doivent être remplies ou si une seule suffit en activant l’interrupteur **Suivre toutes les règles**.
 7. Si plusieurs types de configuration répondent aux conditions, le système attribue celui ayant la priorité la plus élevée (1 étant la plus élevée).
 
-![](<../.gitbook/assets/image-30 (4).png>)
+![](<../.gitbook/assets/image-30 (4)_fr.png>)
 
 8. Utilisez le tableau ci-dessous pour voir comment différents types de configuration, conditions et règles influencent l’affectation automatique des valeurs dans l’objet mission.
 

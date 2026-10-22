@@ -29,7 +29,7 @@ Les notifications peuvent être envoyées aux destinataires suivants :
 
 3. Cliquez sur l’icône **crayon** à côté du sous-statut existant pour le modifier.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 4. Repérez la section Configuration des messages personnalisés en bas de la page.
 

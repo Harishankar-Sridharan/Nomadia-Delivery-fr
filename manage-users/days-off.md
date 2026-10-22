@@ -18,11 +18,11 @@ Si un utilisateur a prévu un congé ou des vacances, la section Jours d’absen
 
 1. Accédez à **Jours d’absence**.
 
-![](../.gitbook/assets/image-23.png)
+![](../.gitbook/assets/image-23_fr.png)
 
 2. Cliquez sur l’icône **+ (Ajouter)**.
 
-![](../.gitbook/assets/image-24.png)
+![](../.gitbook/assets/image-24_fr.png)
 
 3. Saisissez la **Date de début**, la **Date de fin**, et précisez le **Motif**.
 4. Cliquez sur **Ajouter**.

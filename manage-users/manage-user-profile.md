@@ -19,15 +19,15 @@ Les organisations comptant des centaines ou des milliers d’utilisateurs peuven
 
 1. Accédez à **Configuration**.
 
-![](<../.gitbook/assets/image-1 (1).png>)
+![](<../.gitbook/assets/image-1 (1)_fr.png>)
 
 2. Dans la liste, sélectionnez **Gérer les profils d’utilisateur**.
 
-![](<../.gitbook/assets/image-2 (2).png>)
+![](<../.gitbook/assets/image-2 (2)_fr.png>)
 
 3. Cliquez sur la liste déroulante **Actions** et choisissez **Ajouter**.
 
-![](<../.gitbook/assets/image-3 (1).png>)
+![](<../.gitbook/assets/image-3 (1)_fr.png>)
 
 4. Saisissez l’**Identifiant** et le **Nom du profil**.
 5. Activez **profils de sous-traitant (accès Web)** pour les utilisateurs sous-traitants et **profils de sous-sous-traitant** (Web ou Mobile) pour les utilisateurs sous-sous-traitants.

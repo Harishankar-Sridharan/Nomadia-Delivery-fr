@@ -82,7 +82,7 @@ Prérequis :
 
 1. Cliquez sur le bouton **Rechercher** dans l’interface supérieure.
 
-![Cliquez sur le bouton Rechercher dans l’interface supérieure](../.gitbook/assets/ColorCoding_VerifyColorCodingVia_001.png)
+![Cliquez sur le bouton Rechercher dans l’interface supérieure](../.gitbook/assets/ColorCoding_VerifyColorCodingVia_001_fr.png)
 
 2. Recherchez la mission cible à l’aide du **Numéro de mission**.
 

@@ -18,7 +18,7 @@ Prérequis et configuration système :
 
 3. Cliquez sur **Modèles d’e-mail** sur le côté gauche de l’écran.
 
-![Cliquer sur Modèles d’e-mail sur le côté gauche de l’écran](../.gitbook/assets/EmailTemplates_BeforeBegin_002.gif)
+![Cliquer sur Modèles d’e-mail sur le côté gauche de l’écran](../.gitbook/assets/EmailTemplates_BeforeBegin_002_fr.png)
 
 ## Présentation de la fonctionnalité
 
@@ -40,11 +40,11 @@ Prérequis et configuration système :
 
 4. Cliquez sur **Actions**.
 
-![Cliquer sur Actions](../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_001.gif)
+![Cliquer sur Actions](../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_001_fr.png)
 
 5. Cliquez sur **Ajouter**.
 
-![Cliquer sur Ajouter](../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_002.gif)
+![Cliquer sur Ajouter](../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_002_fr.png)
 
 6. Cliquez sur **Modèle personnalisé** pour sélectionner votre modèle personnalisé.
 

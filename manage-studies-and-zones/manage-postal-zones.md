@@ -21,17 +21,17 @@ La fonctionnalité Gérer les zones postales permet aux administrateurs et aux r
 
 1. Cliquez sur l’onglet **Configuration**.
 
-![](../.gitbook/assets/image-35.png)
+![](../.gitbook/assets/image-35_fr.png)
 
 2. Sous **Livraison**, cliquez sur **Gérer les études et les zones**.
 
-<figure><img src="../.gitbook/assets/Z 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Z 1 (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur l’icône **crayon** à côté de l’étude pour ouvrir le tableau des zones.
 4. Ouvrez le menu déroulant **Actions**.
 5. Cliquez sur **Importer**.
 
-![](<../.gitbook/assets/image-9 (2).png>)
+![](<../.gitbook/assets/image-9 (2)_fr.png>)
 
 6. Cliquez sur **Parcourir le fichier** pour téléverser le fichier contenant les données de la zone.
 
@@ -55,7 +55,7 @@ Les zones postales sont importées avec succès.
 4. Cliquez sur le menu déroulant **Actions**.
 5. Cliquez sur **Ajouter une zone postale**.
 
-![](<../.gitbook/assets/image-13 (1).png>)
+![](<../.gitbook/assets/image-13 (1)_fr.png>)
 
 6. Renseignez les champs obligatoires : **Code**, **Nom** et **Préfixe**.
 
@@ -104,7 +104,7 @@ La zone postale est supprimée avec succès.
 4. Cliquez sur le menu déroulant **Actions**.
 5. Cliquez sur **Exporter**.
 
-<figure><img src="../.gitbook/assets/Z 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Z 5_fr.png" alt=""><figcaption></figcaption></figure>
 
 ### Résultat
 
@@ -122,7 +122,7 @@ Appliquez des conditions basées sur les attributs de la zone, tels que le type 
 4. Cliquez sur le menu déroulant **Actions**.
 5. Cliquez sur **Coloration**.
 
-<figure><img src="../.gitbook/assets/Z 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Z 6_fr.png" alt=""><figcaption></figcaption></figure>
 
 6. Choisissez une couleur.
 7. Cliquez sur **Enregistrer**.

@@ -21,7 +21,7 @@ L’édition en masse des données de mission permet des mises à jour à grande
 
 1. Depuis l’en-tête principal, cliquez sur la page **Missions**.
 
-<figure><img src="../.gitbook/assets/en-image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/en-image (192)_fr.png" alt=""><figcaption></figcaption></figure>
 
 2. Choisissez les missions qui vous intéressent dans le tableau des missions.
 

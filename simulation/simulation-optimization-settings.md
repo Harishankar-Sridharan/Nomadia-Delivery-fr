@@ -19,7 +19,7 @@ Vous pouvez aussi ouvrir les paramètres avec le bouton **Paramètres d’optimi
 
 Si vous laissez un champ vide, l’optimisation utilise la valeur déjà définie pour les ressources, les clients, les livraisons ou l’activité.
 
-![L’onglet Temps de travail de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_001.jpg)
+![L’onglet Temps de travail de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_001_fr.jpg)
 
 ## Temps de travail
 
@@ -38,7 +38,7 @@ Si vous laissez un champ vide, l’optimisation utilise la valeur déjà défini
 * **Vitesse** : **Vitesse du véhicule** et **Vitesse variable selon l’heure**.
 * **Itinéraire** : **Calculer l’itinéraire**, **Autoriser les péages**, **Autoriser les tunnels**, **Autoriser les ponts**, **Utiliser les zones de transit interdites** et **Autres critères d’exclusion**.
 
-![L’onglet Véhicule de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_002.jpg)
+![L’onglet Véhicule de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_002_fr.jpg)
 
 ## Limites
 
@@ -48,7 +48,7 @@ Si vous laissez un champ vide, l’optimisation utilise la valeur déjà défini
 * **Nombre maximal de rechargements/déchargements**.
 * **Nombre maximal de nuits consécutives à l’extérieur** et **Nombre maximal de nuits à l’extérieur par semaine**.
 
-![L’onglet Limites de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_003.jpg)
+![L’onglet Limites de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_003_fr.jpg)
 
 ## Priorités d’optimisation
 
@@ -61,14 +61,14 @@ Utilisez cet onglet pour indiquer à l’optimisation ce qui est important pour 
 
 La zone **Conseils** propose trois étapes : cliquez sur l’icône d’information pour consulter la documentation, définissez vos priorités, puis accédez à des onglets tels que **Véhicule** et **Temps de travail** pour activer les paramètres qui soutiennent vos priorités.
 
-![L’onglet Priorités d’optimisation de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_004.jpg)
+![L’onglet Priorités d’optimisation de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_004_fr.jpg)
 
 ## Options de calcul
 
 * **Durée de l’optimisation** : **Durée maximale de l’optimisation** (en minutes) et **Arrêt automatique de l’optimisation**.
 * **Optimisation** : **Moteur d’optimisation** et **Associer les livraisons aux mêmes adresses**.
 
-![L’onglet Options de calcul de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_005.jpg)
+![L’onglet Options de calcul de la fenêtre Paramètres d’optimisation](../.gitbook/assets/Simulation_OptimizationSettings_005_fr.jpg)
 
 ## Résultat
 

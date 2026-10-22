@@ -25,7 +25,7 @@ Les documents « Gérer les missions » font spécifiquement référence aux gui
 5. Cliquez sur **Importer**.
 6. Cliquez sur **Parcourir l’ordinateur**.
 
-<figure><img src="../.gitbook/assets/image (111) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 7. Sélectionnez un fichier valide pour importer un document.
 
@@ -40,12 +40,12 @@ Les documents de mission sont importés avec succès.
 1. Accédez à l’onglet **Missions**.
 2. Repérez la mission souhaitée et cliquez sur l’icône en forme de crayon pour l’ouvrir en mode édition.
 
-<figure><img src="../.gitbook/assets/image (116) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 3. Dans le menu de gauche, sélectionnez **Documents**.
 4. Cliquez sur **Parcourir l’ordinateur** pour ouvrir votre explorateur de fichiers.
 
-<figure><img src="../.gitbook/assets/image (114) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 5. Sélectionnez un document valide depuis votre système local à téléverser.
 
@@ -64,7 +64,7 @@ Les documents de mission sont téléversés avec succès.
 3. Dans le menu de gauche, sélectionnez **Documents**.
 4. Cliquez sur **Télécharger**.
 
-<figure><img src="../.gitbook/assets/image (120) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 ### Résultat
 

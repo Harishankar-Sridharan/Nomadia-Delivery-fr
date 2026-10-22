@@ -17,19 +17,19 @@ La visibilité des missions était auparavant déterminée principalement par l�
 
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Configuration**.
 
-![](<../../.gitbook/assets/image-49 (2).png>)
+![](<../../.gitbook/assets/image-49 (2)_fr.png>)
 
 2. Dans la liste, sélectionnez **Champs personnalisés**.
 
-![](<../../.gitbook/assets/image-50 (2).png>)
+![](<../../.gitbook/assets/image-50 (2)_fr.png>)
 
 3. Cliquez sur l’onglet **Missions**.
 
-![](<../../.gitbook/assets/image-51 (2).png>)
+![](<../../.gitbook/assets/image-51 (2)_fr.png>)
 
 4. Cliquez sur l’icône **crayon** pour modifier tout champ personnalisé existant.
 
-![](<../../.gitbook/assets/image-52 (2).png>)
+![](<../../.gitbook/assets/image-52 (2)_fr.png>)
 
 5. Activez la bascule de visibilité des missions pour le champ.
 
@@ -43,7 +43,7 @@ La visibilité des missions était auparavant déterminée principalement par l�
 
 1. Sélectionnez le menu **Gérer les utilisateurs**.
 
-![](<../../.gitbook/assets/image-55 (2).png>)
+![](<../../.gitbook/assets/image-55 (2)_fr.png>)
 
 2. Cliquez sur l’icône **crayon** pour modifier l’utilisateur requis.
 

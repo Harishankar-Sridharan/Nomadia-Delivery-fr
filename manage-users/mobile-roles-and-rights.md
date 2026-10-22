@@ -36,7 +36,7 @@ Les rôles et droits contrôlent les opérations qu’un utilisateur mobile peut
 
 Le mot de passe doit contenir au minimum 8 caractères, dont au moins une lettre majuscule, une lettre minuscule et un chiffre.
 
-![](../.gitbook/assets/image-10.png)
+![](../.gitbook/assets/image-10_fr.png)
 
 ## Rubriques connexes
 

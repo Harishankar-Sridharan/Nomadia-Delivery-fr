@@ -14,7 +14,7 @@ Cette page explique comment utiliser le panneau **Analyse** pour accéder aux gr
 4. Cliquez sur la flèche de la liste déroulante **Analyse**.
 5. Cliquez sur un graphique. Les graphiques sont décrits dans [Graphiques d’analyse](simulation-analysis-charts.md).
 
-![Le menu Analyse ouvert avec la liste des graphiques disponibles](../.gitbook/assets/Simulation_Analysis_001.png)
+![Le menu Analyse ouvert avec la liste des graphiques disponibles](../.gitbook/assets/Simulation_Analysis_001_fr.png)
 
 ## Fonctionnalités
 
@@ -24,7 +24,7 @@ Cette page explique comment utiliser le panneau **Analyse** pour accéder aux gr
 
 Le panneau affiche le graphique que vous avez sélectionné. Les graphiques montrent les **Livraisons planifiées** et les **Livraisons non planifiées** dans des couleurs différentes.
 
-![Le graphique Nombre de livraisons par durée dans le panneau Analyse](../.gitbook/assets/Simulation_Analysis_002.png)
+![Le graphique Nombre de livraisons par durée dans le panneau Analyse](../.gitbook/assets/Simulation_Analysis_002_fr.png)
 
 ## Conseils
 

@@ -21,15 +21,15 @@ L’interface Ajouter introduit une expérience simplifiée de création de miss
 
 1. Lancez l’application Nomadia Delivery et cliquez sur l’onglet **Configuration** dans la barre de navigation supérieure.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 2. Dans Configuration, sélectionnez l’onglet **Missions**. Cette section affiche tous les paramètres liés aux missions.
 
-<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 3. Cliquez sur le bouton **Actions** (en haut à droite ou dans la barre d’outils) et sélectionnez **Ajouter** pour créer une nouvelle configuration de mission.
 
-<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 4. Sélectionnez le **Type de mission** approprié dans la liste déroulante.
 5. Choisissez l’**Agence** correspondante à laquelle la mission s’applique.

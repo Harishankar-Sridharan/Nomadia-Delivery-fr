@@ -19,7 +19,7 @@ Cette page explique comment ouvrir un itinéraire pour voir ses arrêts, ses hor
    * **Désaffecter** : désaffectez des livraisons de l’itinéraire.
 7. Cliquez sur **Retour** pour revenir à la liste des itinéraires.
 
-![Un itinéraire ouvert dans le panneau Itinéraires, avec sa chronologie, ses événements et ses totaux](../.gitbook/assets/Simulation_RoutesViewRoute_001.jpg)
+![Un itinéraire ouvert dans le panneau Itinéraires, avec sa chronologie, ses événements et ses totaux](../.gitbook/assets/Simulation_RoutesViewRoute_001_fr.jpg)
 
 ## Résultat
 

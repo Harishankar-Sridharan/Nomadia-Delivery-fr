@@ -22,7 +22,7 @@ Utilisez **Optimiser** pour planifier automatiquement les livraisons sélectionn
 7. Dans **Paramètres d’optimisation**, sélectionnez la configuration à utiliser, par exemple **Paramètres par défaut**. Pour consulter ou modifier les paramètres, cliquez sur le bouton en forme d’engrenage. Voir [Configurer les paramètres d’optimisation](simulation-optimization-settings.md).
 8. Cliquez sur **Optimiser**.
 
-![La fenêtre Optimisation avec la période, les véhicules et les paramètres d’optimisation](../.gitbook/assets/Simulation_DeliveriesOptimize_001.jpg)
+![La fenêtre Optimisation avec la période, les véhicules et les paramètres d’optimisation](../.gitbook/assets/Simulation_DeliveriesOptimize_001_fr.jpg)
 
 ![L’optimisation en cours avec les étapes Préparation de l’optimisation et Optimisation](../.gitbook/assets/Simulation_DeliveriesOptimize_002.jpg)
 

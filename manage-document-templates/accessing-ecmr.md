@@ -6,7 +6,7 @@ Un eCMR (lettre de voiture électronique) est l’équivalent numérique du CMR 
 
 * Configurez le nom de l’entreprise, l’adresse et le numéro SIRET dans **Configuration → Général** avant de générer l’eCMR. Ces informations sont requises par la loi et sont affichées sur l’eCMR.
 
-<figure><img src="../.gitbook/assets/image (125) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (125) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 ## Présentation de la fonctionnalité
 
@@ -19,12 +19,12 @@ Un eCMR (lettre de voiture électronique) est l’équivalent numérique du CMR 
 
 1. Connectez-vous au système de gestion des livraisons et allez dans l’onglet **Missions**.
 
-<figure><img src="../.gitbook/assets/image (124) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 2. Sélectionnez les itinéraires pour lesquels vous souhaitez générer l’eCMR.
 3. Cliquez sur **Actions → Lettres de voiture**.
 
-<figure><img src="../.gitbook/assets/image (126) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 4. Cliquez sur le bouton **Télécharger**.
 

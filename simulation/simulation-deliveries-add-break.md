@@ -19,7 +19,7 @@ Cette page explique comment ajouter une pause à un itinéraire.
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans ajouter de pause.
 
-![La fenêtre Ajouter une pause](../.gitbook/assets/Simulation_DeliveriesAddBreak_001.jpg)
+![La fenêtre Ajouter une pause](../.gitbook/assets/Simulation_DeliveriesAddBreak_001_fr.jpg)
 
 ## Résultat
 

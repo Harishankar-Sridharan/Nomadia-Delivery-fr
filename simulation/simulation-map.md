@@ -16,7 +16,7 @@ Cette page explique comment utiliser le panneau **Carte** pour voir où se trouv
 6. Saisissez une adresse dans la zone de recherche pour trouver un lieu.
 7. Utilisez les boutons de zoom avant et de zoom arrière pour modifier le niveau de zoom.
 
-![Le panneau Carte avec des itinéraires colorés, des repères de livraison numérotés et les outils de la carte](../.gitbook/assets/Simulation_Map_001.png)
+![Le panneau Carte avec des itinéraires colorés, des repères de livraison numérotés et les outils de la carte](../.gitbook/assets/Simulation_Map_001_fr.png)
 
 ## Fonctionnalités
 

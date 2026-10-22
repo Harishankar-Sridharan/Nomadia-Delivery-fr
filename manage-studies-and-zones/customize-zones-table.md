@@ -22,12 +22,12 @@ Personnalisez le tableau des zones pour choisir les champs affichés pour les zo
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Personnaliser la limite**.
 
-![](../.gitbook/assets/image-32.png)
+![](../.gitbook/assets/image-32_fr.png)
 
 7. Choisissez les champs que vous souhaitez afficher dans le tableau.
 8. Cliquez sur **Enregistrer**.
 
-![](../.gitbook/assets/image-33.png)
+![](../.gitbook/assets/image-33_fr.png)
 
 ### Résultat
 

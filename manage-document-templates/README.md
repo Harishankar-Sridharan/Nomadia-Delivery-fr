@@ -21,12 +21,12 @@ La fonctionnalité Gérer les modèles de documents permet aux administrateurs e
 3. Sous **Personnalisation**, cliquez sur **Modèles de documents**.
 4. Sélectionnez le document souhaité dans la liste.
 
-<figure><img src="../.gitbook/assets/image (45) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (1) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Télécharger**.
 
-<figure><img src="../.gitbook/assets/image (46) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 ### Résultat
 
@@ -43,7 +43,7 @@ Les modèles de documents sont téléchargés avec succès.
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Modifier**.
 
-<figure><img src="../.gitbook/assets/image (48) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 7. Modifiez les informations selon les besoins.
 
@@ -57,7 +57,7 @@ Les modèles de documents sont téléchargés avec succès.
 
 1. Allez dans **Configuration**.
 
-<figure><img src="../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 2. Cliquez sur **Menu Configuration**.
 3. Sous **Personnalisation**, cliquez sur **Modèles de documents**.
@@ -67,7 +67,7 @@ Les modèles de documents sont téléchargés avec succès.
 4. Cliquez sur le menu déroulant **Actions**.
 5. Cliquez sur **Importer**.
 
-<figure><img src="../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 6. Cliquez sur **Parcourir l’ordinateur** pour téléverser le fichier.
 7. Sélectionnez un fichier valide depuis un système local.
@@ -89,7 +89,7 @@ Les modèles de documents sont importés avec succès.
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Activer/Désactiver**.
 
-<figure><img src="../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 ### Résultat
 
@@ -104,7 +104,7 @@ Les modèles de documents sont activés ou désactivés avec succès.
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Supprimer**.
 
-<figure><img src="../.gitbook/assets/image (65) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 ### Résultat
 
@@ -121,7 +121,7 @@ Les modèles de documents sont supprimés avec succès.
 5. Cliquez sur le menu déroulant **Actions**.
 6. Cliquez sur **Afficher/Masquer le modèle par défaut**.
 
-<figure><img src="../.gitbook/assets/image (67) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 ## Conseils
 

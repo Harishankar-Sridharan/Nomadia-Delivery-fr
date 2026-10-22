@@ -10,7 +10,7 @@ Pour simplifier l’intégration, Nomadia Delivery propose une collection de mod
 * Ils servent de solution de repli lorsqu’aucune configuration personnalisée n’est en place.
 * Bien qu’ils ne puissent pas être supprimés, ils peuvent être désactivés si nécessaire.
 
-![](<../.gitbook/assets/image-33 (4).png>)
+![](<../.gitbook/assets/image-33 (4)_fr.png>)
 
 ## Présentation de la fonctionnalité
 
@@ -26,11 +26,11 @@ Pour simplifier l’intégration, Nomadia Delivery propose une collection de mod
 2. Dans le menu déroulant, sélectionnez **Configurer les messages sortants**.
 3. Cliquez sur l’onglet **Modèles d’e-mail**.
 
-![](<../.gitbook/assets/image-34 (4).png>)
+![](<../.gitbook/assets/image-34 (4)_fr.png>)
 
 4. Dans le tableau, cliquez sur le bouton **Actions** et sélectionnez **Ajouter**.
 
-![](<../.gitbook/assets/image-35 (4).png>)
+![](<../.gitbook/assets/image-35 (4)_fr.png>)
 
 5. Choisissez l’un des modèles disponibles à personnaliser (par exemple, **Fenêtre horaire pour communiquer**).
 

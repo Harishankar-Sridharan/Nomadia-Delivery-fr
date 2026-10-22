@@ -19,7 +19,7 @@ Le panneau affiche une ligne par livraison. Par défaut, les colonnes comprennen
 5. Cliquez sur la flèche déroulante **Livraisons**. Le menu liste **Optimiser**, **Ordonnancement sur un seul itinéraire**, **Affecter des livraisons**, **Désaffecter**, **Ajouter une pause**, **Verrouiller**, **Déverrouiller**, **Supprimer**, **Personnaliser la liste** et **Coloration**.
 6. Cliquez sur une action. Chaque action est décrite dans sa propre rubrique, listée sous **Fonctionnalités**.
 
-![Le menu Livraisons ouvert avec Optimiser, Ordonnancement sur un seul itinéraire, Affecter des livraisons, Désaffecter, Ajouter une pause et Verrouiller](../.gitbook/assets/Simulation_Deliveries_001.png)
+![Le menu Livraisons ouvert avec Optimiser, Ordonnancement sur un seul itinéraire, Affecter des livraisons, Désaffecter, Ajouter une pause et Verrouiller](../.gitbook/assets/Simulation_Deliveries_001_fr.png)
 
 ## Fonctionnalités
 

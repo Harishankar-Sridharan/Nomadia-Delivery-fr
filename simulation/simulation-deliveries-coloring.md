@@ -24,7 +24,7 @@ Utilisez **Coloration** pour attribuer une couleur aux livraisons selon une règ
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans enregistrer.
 
-![La fenêtre Couleur des livraisons avec une règle par livreur](../.gitbook/assets/Simulation_DeliveriesColoring_001.jpg)
+![La fenêtre Couleur des livraisons avec une règle par livreur](../.gitbook/assets/Simulation_DeliveriesColoring_001_fr.jpg)
 
 ## Options et champs
 

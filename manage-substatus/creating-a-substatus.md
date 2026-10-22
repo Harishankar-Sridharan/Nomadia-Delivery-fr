@@ -19,12 +19,12 @@ Créez un sous-statut avec un code et un type de configuration du statut afin de
 2. Cliquez sur le menu **Configuration**.
 3. Sous **Mes données**, cliquez sur **Sous-statuts**.
 
-![](../.gitbook/assets/image-80.png)
+![](../.gitbook/assets/image-80_fr.png)
 
 4. Cliquez sur le menu déroulant **Actions**.
 5. Cliquez sur **Ajouter**.
 
-![](../.gitbook/assets/image-81.png)
+![](../.gitbook/assets/image-81_fr.png)
 
 6. Saisissez le code du **Sous-statut**.
 7. Sélectionnez le type de **Configuration du statut**.

@@ -10,7 +10,7 @@ Créez et enregistrez une nouvelle adresse à la volée lors de l’ajout d’un
 1. Accédez au menu **Mission** dans **Nomadia Delivery**.
 2. Cliquez sur **Actions** et sélectionnez **Ajouter**.
 
-![Cliquez sur Actions et sélectionnez Ajouter](../.gitbook/assets/AdHocAddress_BeforeBegin_001.gif)
+![Cliquez sur Actions et sélectionnez Ajouter](../.gitbook/assets/AdHocAddress_BeforeBegin_001_fr.png)
 
 ## Présentation de la fonctionnalité
 
@@ -60,25 +60,25 @@ Créez et enregistrez une nouvelle adresse à la volée lors de l’ajout d’un
 
 1. Cliquez sur **Sous-traitants** dans le menu principal.
 
-![Cliquez sur Sous-traitants dans le menu principal](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_001.png)
+![Cliquez sur Sous-traitants dans le menu principal](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_001_fr.png)
 
 2. Sélectionnez le sous-traitant concerné dans la liste.
 
-![Sélectionnez le sous-traitant concerné dans la liste](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_002.png)
+![Sélectionnez le sous-traitant concerné dans la liste](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_002_fr.png)
 
 3. Sélectionnez les **Champs obligatoires** appropriés.
 
-![Sélectionnez les Champs obligatoires appropriés](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_003.png)
+![Sélectionnez les Champs obligatoires appropriés](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_003_fr.png)
 
 4. Cliquez sur **Liste d’adresses**.
 
-![Cliquez sur Liste d’adresses](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_004.png)
+![Cliquez sur Liste d’adresses](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_004_fr.png)
 
 ### Résultat
 
 Consultez les adresses enregistrées.
 
-![Consultez les adresses enregistrées](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_005.png)
+![Consultez les adresses enregistrées](../.gitbook/assets/AdHocAddress_ReviewSavedAddress_005_fr.png)
 
 ## Conseils
 

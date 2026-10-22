@@ -13,7 +13,7 @@ Prérequis et exigences système :
 1. Ouvrez la page **Configuration**.
 2. Faites défiler vers le bas et cliquez sur **Historique des modifications**.
 
-![Faites défiler vers le bas et cliquez sur Historique des modifications](../.gitbook/assets/AuditLogs_BeforeBegin_001.png)
+![Faites défiler vers le bas et cliquez sur Historique des modifications](../.gitbook/assets/AuditLogs_BeforeBegin_001_fr.png)
 
 ## Présentation de la fonctionnalité
 
@@ -31,7 +31,7 @@ Prérequis et exigences système :
 
 1. Ouvrez la page **Configuration**, faites défiler vers le bas et cliquez sur **Historique des modifications**.
 
-![Ouvrez la page Configuration, faites défiler vers le bas et cliquez sur Historique des modifications](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_001.gif)
+![Ouvrez la page Configuration, faites défiler vers le bas et cliquez sur Historique des modifications](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_001_fr.png)
 
 2. Examinez le tableau qui affiche **Date et heure**, **Détails de connexion**, **Nom de l’objet**, **Type**, **Rapport**, **Profil** et **ID de l’objet**.
 
@@ -39,27 +39,27 @@ Prérequis et exigences système :
 
 3. Cliquez sur **Actions** au-dessus du tableau des modifications récentes.
 
-![Cliquez sur Actions au-dessus du tableau des modifications récentes](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_003.png)
+![Cliquez sur Actions au-dessus du tableau des modifications récentes](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_003_fr.png)
 
 4. Sélectionnez **Exporter** pour télécharger les données du journal sous forme de feuille de calcul Excel.
 
-![Sélectionnez Exporter pour télécharger les données du journal dans une feuille de calcul Excel](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_004.png)
+![Sélectionnez Exporter pour télécharger les données du journal dans une feuille de calcul Excel](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_004_fr.png)
 
 ### Dépannage
 
 * **Les journaux ou les fichiers ne se chargent pas** : cliquez sur **Recharger** pour récupérer les modifications système les plus récentes.
 
-![Le bouton Recharger sur l’écran Historique des modifications](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_005.png)
+![Le bouton Recharger sur l’écran Historique des modifications](../.gitbook/assets/AuditLogs_ViewExportAuditLogs_005_fr.png)
 
 ## Filtrer les journaux d’audit par agence et par période
 
 1. Cliquez sur l’étiquette **Préfiltré activé** en haut de l’écran **Historique des modifications**.
 
-![Cliquez sur l’étiquette Préfiltré activé sur l’écran Historique des modifications](../.gitbook/assets/AuditLogs_FilterAuditLogsAgent_001.png)
+![Cliquez sur l’étiquette Préfiltré activé sur l’écran Historique des modifications](../.gitbook/assets/AuditLogs_FilterAuditLogsAgent_001_fr.png)
 
 2. Sélectionnez l’agence ou la sous-agence cible dans le menu déroulant **Agence / Sous-agence**.
 
-![Sélectionnez l’agence ou la sous-agence cible dans le menu Agence / Sous-agence](../.gitbook/assets/AuditLogs_FilterAuditLogsAgent_002.png)
+![Sélectionnez l’agence ou la sous-agence cible dans le menu Agence / Sous-agence](../.gitbook/assets/AuditLogs_FilterAuditLogsAgent_002_fr.png)
 
 3. Choisissez une plage horaire sous **Période**, par exemple **Dernière heure**, **6 dernières heures**, **24 dernières heures**, **7 derniers jours** ou **14 derniers jours**.
 

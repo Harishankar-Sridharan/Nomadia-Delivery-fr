@@ -22,7 +22,7 @@ Nomadia Delivery propose trois types de modèles de sous-statuts qui permettent 
 
 2. Cliquez sur le bouton **Actions**, puis choisissez **Ajouter** pour créer un nouveau sous-statut.
 
-![](../.gitbook/assets/image-95.png)
+![](../.gitbook/assets/image-95_fr.png)
 
 3. Affectez le sous-statut créé à un ou plusieurs modèles.
 
@@ -34,7 +34,7 @@ Nomadia Delivery propose trois types de modèles de sous-statuts qui permettent 
 
 5. Répétez le processus pour créer des sous-statuts supplémentaires et les lier aux modèles souhaités.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)_fr.png" alt=""><figcaption></figcaption></figure>
 
 6. Une fois tous les modèles configurés, accédez à l’onglet **Missions**.
 7. Cliquez sur le bouton Éditeur de **mission** pour associer un modèle de sous-statut à une mission.

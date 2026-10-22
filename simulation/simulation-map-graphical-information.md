@@ -17,7 +17,7 @@ Cette page explique comment utiliser **Informations graphiques** pour colorer la
    * **Rayon d’influence** : déplacez le curseur.
    * **Dégradé** : déplacez le curseur.
 
-![Le menu Informations graphiques avec les options Coloration et Densité](../.gitbook/assets/Simulation_MapGraphicalInformation_001.jpg)
+![Le menu Informations graphiques avec les options Coloration et Densité](../.gitbook/assets/Simulation_MapGraphicalInformation_001_fr.jpg)
 
 ## Résultat
 
