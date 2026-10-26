@@ -42,6 +42,7 @@
   * [Journaux d’audit](missions/auditlogs.md)
   * [Sélectionner des missions sur la carte](missions/select-missions-from-the-map.md)
   * [Modifier en masse les données de mission](missions/bulk-edit-mission-data.md)
+  * [Mettre à jour le statut des missions en masse](missions/bulk-update-mission-status.md)
   * [Créer une mission « à effectuer en une seule fois »](missions/create-a-perform-at-once-mission.md)
   * [Créer une mission urgente](missions/create-an-urgent-mission.md)
   * [Créer une mission de retrait urgente](missions/create-an-urgent-pickup-mission.md)
