@@ -132,6 +132,7 @@
   * [Héritage du parent vers l’enfant](manage-container-types/parenttochildinheritance.md)
   * [Héritage de l’enfant vers le parent](manage-container-types/childtoparentinheritance.md)
   * [Notifications groupées pour les missions de conteneur](manage-container-types/groupnotificationsforthecontainermissions.md)
+  * [Suivre chaque conteneur par son identifiant unique](manage-container-types/track-individual-containers-by-unique-id.md)
 * [Gérer la bibliothèque de documents](manage-document-library/README.md)
   * [Gérer les documents de mission](manage-document-library/manage-mission-documents.md)
   * [Recommandations de documents](manage-document-library/document-recommendations.md)
