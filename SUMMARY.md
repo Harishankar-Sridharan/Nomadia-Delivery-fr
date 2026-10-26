@@ -158,6 +158,7 @@
 * [Gérer les tickets](manage-tickets/README.md)
   * [Activation du module de tickets](manage-tickets/activating-the-ticket-module.md)
   * [Créer un ticket](manage-tickets/creating-a-ticket.md)
+  * [Tickets et relances automatiques pour les sous-traitants](manage-tickets/automated-contractor-tickets-and-reminders.md)
 * [Gérer les flottes de véhicules](manage-vehicle-fleets/README.md)
   * [Gérer les flottes de véhicules](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Gérer les véhicules d’une flotte](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
