@@ -1,6 +1,6 @@
-# Contrôler le partage des adresses avec les sous-traitants
+# Contrôler le partage des adresses avec les donneurs d’ordres
 
-Le contrôle du partage des adresses avec les sous-traitants vous permet de choisir quelles entrées de la liste générale d’adresses vos sous-traitants peuvent voir. Vous pouvez garder une adresse sensible privée, vérifier d’un coup d’œil le statut de partage de chaque entrée, et partager ou arrêter de partager plusieurs adresses en une seule étape.
+Le contrôle du partage des adresses avec les donneurs d’ordres vous permet de choisir quelles entrées de la liste générale d’adresses vos donneurs d’ordres peuvent voir. Vous pouvez garder une adresse sensible privée, vérifier d’un coup d’œil le statut de partage de chaque entrée, et partager ou arrêter de partager plusieurs adresses en une seule étape.
 
 ## Avant de commencer
 
@@ -10,9 +10,9 @@ Le contrôle du partage des adresses avec les sous-traitants vous permet de choi
 ## Présentation de la fonctionnalité
 
 * **Liste d’adresses** : liste générale d’adresses utilisée dans toute votre organisation, accessible dans **Configuration**.
-* **Colonne Partagée avec le sous-traitant** : colonne qui indique, pour chaque adresse, si les sous-traitants peuvent la voir (**Oui** ou **Non**). Vous pouvez filtrer cette colonne.
-* **Interrupteur Partagée avec le sous-traitant** : interrupteur présent dans chaque adresse qui active ou désactive le partage avec les sous-traitants. Il est activé par défaut.
-* **Menu Actions** : menu qui contient **Partager avec les sous-traitants** et **Arrêter le partage avec les sous-traitants** pour les adresses sélectionnées.
+* **Colonne Partagée avec le donneur d’ordres** : colonne qui indique, pour chaque adresse, si les donneurs d’ordres peuvent la voir (**Oui** ou **Non**). Vous pouvez filtrer cette colonne.
+* **Interrupteur Partagée avec le donneur d’ordres** : interrupteur présent dans chaque adresse qui active ou désactive le partage avec les donneurs d’ordres. Il est activé par défaut.
+* **Menu Actions** : menu qui contient **Partager avec les donneurs d’ordres** et **Arrêter le partage avec les donneurs d’ordres** pour les adresses sélectionnées.
 * **Modifier** : bouton qui enregistre les modifications d’une adresse.
 
 ## Ouvrir la liste d’adresses
@@ -31,30 +31,30 @@ La page **Liste d’adresses** s’ouvre. Il s’agit de votre liste générale 
 
 ## Vérifier le statut de partage des adresses
 
-1. Dans la **Liste d’adresses**, consultez la colonne **Partagée avec le sous-traitant**. Elle indique le statut de partage de chaque adresse.
+1. Dans la **Liste d’adresses**, consultez la colonne **Partagée avec le donneur d’ordres**. Elle indique le statut de partage de chaque adresse.
 
-![La colonne Partagée avec le sous-traitant](.gitbook/assets/ControlAddressSharing_004.jpg)
+![La colonne Partagée avec le donneur d’ordres](.gitbook/assets/ControlAddressSharing_004.jpg)
 
-2. Pour afficher uniquement les adresses que vos sous-traitants peuvent actuellement voir, saisissez **Oui** dans le filtre de la colonne **Partagée avec le sous-traitant**.
+2. Pour afficher uniquement les adresses que vos donneurs d’ordres peuvent actuellement voir, saisissez **Oui** dans le filtre de la colonne **Partagée avec le donneur d’ordres**.
 
-![Saisissez Oui dans le filtre Partagée avec le sous-traitant](.gitbook/assets/ControlAddressSharing_005.jpg)
+![Saisissez Oui dans le filtre Partagée avec le donneur d’ordres](.gitbook/assets/ControlAddressSharing_005.jpg)
 
 ### Résultat
 
-La liste affiche uniquement les adresses partagées avec les sous-traitants.
+La liste affiche uniquement les adresses partagées avec les donneurs d’ordres.
 
-![La liste filtrée sur les adresses partagées avec les sous-traitants](.gitbook/assets/ControlAddressSharing_006.jpg)
+![La liste filtrée sur les adresses partagées avec les donneurs d’ordres](.gitbook/assets/ControlAddressSharing_006.jpg)
 
-## Arrêter de partager une adresse avec les sous-traitants
+## Arrêter de partager une adresse avec les donneurs d’ordres
 
 1. Dans la **Liste d’adresses**, cliquez sur l’**icône crayon** à côté de l’adresse pour l’ouvrir.
-2. Repérez l’interrupteur **Partagée avec le sous-traitant**. Il est activé par défaut : rien ne change tant que vous ne le désactivez pas.
+2. Repérez l’interrupteur **Partagée avec le donneur d’ordres**. Il est activé par défaut : rien ne change tant que vous ne le désactivez pas.
 
-![L’interrupteur Partagée avec le sous-traitant sur Oui](.gitbook/assets/ControlAddressSharing_007.jpg)
+![L’interrupteur Partagée avec le donneur d’ordres sur Oui](.gitbook/assets/ControlAddressSharing_007.jpg)
 
 3. Désactivez l’interrupteur pour qu’il affiche **Non**.
 
-![L’interrupteur Partagée avec le sous-traitant sur Non](.gitbook/assets/ControlAddressSharing_008.jpg)
+![L’interrupteur Partagée avec le donneur d’ordres sur Non](.gitbook/assets/ControlAddressSharing_008.jpg)
 
 4. Cliquez sur **Modifier** pour enregistrer.
 
@@ -72,9 +72,9 @@ Une notification confirme que l’adresse a été mise à jour. Si la liste est 
 
 ![Sélectionnez les adresses à mettre à jour](.gitbook/assets/ControlAddressSharing_011.jpg)
 
-2. Cliquez sur **Actions**, puis sur **Partager avec les sous-traitants** ou **Arrêter le partage avec les sous-traitants**.
+2. Cliquez sur **Actions**, puis sur **Partager avec les donneurs d’ordres** ou **Arrêter le partage avec les donneurs d’ordres**.
 
-![Cliquez sur Actions et choisissez Partager avec les sous-traitants ou Arrêter le partage avec les sous-traitants](.gitbook/assets/ControlAddressSharing_012.jpg)
+![Cliquez sur Actions et choisissez Partager avec les donneurs d’ordres ou Arrêter le partage avec les donneurs d’ordres](.gitbook/assets/ControlAddressSharing_012.jpg)
 
 ### Résultat
 
@@ -85,7 +85,7 @@ Toutes les adresses sélectionnées sont mises à jour en une seule étape, et u
 ## Conseils
 
 {% hint style="info" %}
-**Ce que voient les sous-traitants** : les adresses non partagées n’apparaissent plus dans les recherches d’adresses ni dans les sélecteurs d’adresses des sous-traitants, que ce soit dans l’interface ou via l’API. Les missions déjà affectées à ces adresses ne sont pas modifiées.
+**Ce que voient les donneurs d’ordres** : les adresses non partagées n’apparaissent plus dans les recherches d’adresses ni dans les sélecteurs d’adresses des donneurs d’ordres, que ce soit dans l’interface ou via l’API. Les missions déjà affectées à ces adresses ne sont pas modifiées.
 {% endhint %}
 
 ## Rubriques connexes

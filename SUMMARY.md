@@ -120,7 +120,7 @@
   * [Plans fixes et récurrents](contractors/fixed-and-recurring-plans.md)
   * [Gestion des réceptions](contractors/receptionmanagement.md)
 * [Gérer la liste globale d’adresses](manage-global-address-list.md)
-  * [Contrôler le partage des adresses avec les sous-traitants](control-address-sharing-with-contractors.md)
+  * [Contrôler le partage des adresses avec les donneurs d’ordres](control-address-sharing-with-contractors.md)
 * [Gérer les articles](manage-articles/README.md)
   * [Créer un article](manage-articles/create-an-article.md)
   * [Ajouter des articles à une mission](manage-articles/add-articles-to-mission.md)

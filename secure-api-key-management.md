@@ -97,4 +97,4 @@ Les clés sont retirées de la liste. Vos autres intégrations continuent de fon
 ## Rubriques connexes
 
 * [Importer des missions](missions/import-missions/README.md)
-* [Contrôler le partage des adresses avec les sous-traitants](control-address-sharing-with-contractors.md)
+* [Contrôler le partage des adresses avec les donneurs d’ordres](control-address-sharing-with-contractors.md)
