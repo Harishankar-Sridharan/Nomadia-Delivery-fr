@@ -163,6 +163,7 @@
   * [Gérer les flottes de véhicules](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Gérer les véhicules d’une flotte](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
   * [Personnaliser les contraintes](manage-vehicle-fleets/customize-the-constraints.md)
+* [Gestion sécurisée des clés d’API](secure-api-key-management.md)
 * [Études de cas](case-studies/README.md)
   * [Création d’une étude avec zone principale](case-studies/study-creation-with-primary-zone.md)
   * [Sous-sectorisation par code postal](case-studies/subsector-using-postal-code.md)
