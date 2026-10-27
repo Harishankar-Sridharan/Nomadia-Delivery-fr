@@ -1,5 +1,9 @@
 # Version d’été 2026
 
+La version d’été 2026 apporte de nouvelles fonctionnalités dans le mode sans itinéraire, la gestion des conteneurs, les tournées, les missions, les donneurs d’ordres et les notifications. Parmi les nouveautés : la création manuelle de tournées avec la vue Gantt et l’éditeur de tournée, l’héritage entre conteneurs et les notifications groupées, le code couleur des champs personnalisés, les journaux d’audit, la gestion des alertes et Nomadbot.
+
+Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionnalité.
+
 | N° | Section | Navigation |
 | --- | ------- | ---------- |
 | 1 | Mode Sans Itinéraire | [Mode Sans Itinéraire > Personnaliser la hiérarchie des statuts](../case-studies/mode-sans-itineraire/customizethestatushierarchy.md) |

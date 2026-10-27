@@ -1,6 +1,8 @@
 # Version d’automne 2026
 
-Les sujets de la version d’automne 2026 seront listés ici.
+La version d’automne 2026 vous donne plus de contrôle sur les missions, les conteneurs, les tickets et les intégrations. Parmi les nouveautés : la mise à jour en masse du statut des missions, le suivi des conteneurs par identifiant unique et leur association aux véhicules, les tickets automatiques avec relances et détails de la mission pour les donneurs d’ordres, le contrôle des adresses visibles par les donneurs d’ordres, et la gestion sécurisée des clés d’API.
+
+Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionnalité.
 
 | N° | Section  | Navigation                                                                                              |
 | -- | -------- | ------------------------------------------------------------------------------------------------------- |
