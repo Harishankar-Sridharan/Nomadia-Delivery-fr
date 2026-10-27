@@ -159,6 +159,7 @@
   * [Activation du module de tickets](manage-tickets/activating-the-ticket-module.md)
   * [Créer un ticket](manage-tickets/creating-a-ticket.md)
   * [Tickets et relances automatiques pour les donneurs d’ordres](manage-tickets/automated-contractor-tickets-and-reminders.md)
+  * [Détails de la mission dans les tickets](manage-tickets/mission-details-in-tickets.md)
 * [Gérer les flottes de véhicules](manage-vehicle-fleets/README.md)
   * [Gérer les flottes de véhicules](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Gérer les véhicules d’une flotte](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)

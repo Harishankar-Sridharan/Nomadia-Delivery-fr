@@ -9,3 +9,4 @@ Les sujets de la version d’automne 2026 seront listés ici.
 | 3  | Gérer les types de conteneurs | [Gérer les types de conteneurs > Suivre chaque conteneur par son identifiant unique](../manage-container-types/track-individual-containers-by-unique-id.md) |
 | 4  | Gérer les tickets | [Gérer les tickets > Tickets et relances automatiques pour les donneurs d’ordres](../manage-tickets/automated-contractor-tickets-and-reminders.md) |
 | 5  | Gestion sécurisée des clés d’API | [Gestion sécurisée des clés d’API](../secure-api-key-management.md) |
+| 6  | Gérer les tickets | [Gérer les tickets > Détails de la mission dans les tickets](../manage-tickets/mission-details-in-tickets.md) |
