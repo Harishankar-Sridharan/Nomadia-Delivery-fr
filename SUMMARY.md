@@ -23,6 +23,7 @@
     * [Reporter plusieurs fois un créneau préréservé](booking-portal/prebookingtheslotmultipletimes.md)
 * [Tableaux de bord personnalisés](custom-dashboards.md)
 * [Configuration de sondages personnalisés](configuring-customized-surveys.md)
+  * [Photos de l’état du véhicule](vehicle-condition-photos.md)
 * [Gérer les utilisateurs](manage-users/README.md)
   * [Gérer le profil utilisateur](manage-users/manage-user-profile.md)
   * [Créer un utilisateur à partir d’un utilisateur existant](manage-users/creating-a-user-from-an-existing-user.md)
