@@ -71,6 +71,7 @@
     * [Configurer les pré-filtres de mission](missions/understanding-the-missions-page/configuremissionprefilters.md)
     * [Modifier l’ordre des raccourcis de statut des missions](missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
     * [Filtrer le tableau à l’aide de critères](missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
+    * [Filtres de colonnes de type Excel](missions/understanding-the-missions-page/excel-style-column-filters.md)
     * [Rechercher une mission](missions/understanding-the-missions-page/search-for-a-mission.md)
     * [Afficher les informations d’une mission](missions/understanding-the-missions-page/view-a-mission-information.md)
 * [Itinéraires](routes/README.md)
