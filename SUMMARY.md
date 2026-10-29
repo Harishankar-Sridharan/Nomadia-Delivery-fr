@@ -70,6 +70,7 @@
     * [Gérer les missions](missions/understanding-the-mission-parameters/manage-missions.md)
   * [Comprendre la page des missions](missions/understanding-the-missions-page/README.md)
     * [Configurer les pré-filtres de mission](missions/understanding-the-missions-page/configuremissionprefilters.md)
+    * [Champs personnalisés dans les préfiltres de missions](missions/understanding-the-missions-page/custom-fields-in-mission-prefilters.md)
     * [Modifier l’ordre des raccourcis de statut des missions](missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
     * [Filtrer le tableau à l’aide de critères](missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
     * [Filtres de colonnes de type Excel](missions/understanding-the-missions-page/excel-style-column-filters.md)

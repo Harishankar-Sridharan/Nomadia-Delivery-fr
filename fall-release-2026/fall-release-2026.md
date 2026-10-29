@@ -1,6 +1,6 @@
 # Version d’automne 2026
 
-La version d’automne 2026 vous donne plus de contrôle sur les missions, les conteneurs, les tickets et les intégrations. Parmi les nouveautés : la mise à jour en masse du statut des missions, le suivi des conteneurs par identifiant unique et leur association aux véhicules, les tickets automatiques avec relances et détails de la mission pour les donneurs d’ordres, le contrôle des adresses visibles par les donneurs d’ordres, les filtres de colonnes de type Excel, les photos de l’état du véhicule, et la gestion sécurisée des clés d’API.
+La version d’automne 2026 vous donne plus de contrôle sur les missions, les conteneurs, les tickets et les intégrations. Parmi les nouveautés : la mise à jour en masse du statut des missions, le suivi des conteneurs par identifiant unique et leur association aux véhicules, les tickets automatiques avec relances et détails de la mission pour les donneurs d’ordres, le contrôle des adresses visibles par les donneurs d’ordres, les filtres de colonnes de type Excel, les champs personnalisés dans les préfiltres de missions, les photos de l’état du véhicule, et la gestion sécurisée des clés d’API.
 
 Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionnalité.
 
@@ -15,3 +15,4 @@ Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionn
 | 7  | Gérer les flottes de véhicules | [Gérer les flottes de véhicules > Associer des conteneurs aux véhicules](../manage-vehicle-fleets/associate-containers-with-vehicles.md) |
 | 8  | Missions | [Missions > Comprendre la page des missions > Filtres de colonnes de type Excel](../missions/understanding-the-missions-page/excel-style-column-filters.md) |
 | 9  | Configuration de sondages personnalisés | [Configuration de sondages personnalisés > Photos de l’état du véhicule](../vehicle-condition-photos.md) |
+| 10 | Missions | [Missions > Comprendre la page des missions > Champs personnalisés dans les préfiltres de missions](../missions/understanding-the-missions-page/custom-fields-in-mission-prefilters.md) |
