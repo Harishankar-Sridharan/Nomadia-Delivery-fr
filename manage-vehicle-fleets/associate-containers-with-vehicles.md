@@ -43,7 +43,7 @@ L’association des conteneurs aux véhicules vous permet de définir les conten
 
 2. Dans votre fichier d’import des véhicules, ajoutez une colonne **Conteneurs**. Pour chaque véhicule, saisissez les identifiants des conteneurs séparés par des virgules. Chaque conteneur ne peut être indiqué que pour un seul véhicule. Pour partir d’un exemple, cliquez sur **Voir un modèle de fichier**.
 
-![Un fichier d’import des véhicules avec une colonne Conteneurs](../.gitbook/assets/ContainersVehicles_006.jpg)
+![Un fichier d’import des véhicules avec une colonne Conteneurs](../.gitbook/assets/ContainersVehicles_FR_006.jpg)
 
 3. Déposez le fichier sur la page d’import, ou cliquez sur **Parcourir (Excel…)** pour le sélectionner, puis terminez l’import.
 
@@ -64,7 +64,7 @@ Les conteneurs sont associés aux véhicules indiqués dans le fichier.
 
 Au début de la tournée, le chauffeur scanne le QR code du véhicule dans l’application mobile. L’application affiche les conteneurs à bord du véhicule, et le chauffeur les confirme en un seul scan.
 
-![Le chauffeur scanne le QR code du véhicule et confirme les conteneurs à bord](../.gitbook/assets/ContainersVehicles_008.jpg)
+![Le chauffeur scanne le QR code du véhicule et confirme les conteneurs à bord](../.gitbook/assets/ContainersVehicles_FR_008.jpg)
 
 ## Conseils
 

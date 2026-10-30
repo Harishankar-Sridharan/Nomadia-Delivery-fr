@@ -41,7 +41,7 @@ Si le questionnaire est utilisé dans la configuration d’une agence, un messag
 
 Au départ ou à la fin de la tournée, après le questionnaire, l’application mobile ouvre l’appareil photo. Le chauffeur prend jusqu’au nombre de photos configuré, par exemple du compteur kilométrique, de l’extérieur et des pneus.
 
-![Le chauffeur prend les photos du véhicule avec l’appareil photo de l’application](.gitbook/assets/VehiclePhotos_005.jpg)
+![Le chauffeur prend les photos du véhicule avec l’appareil photo de l’application](.gitbook/assets/VehiclePhotos_FR_005.jpg)
 
 ## Consulter les photos du véhicule d’une tournée
 

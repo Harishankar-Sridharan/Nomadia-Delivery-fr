@@ -53,7 +53,7 @@ Dans les nouveaux tickets créés à partir de ce modèle, les champs insérés 
 
 Lorsque plusieurs éléments d’un conteneur rencontrent le même problème, un seul ticket est créé sur la mission parente pour l’ensemble du conteneur, au lieu d’un ticket par élément.
 
-![Un ticket par conteneur au lieu d’un ticket par élément](../.gitbook/assets/MissionDetailsTickets_008.jpg)
+![Un ticket par conteneur au lieu d’un ticket par élément](../.gitbook/assets/MissionDetailsTickets_FR_008.jpg)
 
 ## Conseils
 
