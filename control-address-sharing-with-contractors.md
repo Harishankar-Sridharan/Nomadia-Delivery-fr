@@ -64,7 +64,7 @@ La liste affiche uniquement les adresses partagées avec les donneurs d’ordres
 
 Une notification confirme que l’adresse a été mise à jour. Si la liste est filtrée sur **Oui**, l’adresse n’est plus partagée et disparaît donc de la liste.
 
-![L’adresse est mise à jour et retirée de la liste des adresses partagées](.gitbook/assets/ControlAddressSharing_010.jpg)
+![L’adresse est mise à jour et retirée de la liste des adresses partagées](.gitbook/assets/ControlAddressSharing_FR_010.jpg)
 
 ## Partager ou arrêter de partager plusieurs adresses
 
@@ -80,7 +80,7 @@ Une notification confirme que l’adresse a été mise à jour. Si la liste est 
 
 Toutes les adresses sélectionnées sont mises à jour en une seule étape, et une notification confirme la mise à jour.
 
-![Toutes les adresses sélectionnées sont mises à jour](.gitbook/assets/ControlAddressSharing_013.jpg)
+![Toutes les adresses sélectionnées sont mises à jour](.gitbook/assets/ControlAddressSharing_FR_013.jpg)
 
 ## Conseils
 

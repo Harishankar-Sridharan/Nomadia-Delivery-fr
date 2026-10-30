@@ -10,7 +10,7 @@ La page **Raccourcis clavier** rassemble en un seul endroit tous les raccourcis 
 
 * **Page Raccourcis clavier** : page de **Configuration** > **Personnalisation** qui liste toutes les actions pouvant recevoir un raccourci, regroupées par page et par section, par exemple **Missions** > **Gestion des missions**, **Optimisation** et **Affectation**.
 * **Raccourcis communs à tout le compte** : les raccourcis sont définis une seule fois par l’administrateur et s’appliquent à tous les utilisateurs du compte.
-* **Configurations de création de mission** : un raccourci par configuration de mission, par exemple **National**, **Chained**, **Internal** ou **International**. Le raccourci ouvre le formulaire de nouvelle mission avec cette configuration sélectionnée.
+* **Configurations de création de mission** : un raccourci par configuration de mission, par exemple **National**, **Chained**, **Internal** ou **International**. Le raccourci ouvre la page **Ajouter une nouvelle mission**, préremplie avec les valeurs de cette configuration.
 * **Actions nécessitant une sélection** : une action marquée d’un astérisque (**\***) nécessite de sélectionner des lignes dans le tableau au préalable, par exemple **Optimiser** ou **Affecter**.
 * **Désactivé** : l’action n’a pas de raccourci. Cliquez sur l’icône corbeille à côté d’un raccourci pour le supprimer.
 * **Détection des conflits** : une combinaison déjà utilisée par une autre action du même groupe est refusée, avec un message qui indique l’action concernée. Une combinaison réservée par le navigateur est signalée par un avertissement, car elle n’atteindra pas l’application.
@@ -40,9 +40,9 @@ La page **Raccourcis clavier** rassemble en un seul endroit tous les raccourcis 
 
 ### Résultat
 
-Le raccourci est enregistré pour tout le compte. Tous les utilisateurs peuvent désormais l’utiliser. Par exemple, sur la page **Missions**, appuyer sur **Shift+x** ouvre le formulaire de nouvelle mission avec la configuration de mission **International** déjà sélectionnée.
+Le raccourci est enregistré pour tout le compte. Tous les utilisateurs peuvent désormais l’utiliser. Par exemple, sur la page **Missions**, appuyer sur **Shift+x** ouvre la page **Ajouter une nouvelle mission**, préremplie avec les valeurs de la configuration **International**. Dans l’exemple ci-dessous, le raccourci **Shift+n** de la configuration **National** a prérempli le **Type de mission**.
 
-![Le formulaire de nouvelle mission ouvert avec la configuration International](.gitbook/assets/KeyboardShortcuts_FR_006.jpg)
+![La page Ajouter une nouvelle mission ouverte par le raccourci](.gitbook/assets/KeyboardShortcuts_FR_006.jpg)
 
 ## Corriger les conflits avant d’enregistrer
 

@@ -37,7 +37,7 @@ La gestion sécurisée des clés d’API permet aux administrateurs de créer, f
 5. Cliquez sur **Enregistrer**.
 6. Dans la fenêtre contextuelle de création de la clé, cliquez sur **Copier** pour copier la clé, puis sur **Fermer**.
 
-![La fenêtre contextuelle qui affiche la nouvelle clé](.gitbook/assets/ApiKeys_006.jpg)
+![La fenêtre contextuelle qui affiche la nouvelle clé](.gitbook/assets/ApiKeys_FR_006.jpg)
 
 ### Résultat
 
@@ -47,7 +47,7 @@ La clé est ajoutée à la liste. Seuls ses derniers caractères restent visible
 
 Pour connecter plusieurs intégrations, répétez ces étapes et créez une clé par intégration.
 
-![Plusieurs clés, une par intégration](.gitbook/assets/ApiKeys_008.jpg)
+![Plusieurs clés, une par intégration](.gitbook/assets/ApiKeys_FR_008.jpg)
 
 ## Désactiver une clé d’API
 
@@ -57,7 +57,7 @@ Pour connecter plusieurs intégrations, répétez ces étapes et créez une clé
 
 2. Désactivez l’interrupteur **Activée** pour qu’il affiche **Non**.
 
-![Désactivez l’interrupteur Activée](.gitbook/assets/ApiKeys_010.jpg)
+![Désactivez l’interrupteur Activée](.gitbook/assets/ApiKeys_FR_010.jpg)
 
 3. Cliquez sur **Enregistrer**.
 
@@ -65,7 +65,7 @@ Pour connecter plusieurs intégrations, répétez ces étapes et créez une clé
 
 Une notification confirme que la clé a été enregistrée, et la colonne **Activée** affiche **Non**. Les requêtes qui utilisent cette clé sont refusées instantanément.
 
-![La clé désactivée dans la liste](.gitbook/assets/ApiKeys_011.jpg)
+![La clé désactivée dans la liste](.gitbook/assets/ApiKeys_FR_011.jpg)
 
 ## Supprimer des clés d’API
 
@@ -76,13 +76,13 @@ Une notification confirme que la clé a été enregistrée, et la colonne **Acti
 2. Cliquez sur **Actions**, puis sur **Supprimer**.
 3. Dans la fenêtre contextuelle de confirmation, confirmez la suppression. Les clés cessent de fonctionner immédiatement.
 
-![La fenêtre contextuelle de confirmation de la suppression](.gitbook/assets/ApiKeys_013.jpg)
+![La fenêtre contextuelle de confirmation de la suppression](.gitbook/assets/ApiKeys_FR_013.jpg)
 
 ### Résultat
 
 Les clés sont retirées de la liste. Vos autres intégrations continuent de fonctionner avec leurs propres clés.
 
-![Les clés restantes après la suppression](.gitbook/assets/ApiKeys_014.jpg)
+![Les clés restantes après la suppression](.gitbook/assets/ApiKeys_FR_014.jpg)
 
 ## Conseils
 

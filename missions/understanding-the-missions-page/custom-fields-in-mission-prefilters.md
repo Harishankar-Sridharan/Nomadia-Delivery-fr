@@ -47,7 +47,7 @@ Les champs personnalisés dans les préfiltres de missions vous permettent de fi
 
 5. Ajoutez d’autres conditions si nécessaire, avec des champs standard comme **Statut** et des champs personnalisés, et reliez-les par **ET** ou **OU**.
 
-![Un préfiltre qui combine champs standard et champs personnalisés](../../.gitbook/assets/PrefilterCustomFields_008.jpg)
+![Un préfiltre qui combine champs standard et champs personnalisés](../../.gitbook/assets/PrefilterCustomFields_FR_008.jpg)
 
 6. Cliquez sur **Enregistrer**.
 

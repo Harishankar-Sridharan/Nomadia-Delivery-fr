@@ -42,7 +42,7 @@ Le suivi des conteneurs vous permet de suivre chaque conteneur par son identifia
 
 Une notification confirme que le conteneur a été ajouté. Le conteneur apparaît dans la **Liste des contenants**, prêt à être suivi, et son état et son statut sont inscrits dans son historique.
 
-![Le nouveau conteneur dans la Liste des contenants](../.gitbook/assets/ContainerTracking_005.jpg)
+![Le nouveau conteneur dans la Liste des contenants](../.gitbook/assets/ContainerTracking_FR_005.jpg)
 
 ## Affecter un conteneur à une mission
 
@@ -56,7 +56,7 @@ Une notification confirme que le conteneur a été ajouté. Le conteneur appara�
 
 3. Sélectionnez le conteneur, puis enregistrez la mission.
 
-![Sélectionnez le conteneur dans le champ Conteneur suivi](../.gitbook/assets/ContainerTracking_008.jpg)
+![Sélectionnez le conteneur dans le champ Conteneur suivi](../.gitbook/assets/ContainerTracking_FR_008.jpg)
 
 ### Résultat
 

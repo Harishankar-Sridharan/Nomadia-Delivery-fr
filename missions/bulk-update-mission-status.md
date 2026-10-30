@@ -17,7 +17,7 @@ La mise à jour en masse du statut des missions vous permet de modifier le statu
 * **Fenêtre contextuelle Modification groupée** : fenêtre contextuelle qui indique le nombre de missions sélectionnées et les champs que vous pouvez modifier.
 * **Statut de la mission** : champ où vous choisissez le nouveau statut des missions sélectionnées.
 * **Sous-statut** : champ facultatif où vous choisissez un motif pour le nouveau statut. Il n’est disponible que lorsqu’un sous-statut est configuré pour le statut choisi.
-* **Confirmer le changement de statut** : fenêtre contextuelle qui vous demande de confirmer avant l’application du statut.
+* **Confirmer la mise à jour** : fenêtre contextuelle qui vous demande de confirmer avant l’application du statut.
 
 ## Mettre à jour le statut de plusieurs missions
 
@@ -53,15 +53,15 @@ La fenêtre contextuelle **Modification groupée** s’ouvre et indique le nombr
 
 ![Cliquez sur Enregistrer](../.gitbook/assets/BulkStatusUpdate_FR_008.jpg)
 
-8. Dans la fenêtre contextuelle **Confirmer le changement de statut**, lisez le message et cliquez sur **OK**. Cliquez sur **Annuler** pour laisser les statuts inchangés.
+8. Dans la fenêtre contextuelle **Confirmer la mise à jour**, lisez le message et cliquez sur **OK**. Cliquez sur **Annuler** pour laisser les statuts inchangés.
 
-![Cliquez sur OK dans la fenêtre Confirmer le changement de statut](../.gitbook/assets/BulkStatusUpdate_009.jpg)
+![Cliquez sur OK dans la fenêtre Confirmer la mise à jour](../.gitbook/assets/BulkStatusUpdate_FR_009.jpg)
 
 ### Résultat
 
-Une notification confirme que les missions ont été déplacées vers le nouveau statut, et la colonne **Statut** du tableau des missions affiche le nouveau statut pour toutes les missions sélectionnées.
+Une notification confirme que les missions sont passées au nouveau statut, par exemple **5 mission(s) passée(s) au nouveau statut**, et la colonne **Statut** du tableau des missions affiche le nouveau statut pour toutes les missions sélectionnées.
 
-![La colonne Statut affiche le nouveau statut pour les missions sélectionnées](../.gitbook/assets/BulkStatusUpdate_010.jpg)
+![La colonne Statut affiche le nouveau statut pour les missions sélectionnées](../.gitbook/assets/BulkStatusUpdate_FR_010.jpg)
 
 ## Conseils
 
