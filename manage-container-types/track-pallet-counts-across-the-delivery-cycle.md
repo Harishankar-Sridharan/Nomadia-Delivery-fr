@@ -9,7 +9,7 @@ Le suivi des palettes vous permet de suivre le nombre de palettes d’un type de
 
 ## Présentation de la fonctionnalité
 
-* **Suivre dans les KPI** : option du type de conteneur. Lorsqu’elle est activée, le nombre de palettes de ce type de conteneur est suivi tout au long du cycle de livraison et affiché dans un KPI dédié du tableau de bord.
+* **Suivre le nombre de contenants** : option du type de conteneur. Lorsqu’elle est activée, le nombre de palettes de ce type de conteneur est suivi tout au long du cycle de livraison et affiché dans un KPI dédié du tableau de bord.
 * **KPI dédié aux palettes** : vignette du **Tableau de bord** qui affiche le nombre de palettes en circulation pour un type de conteneur suivi, avec son évolution.
 * **Déclaré / reçu** : le donneur d’ordres déclare la quantité envoyée avec la mission. Le quai saisit la quantité réellement reçue. Tout écart apparaît dans le **Rapport de réception**, qui est envoyé au donneur d’ordres.
 * **Saisie par le chauffeur** : dans l’application mobile, le chauffeur enregistre à chaque arrêt le nombre de palettes **Livrées** au client et **Reprises** (retours).
@@ -17,25 +17,25 @@ Le suivi des palettes vous permet de suivre le nombre de palettes d’un type de
 
 ## Activer le suivi des palettes pour un type de conteneur
 
-1. Allez dans **Configuration** > **Livraison** > **Types de conteneurs**. La liste affiche chaque type de conteneur avec sa colonne **Suivre dans les KPI**.
+1. Allez dans **Configuration** > **Livraison** > **Type de contenants**. La liste affiche chaque type de conteneur avec sa colonne **Suivre le nombre de contenants**.
 
 ![La liste des types de conteneurs](../.gitbook/assets/PalletTracking_FR_001.jpg)
 
-2. Cliquez sur le type de conteneur à suivre, par exemple **EURO PALLET**. Le panneau **Modifier le type de conteneur** s’ouvre.
+2. Cliquez sur l’**icône crayon** du type de conteneur à suivre, par exemple **Palette Europe**. La page **Modifier un type de contenant** s’ouvre.
 
-![Le panneau Modifier le type de conteneur](../.gitbook/assets/PalletTracking_FR_002.jpg)
+![La page Modifier un type de contenant](../.gitbook/assets/PalletTracking_FR_002.jpg)
 
-3. Activez **Suivre dans les KPI**. Un message indique que le nombre de palettes de ce type de conteneur est affiché dans un KPI dédié du tableau de bord.
+3. Dans la section **Général**, activez **Suivre le nombre de contenants**. Survolez l’icône d’information : les missions portant ce type de contenant sont comptées comme des contenants, un contenant par mission, et les totaux sont annoncés à vos donneurs d’ordres et comparés à ce qui est réellement reçu à la réception.
 
-![Activez Suivre dans les KPI](../.gitbook/assets/PalletTracking_FR_003.jpg)
+![Activez Suivre le nombre de contenants](../.gitbook/assets/PalletTracking_FR_003.jpg)
 
 4. Cliquez sur **Enregistrer**.
 
 ### Résultat
 
-La colonne **Suivre dans les KPI** affiche **Oui** pour le type de conteneur. Répétez ces étapes pour chaque type de conteneur à suivre, par exemple **CHEP PALLET**.
+Dans la liste **Type de contenants**, la colonne **Suivre le nombre de contenants** affiche **Oui** pour le type de conteneur. Répétez ces étapes pour chaque type de conteneur à suivre, par exemple **CHEP PALLET**.
 
-![Suivre dans les KPI défini sur Oui pour les types de conteneurs suivis](../.gitbook/assets/PalletTracking_FR_004.jpg)
+![Suivre le nombre de contenants défini sur Oui pour les types de conteneurs suivis](../.gitbook/assets/PalletTracking_FR_004.jpg)
 
 ## Suivre le KPI des palettes sur le tableau de bord
 
@@ -74,7 +74,7 @@ Les quantités livrées et reprises mettent à jour la détention des palettes :
 
 ## Savoir qui détient vos palettes
 
-1. Allez dans **Configuration** > **Livraison** > **Types de conteneurs**.
+1. Allez dans **Configuration** > **Livraison** > **Type de contenants**.
 2. Consultez les colonnes **Donneur d’ordres**, **Transporteur** et **Client**. Pour chaque type de conteneur suivi, elles indiquent combien de palettes chaque partie détient en ce moment. Les types de conteneurs non suivis affichent un tiret.
 
 ![Les champs de détention dans la liste des types de conteneurs](../.gitbook/assets/PalletTracking_FR_010.jpg)
@@ -86,7 +86,7 @@ Les quantités livrées et reprises mettent à jour la détention des palettes :
 ## Conseils
 
 {% hint style="info" %}
-**Ne suivez que l’essentiel** : activez **Suivre dans les KPI** uniquement pour les types de conteneurs que vous souhaitez suivre, comme les palettes consignées. Les autres types fonctionnent comme avant et affichent un tiret dans les champs de détention.
+**Ne suivez que l’essentiel** : activez **Suivre le nombre de contenants** uniquement pour les types de conteneurs que vous souhaitez suivre, comme les palettes consignées. Les autres types fonctionnent comme avant et affichent un tiret dans les champs de détention.
 {% endhint %}
 
 {% hint style="info" %}
