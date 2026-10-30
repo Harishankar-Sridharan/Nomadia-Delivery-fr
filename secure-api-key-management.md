@@ -43,7 +43,7 @@ La gestion sécurisée des clés d’API permet aux administrateurs de créer, f
 
 La clé est ajoutée à la liste. Seuls ses derniers caractères restent visibles dans la colonne **Clé**.
 
-![La nouvelle clé avec sa valeur masquée](.gitbook/assets/ApiKeys_007.jpg)
+![La nouvelle clé avec sa valeur masquée](.gitbook/assets/ApiKeys_FR_007.jpg)
 
 Pour connecter plusieurs intégrations, répétez ces étapes et créez une clé par intégration.
 
@@ -71,7 +71,7 @@ Une notification confirme que la clé a été enregistrée, et la colonne **Acti
 
 1. Dans la liste des clés d’API, cochez les cases des clés que vous souhaitez supprimer.
 
-![Sélectionnez les clés à supprimer](.gitbook/assets/ApiKeys_012.jpg)
+![Sélectionnez les clés à supprimer](.gitbook/assets/ApiKeys_FR_012.jpg)
 
 2. Cliquez sur **Actions**, puis sur **Supprimer**.
 3. Dans la fenêtre contextuelle de confirmation, confirmez la suppression. Les clés cessent de fonctionner immédiatement.

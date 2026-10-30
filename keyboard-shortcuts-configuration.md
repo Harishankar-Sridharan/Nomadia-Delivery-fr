@@ -13,7 +13,7 @@ La page **Raccourcis clavier** rassemble en un seul endroit tous les raccourcis 
 * **Configurations de création de mission** : un raccourci par configuration de mission, par exemple **National**, **Chained**, **Internal** ou **International**. Le raccourci ouvre le formulaire de nouvelle mission avec cette configuration sélectionnée.
 * **Actions nécessitant une sélection** : une action marquée d’un astérisque (**\***) nécessite de sélectionner des lignes dans le tableau au préalable, par exemple **Optimiser** ou **Affecter**.
 * **Désactivé** : l’action n’a pas de raccourci. Cliquez sur l’icône corbeille à côté d’un raccourci pour le supprimer.
-* **Détection des conflits** : une combinaison déjà utilisée par une autre action est mise en évidence en rouge. Une combinaison réservée par le navigateur est signalée par un avertissement, car elle n’atteindra pas l’application.
+* **Détection des conflits** : une combinaison déjà utilisée par une autre action du même groupe est refusée, avec un message qui indique l’action concernée. Une combinaison réservée par le navigateur est signalée par un avertissement, car elle n’atteindra pas l’application.
 
 ## Ouvrir la page Raccourcis clavier
 
@@ -46,9 +46,9 @@ Le raccourci est enregistré pour tout le compte. Tous les utilisateurs peuvent 
 
 ## Corriger les conflits avant d’enregistrer
 
-1. Si la combinaison saisie est déjà utilisée par une autre action, les deux raccourcis sont mis en évidence en rouge. Survolez le raccourci pour voir quelle action l’utilise déjà, par exemple **Importer**.
+1. Si la combinaison saisie est déjà utilisée par une autre action du même groupe, elle n’est pas affectée et un message l’indique, par exemple **Cette combinaison est déjà utilisée par Importer dans ce groupe.**
 
-![Deux actions qui utilisent la même combinaison](.gitbook/assets/KeyboardShortcuts_FR_007.jpg)
+![Le message indique que la combinaison est déjà utilisée](.gitbook/assets/KeyboardShortcuts_FR_007.jpg)
 
 2. Si la combinaison est réservée par votre navigateur, par exemple **Ctrl+t**, un avertissement indique qu’elle n’atteindra pas l’application.
 

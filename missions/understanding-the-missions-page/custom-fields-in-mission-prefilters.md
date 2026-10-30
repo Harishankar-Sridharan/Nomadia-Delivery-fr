@@ -19,7 +19,7 @@ Les champs personnalisés dans les préfiltres de missions vous permettent de fi
 
 1. Vérifiez vos champs personnalisés de mission et leur type, par exemple liste de valeurs, nombre ou texte.
 
-![Les champs personnalisés de mission et leur type](../../.gitbook/assets/PrefilterCustomFields_001.jpg)
+![Les champs personnalisés de mission et leur type](../../.gitbook/assets/PrefilterCustomFields_FR_001.jpg)
 
 2. Accédez à **Configuration** > **Préfiltres de missions**, puis cliquez sur l’**icône crayon** à côté d’un préfiltre, ou cliquez sur **Actions** > **Ajouter** pour en créer un. Voir [Configurer les pré-filtres de mission](configuremissionprefilters.md).
 
@@ -31,15 +31,15 @@ Les champs personnalisés dans les préfiltres de missions vous permettent de fi
 
 4. Choisissez la comparaison. Les comparaisons dépendent du type du champ :
 
-   * Pour une liste de valeurs, choisissez si la valeur fait partie ou non de la liste, puis sélectionnez les valeurs directement dans la liste.
+   * Pour une liste de valeurs, choisissez **parmi** ou **aucun de**, puis sélectionnez les valeurs directement dans la liste.
 
-![Les comparaisons d’un champ de type liste](../../.gitbook/assets/PrefilterCustomFields_004.jpg)
+![Les comparaisons d’un champ de type liste](../../.gitbook/assets/PrefilterCustomFields_FR_004.jpg)
 
-![Sélectionnez les valeurs dans la liste](../../.gitbook/assets/PrefilterCustomFields_005.jpg)
+![Sélectionnez les valeurs dans la liste](../../.gitbook/assets/PrefilterCustomFields_FR_005.jpg)
 
-   * Pour un texte, choisissez de chercher le texte, une valeur exacte, un champ vide ou un champ non vide, puis saisissez le texte.
+   * Pour un texte, choisissez **contient**, **égal à**, **est vide** ou **n’est pas vide**, puis saisissez le texte.
 
-![Les comparaisons d’un champ de type texte](../../.gitbook/assets/PrefilterCustomFields_006.jpg)
+![Les comparaisons d’un champ de type texte](../../.gitbook/assets/PrefilterCustomFields_FR_006.jpg)
 
    * Pour un nombre, choisissez **égal à**, **supérieur à** ou **inférieur à**, puis saisissez le nombre.
 
