@@ -21,6 +21,7 @@
   * [Configuration du report](booking-portal/reschedule-configuration.md)
   * [Report par le client](booking-portal/rescheduling-by-customer.md)
     * [Reporter plusieurs fois un créneau préréservé](booking-portal/prebookingtheslotmultipletimes.md)
+  * [Relances automatiques de réservation de créneau](booking-portal/automated-slot-booking-reminders.md)
 * [Tableaux de bord personnalisés](custom-dashboards.md)
 * [Configuration de sondages personnalisés](configuring-customized-surveys.md)
   * [Photos de l’état du véhicule](vehicle-condition-photos.md)
