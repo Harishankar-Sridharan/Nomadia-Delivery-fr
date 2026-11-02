@@ -1,6 +1,6 @@
 # Version d’automne 2026
 
-La version d’automne 2026 vous donne plus de contrôle sur les missions, les conteneurs, les tickets et les intégrations. Parmi les nouveautés : la mise à jour en masse du statut des missions, le suivi des conteneurs par identifiant unique et leur association aux véhicules, le suivi du nombre de palettes tout au long du cycle de livraison, les tickets automatiques avec relances et détails de la mission pour les donneurs d’ordres, le contrôle des adresses visibles par les donneurs d’ordres, les relances automatiques de réservation de créneau, la création en un clic des missions de retour des colis non livrés, les filtres de colonnes de type Excel, des raccourcis clavier communs à tout le compte, les champs personnalisés dans les préfiltres de missions, les photos de l’état du véhicule, et la gestion sécurisée des clés d’API.
+La version d’automne 2026 vous donne plus de contrôle sur les missions, les conteneurs, les tickets et les intégrations. Parmi les nouveautés : la mise à jour en masse du statut des missions, le suivi des conteneurs par identifiant unique et leur association aux véhicules, le suivi du nombre de palettes tout au long du cycle de livraison, les tickets automatiques avec relances et détails de la mission pour les donneurs d’ordres, le contrôle des adresses visibles par les donneurs d’ordres, les relances automatiques de réservation de créneau, la création en un clic des missions de retour des colis non livrés, les filtres de colonnes de type Excel, des raccourcis clavier communs à tout le compte, des onglets de navigation et une page de démarrage personnalisables, les champs personnalisés dans les préfiltres de missions, les photos de l’état du véhicule, et la gestion sécurisée des clés d’API.
 
 Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionnalité.
 
@@ -20,3 +20,4 @@ Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionn
 | 12 | Portail de réservation | [Portail de réservation > Relances automatiques de réservation de créneau](../booking-portal/automated-slot-booking-reminders.md) |
 | 13 | Configuration des raccourcis clavier | [Configuration des raccourcis clavier](../keyboard-shortcuts-configuration.md) |
 | 14 | Retour au donneur d’ordres | [Retour au donneur d’ordres](../return-to-contractor.md) |
+| 15 | Personnaliser les onglets de navigation | [Personnaliser les onglets de navigation](../customize-navigation-tabs.md) |
