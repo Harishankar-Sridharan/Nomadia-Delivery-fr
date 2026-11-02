@@ -150,6 +150,7 @@
   * [SMS](manage-notifications/sms.md)
   * [Personnaliser les modèles d’e-mail](manage-notifications/customize-email-templates.md)
     * [Modèles personnalisés](manage-notifications/customtemplates.md)
+    * [Envoyer des comptes-rendus par e-mail via l’API](manage-notifications/send-email-reports-via-api.md)
 * [Gestion des alertes](alertmanagement.md)
 * [Gérer les études et les zones](manage-studies-and-zones/README.md)
   * [Gérer les zones postales](manage-studies-and-zones/manage-postal-zones.md)
