@@ -172,6 +172,7 @@
   * [Associer des conteneurs aux véhicules](manage-vehicle-fleets/associate-containers-with-vehicles.md)
 * [Gestion sécurisée des clés d’API](secure-api-key-management.md)
 * [Configuration des raccourcis clavier](keyboard-shortcuts-configuration.md)
+* [Retour au donneur d’ordres](return-to-contractor.md)
 * [Études de cas](case-studies/README.md)
   * [Création d’une étude avec zone principale](case-studies/study-creation-with-primary-zone.md)
   * [Sous-sectorisation par code postal](case-studies/subsector-using-postal-code.md)
