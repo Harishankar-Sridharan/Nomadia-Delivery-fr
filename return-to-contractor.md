@@ -9,8 +9,8 @@ Le retour au donneur d’ordres crée en une seule action les missions de retour
 
 ## Présentation de la fonctionnalité
 
-* **Page Retours** : page de l’en-tête principal qui liste les tournées du jour sélectionné, avec leurs indicateurs de livraison et, sous **Détails de la tournée**, les missions regroupées par résultat : **Non livré**, **Non collecté**, **Non visité** et **Chargé**.
-* **Retour au donneur d’ordres** : action du menu **Actions** de la liste des missions qui crée les missions de retour des éléments sélectionnés. Elle s’applique aux missions **Non livrées** ou **Déposées**, qu’il s’agisse de contenants ou d’articles individuels.
+* **Page Retours** : page de l’en-tête principal qui liste les tournées du jour sélectionné, avec leurs indicateurs de livraison et, sous **Détails de la tournée**, les missions regroupées par résultat : **Not delivered**, **Non collecté**, **Non visité** et **Chargé**.
+* **Retourner au donneur d’ordre** : action du menu **Actions** de la liste des missions qui crée les missions de retour des éléments sélectionnés. Elle s’applique aux missions **Non livrées** ou **Déposées**, qu’il s’agisse de contenants ou d’articles individuels.
 * **Type de contenant de retour** : type de contenant utilisé pour les missions de retour, par exemple **Carton**. Vous le choisissez dans la fenêtre de confirmation.
 * **Mission de retour** : nouvelle mission créée pour chaque élément. Son numéro est celui de la mission d’origine suivi de **\_R**, son type de mission est **Collecte** et son statut est **Créée**.
 * **Adresses inversées** : dans la mission de retour, l’adresse d’enlèvement est l’adresse du client où la livraison a échoué, et l’adresse de livraison est l’adresse du donneur d’ordres.
@@ -21,7 +21,7 @@ Le retour au donneur d’ordres crée en une seule action les missions de retour
 
 ![Les tournées de la page Retours](.gitbook/assets/ReturnToContractor_FR_001.jpg)
 
-2. Sous **Détails de la tournée**, cliquez sur **Non livré** pour lister les missions non livrées de cette tournée.
+2. Sous **Détails de la tournée**, cliquez sur **Not delivered** pour lister les missions non livrées de cette tournée.
 
 ![La tournée sélectionnée et ses détails](.gitbook/assets/ReturnToContractor_FR_002.jpg)
 
@@ -29,17 +29,17 @@ Le retour au donneur d’ordres crée en une seule action les missions de retour
 
 ![Sélectionnez les missions non livrées](.gitbook/assets/ReturnToContractor_FR_003.jpg)
 
-4. Cliquez sur **Actions**, puis sur **Retour au donneur d’ordres**.
+4. Cliquez sur **Actions**, puis sur **Retourner au donneur d’ordre**.
 
-![Cliquez sur Actions, puis sur Retour au donneur d’ordres](.gitbook/assets/ReturnToContractor_FR_004.jpg)
+![Cliquez sur Actions, puis sur Retourner au donneur d’ordre](.gitbook/assets/ReturnToContractor_FR_004.jpg)
 
-5. Dans la fenêtre **Retour au donneur d’ordres**, lisez le message, qui indique le nombre de missions de retour qui seront créées. Choisissez le **Type de contenant de retour**, puis cliquez sur **Confirmer**.
+5. Dans la fenêtre **Retourner au donneur d’ordre**, lisez le message, qui indique le nombre de missions de retour qui seront créées. Choisissez le **Type de contenant de retour**, puis cliquez sur **Confirmer**.
 
 ![Choisissez le type de contenant de retour et confirmez](.gitbook/assets/ReturnToContractor_FR_005.jpg)
 
 ### Résultat
 
-Une notification confirme le nombre de missions de retour créées. Si un retour ne peut pas être créé, il est listé avec le motif, ce qui vous permet d’intervenir immédiatement.
+Une notification confirme le nombre de missions de retour créées, par exemple **3 mission(s) de retour créée(s) avec succès.** Si un retour ne peut pas être créé, il est listé avec le motif, ce qui vous permet d’intervenir immédiatement.
 
 ![Les missions de retour sont créées](.gitbook/assets/ReturnToContractor_FR_006.jpg)
 
@@ -49,7 +49,7 @@ Une notification confirme le nombre de missions de retour créées. Si un retour
 
 ![La mission de retour à côté de la mission d’origine](.gitbook/assets/ReturnToContractor_FR_007.jpg)
 
-2. Ouvrez la mission de retour. Dans **Informations d’enlèvement**, l’adresse d’enlèvement est l’adresse du client où la livraison a échoué.
+2. Ouvrez la mission de retour. Dans **Informations de collecte**, l’adresse d’enlèvement (**Enlèvement (Adresse)**) est l’adresse du client où la livraison a échoué.
 
 ![L’adresse d’enlèvement est l’adresse du client](.gitbook/assets/ReturnToContractor_FR_008.jpg)
 
