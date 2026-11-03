@@ -171,6 +171,7 @@
   * [Gérer les véhicules d’une flotte](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
   * [Personnaliser les contraintes](manage-vehicle-fleets/customize-the-constraints.md)
   * [Associer des conteneurs aux véhicules](manage-vehicle-fleets/associate-containers-with-vehicles.md)
+  * [Lieu de pause déjeuner du chauffeur](manage-vehicle-fleets/driver-lunch-location.md)
 * [Gestion sécurisée des clés d’API](secure-api-key-management.md)
 * [Configuration des raccourcis clavier](keyboard-shortcuts-configuration.md)
 * [Retour au donneur d’ordres](return-to-contractor.md)
