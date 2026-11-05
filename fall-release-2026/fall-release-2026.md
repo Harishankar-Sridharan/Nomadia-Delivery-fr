@@ -11,11 +11,11 @@ Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionn
 | 3  | Gérer les types de conteneurs | [Gérer les types de conteneurs > Suivre chaque conteneur par son identifiant unique](../manage-container-types/track-individual-containers-by-unique-id.md) |
 | 4  | Gérer les tickets | [Gérer les tickets > Tickets et relances automatiques pour les donneurs d’ordres](../manage-tickets/automated-contractor-tickets-and-reminders.md) |
 | 5  | Gestion sécurisée des clés d’API | [Gestion sécurisée des clés d’API](../secure-api-key-management.md) |
-| 6  | Gérer les tickets | [Gérer les tickets > Détails de la mission dans les tickets](../manage-tickets/mission-details-in-tickets.md) |
-| 7  | Gérer les flottes de véhicules | [Gérer les flottes de véhicules > Associer des conteneurs aux véhicules](../manage-vehicle-fleets/associate-containers-with-vehicles.md) |
+| 6  | Gérer les tickets | [Gérer les tickets > Tickets et relances automatiques pour les donneurs d’ordres > Ajouter des champs de mission à un modèle de ticket](../manage-tickets/automated-contractor-tickets-and-reminders.md) |
+| 7  | Gérer les types de conteneurs | [Gérer les types de conteneurs > Suivre chaque conteneur par son identifiant unique > Associer des conteneurs à un véhicule](../manage-container-types/track-individual-containers-by-unique-id.md) |
 | 8  | Missions | [Missions > Comprendre la page des missions > Filtres de colonnes de type Excel](../missions/understanding-the-missions-page/excel-style-column-filters.md) |
 | 9  | Configuration de sondages personnalisés | [Configuration de sondages personnalisés > Photos de l’état du véhicule](../vehicle-condition-photos.md) |
-| 10 | Missions | [Missions > Comprendre la page des missions > Champs personnalisés dans les préfiltres de missions](../missions/understanding-the-missions-page/custom-fields-in-mission-prefilters.md) |
+| 10 | Missions | [Missions > Comprendre la page des missions > Configurer les pré-filtres de mission > Ajouter un champ personnalisé à un pré-filtre de missions](../missions/understanding-the-missions-page/configuremissionprefilters.md) |
 | 11 | Gérer les types de conteneurs | [Gérer les types de conteneurs > Suivre le nombre de palettes tout au long du cycle de livraison](../manage-container-types/track-pallet-counts-across-the-delivery-cycle.md) |
 | 12 | Portail de réservation | [Portail de réservation > Relances automatiques de réservation de créneau](../booking-portal/automated-slot-booking-reminders.md) |
 | 13 | Configuration des raccourcis clavier | [Configuration des raccourcis clavier](../keyboard-shortcuts-configuration.md) |

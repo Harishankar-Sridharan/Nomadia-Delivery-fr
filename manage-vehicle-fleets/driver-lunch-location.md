@@ -101,4 +101,4 @@ La pause déjeuner suit la tournée jusqu’à l’application mobile du chauffe
 
 * [Gérer les véhicules d’une flotte](manage-vehicles-in-a-fleet.md)
 * [Personnaliser les contraintes](customize-the-constraints.md)
-* [Associer des conteneurs aux véhicules](associate-containers-with-vehicles.md)
+* [Suivre chaque conteneur par son identifiant unique](../manage-container-types/track-individual-containers-by-unique-id.md)

@@ -1,6 +1,6 @@
 # Tickets et relances automatiques pour les donneurs d’ordres
 
-Les tickets et relances automatiques créent un ticket pour le donneur d’ordres dès qu’un chauffeur enregistre un sous-statut précis dans l’application mobile, par exemple **Customer Door Closed**. Si le donneur d’ordres ne répond pas, des relances sont publiées selon un calendrier et une notification par e-mail est envoyée. Les relances s’arrêtent dès que le donneur d’ordres répond ou que le ticket est fermé, et chaque étape est consignée dans l’historique du ticket.
+Les tickets et relances automatiques créent un ticket pour le donneur d’ordres dès qu’un chauffeur enregistre un sous-statut précis dans l’application mobile, par exemple **Customer Door Closed**. Si le donneur d’ordres ne répond pas, des relances sont publiées selon un calendrier et une notification par e-mail est envoyée. Les relances s’arrêtent dès que le donneur d’ordres répond ou que le ticket est fermé, et chaque étape est consignée dans l’historique du ticket. Chaque ticket donne aussi aux donneurs d’ordres et à votre équipe tout le contexte de la mission : les champs de mission insérés dans le modèle sont renseignés automatiquement, un instantané de la mission est conservé à la création, le ticket est visible sur la mission, et pour les missions de conteneur, un seul ticket est créé sur la mission parente au lieu d’un ticket par élément.
 
 ## Avant de commencer
 
@@ -15,6 +15,9 @@ Les tickets et relances automatiques créent un ticket pour le donneur d’ordre
 * **Édition en cours** : sélecteur qui permet de passer du **Message d’origine** à chaque relance, afin que chacun ait son propre titre de ticket et son propre message.
 * **Insérez des champs dans votre message** : champs dynamiques, tels que **Statut**, **Sous-statut**, **Motif**, **Livraison (Commentaire)**, **Enlèvement (Commentaire)**, **Prénom du client**, **Nom du client**, **Nom du prestataire**, **Prénom du prestataire**, **Nom de famille du prestataire** et **Numéros de mission**, remplacés par les valeurs de la mission dans le ticket.
 * **Créer un ticket** : action à la réalisation d’un sous-statut qui crée automatiquement un ticket lorsqu’un utilisateur mobile exécute ce sous-statut.
+* **Détails de la mission à la création** : section du ticket qui affiche le statut de la mission, le sous-statut, le motif, le commentaire, le nom du client et le numéro de la mission tels qu’ils étaient à la création du ticket.
+* **Onglet Aide** : onglet de l’éditeur de mission où les tickets de la mission sont également visibles.
+* **Un ticket par conteneur** : pour une mission de conteneur, un seul ticket est créé sur la mission parente pour tous ses éléments, au lieu d’un ticket par élément.
 
 ## Créer un modèle de ticket
 
@@ -46,6 +49,23 @@ Les tickets et relances automatiques créent un ticket pour le donneur d’ordre
 
 Le modèle apparaît dans la liste **Modèles de tickets**, avec son nombre de relances et son état d’activation.
 
+## Ajouter des champs de mission à un modèle de ticket
+
+1. Accédez à **Tickets** > **Modèles de tickets**, puis cliquez sur l’**icône crayon** à côté du modèle.
+
+![La page Modèles de tickets](../.gitbook/assets/MissionDetailsTickets_FR_001.jpg)
+
+2. Avec **Message d’origine** sélectionné dans **Édition en cours**, placez le curseur dans **Instructions pour l’agent** à l’endroit où vous voulez ajouter une valeur de la mission.
+3. Sous **Insérez des champs dans votre message**, cliquez sur le champ à ajouter, par exemple **Livraison (Commentaire)**. Le champ est ajouté au message sous la forme `$[Livraison (Commentaire)]$`.
+
+![Le message et les champs que vous pouvez insérer](../.gitbook/assets/MissionDetailsTickets_FR_002.jpg)
+
+4. Cliquez sur **Enregistrer le modèle**.
+
+### Résultat
+
+Dans les nouveaux tickets créés à partir de ce modèle, les champs insérés sont remplacés par les valeurs de la mission.
+
 ## Lier le modèle à un sous-statut
 
 1. Accédez à **Configuration** > **Sous-statuts**.
@@ -74,7 +94,10 @@ Désormais, lorsqu’un chauffeur enregistre ce sous-statut dans l’application
 
 ## Suivre un ticket automatique
 
-1. Accédez à **Tickets** et ouvrez le ticket. Il affiche le message d’origine.
+1. Accédez à **Tickets** et ouvrez le ticket. Il affiche le message d’origine, avec les valeurs de la mission à la place des champs insérés.
+
+![Le message du ticket et les détails de la mission à la création](../.gitbook/assets/MissionDetailsTickets_FR_004.jpg)
+
 2. Consultez **Détails de la mission à la création**. Cette section affiche un instantané de la mission au moment de la création du ticket, comme le statut de la mission, le sous-statut, le motif, le commentaire, le nom du client et le numéro de la mission.
 3. Pour mettre fin au suivi, cliquez sur **Fermer le ticket**.
 
@@ -89,10 +112,36 @@ Désormais, lorsqu’un chauffeur enregistre ce sous-statut dans l’application
 
 Lorsque le donneur d’ordres répond ou que le ticket est fermé, les relances restantes s’arrêtent. Chaque étape est consignée dans l’historique du ticket.
 
+## Consulter le ticket sur la mission
+
+1. Dans le ticket, cliquez sur **Mission**, ou ouvrez la mission dans l’éditeur de mission, puis cliquez sur l’onglet **Aide**. Le ticket y est également visible, avec son message et les détails de la mission.
+
+![Le ticket dans l’onglet Aide de la mission](../.gitbook/assets/MissionDetailsTickets_FR_005.jpg)
+
+2. Pour une mission de conteneur, cliquez sur l’onglet du type de conteneur, par exemple **Palette Europe**. Le ticket est créé sur cette mission parente, qui répertorie ses missions enfants.
+
+![Les missions enfants de la mission parente](../.gitbook/assets/MissionDetailsTickets_FR_006.jpg)
+
+### Résultat
+
+Lorsque plusieurs éléments d’un conteneur rencontrent le même problème, un seul ticket est créé sur la mission parente pour l’ensemble du conteneur, au lieu d’un ticket par élément.
+
+![Un ticket par conteneur au lieu d’un ticket par élément](../.gitbook/assets/MissionDetailsTickets_FR_008.jpg)
+
 ## Conseils
 
 {% hint style="info" %}
 **Calendrier des relances** : vous pouvez ajouter jusqu’à trois relances, une seule par jour. Chaque nouvelle relance doit tomber après la précédente, jusqu’à D+10.
+{% endhint %}
+
+{% hint style="info" %}
+**Insérer un champ au clavier** : saisissez `$` dans le message pour insérer l’un des champs disponibles.
+{% endhint %}
+
+![Saisissez $ dans le message pour insérer un de ces champs](../.gitbook/assets/MissionDetailsTickets_FR_003.jpg)
+
+{% hint style="info" %}
+**Enregistré à la création** : les détails de la mission d’un ticket sont enregistrés à la création du ticket. Les modifications ultérieures de la mission ne les changent pas : le ticket montre toujours la situation sur laquelle le donneur d’ordres a été interrogé.
 {% endhint %}
 
 ## Rubriques connexes
@@ -100,3 +149,4 @@ Lorsque le donneur d’ordres répond ou que le ticket est fermé, les relances 
 * [Gérer les tickets](README.md)
 * [Créer un ticket](creating-a-ticket.md)
 * [Gérer les sous-statuts](../manage-substatus/README.md)
+* [Missions enfants de conteneur](../manage-container-types/container-child-missions.md)
