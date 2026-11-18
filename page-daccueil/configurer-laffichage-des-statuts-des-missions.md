@@ -19,13 +19,13 @@ Cette fonctionnalité permet aux utilisateurs de personnaliser les statuts de mi
 3. Choisissez jusqu’à cinq statuts des statistiques de mission à afficher sur la page d’accueil parmi les options suivantes : **Créée, Chargée, Livrée, Non livrée et Enlèvement**.
 4. Après avoir sélectionné les statuts souhaités, cliquez sur **Enregistrer**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+![Choisissez les statuts de Statistique de missions sur la page d’accueil, puis cliquez sur Enregistrer](../.gitbook/assets/HomePage_FR_007.jpg)
 
 ### Résultat
 
 Votre page d’accueil affiche les KPI sélectionnés.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![La page d’accueil affiche les statuts sélectionnés](../.gitbook/assets/HomePage_FR_008.jpg)
 
 ## Conseils
 

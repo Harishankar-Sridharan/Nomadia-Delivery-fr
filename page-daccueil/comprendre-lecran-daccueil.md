@@ -2,7 +2,7 @@
 
 L’écran d’accueil est la page d’arrivée par défaut lorsque vous accédez à Nomadia Delivery. Il fournit une vue d’ensemble opérationnelle de votre activité de livraison, en mettant en évidence les indicateurs clés de performance, les statuts des missions et des liens rapides vers les fonctionnalités principales. Cet écran est conçu pour aider les utilisateurs à naviguer efficacement tout en restant informés des opérations logistiques en temps réel.
 
-<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (7).png" alt=""><figcaption></figcaption></figure>
+![Les principales zones de l’écran d’accueil](../.gitbook/assets/HomePage_FR_002.jpg)
 
 ## Avant de commencer
 

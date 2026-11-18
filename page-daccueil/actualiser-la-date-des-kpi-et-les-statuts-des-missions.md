@@ -17,7 +17,7 @@ Cette fonctionnalité permet aux utilisateurs d’actualiser manuellement les in
 2. Repérez l’icône **Actualiser les KPI** située à côté de la date et de l’heure de la dernière mise à jour.
 3. Cliquez sur l’icône **Actualiser les KPI** pour mettre à jour les données affichées avec les informations les plus récentes.
 
-<figure><img src="../.gitbook/assets/en-image (203).png" alt=""><figcaption></figcaption></figure>
+![Cliquez sur l’icône Actualiser les KPIs à côté de Stats de missions](../.gitbook/assets/HomePage_FR_001.jpg)
 
 ## Conseils
 
