@@ -76,5 +76,6 @@ Les blocs d’informations disponibles sont :
 ## Rubriques connexes
 
 * [Missions](README.md)
+* [Cloner une configuration de mission](clone-a-mission-configuration.md)
 * [Personnaliser les libellés des blocs de mission](customizemissionblocklabels.md)
 * [Personnaliser la validation des champs du formulaire de mission](customizethevalidationofmissionformfields.md)

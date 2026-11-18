@@ -62,6 +62,7 @@
   * [Gérer le tableau des missions](missions/manage-missions-table.md)
   * [Mapper les champs d’adresse depuis la liste globale d’adresses](missions/map-the-addresses-fields-from-the-global-address-list.md)
   * [Configuration de la création des missions](missions/mission-creation-configuration.md)
+  * [Cloner une configuration de mission](missions/clone-a-mission-configuration.md)
   * [Prioriser une mission](missions/prioritizing-a-mission.md)
   * [Priorité automatique via les dates de livraison](missions/automatic-priority-via-delivery-dates.md)
   * [Visite – Un nouveau type de mission](missions/visit-a-new-mission-type.md)
