@@ -26,7 +26,7 @@ Avant que les sous-traitants puissent créer des itinéraires optimisés, ils do
 * **Arrêter** : met fin à l’optimisation lorsque le résultat vous satisfait afin que vous puissiez le consulter.
 * **Afficher la simulation** : vous permet d’analyser les résultats de l’optimisation.
 * **Valider les itinéraires** : publie directement les résultats sans les examiner.
-* **Publier dans l’application mobile** : partage l’itinéraire validé avec le livreur.
+* **Publier sur l’appli mobile** : partage l’itinéraire validé avec le livreur.
 * **Forcer** : valide l’itinéraire même lorsque des conflits sont listés.
 
 ## Lancer l’optimisation avec la connexion sous-traitant
@@ -64,11 +64,11 @@ Vous pouvez également cliquer sur **Valider les tournées** pour publier direct
 
 4. Consultez la notification de confirmation qui s’affiche. L’itinéraire est validé.
 
-![](<../.gitbook/assets/image-27 (3).png>)
+![Le message de validation et la fenêtre Mise en livraison](../.gitbook/assets/SubcontractorMgmt_FR_26.jpg)
 
-5. Activez **Publier dans l’application mobile** en bas de la fenêtre contextuelle si vous souhaitez partager l’itinéraire avec le livreur.
+5. Dans la fenêtre **Mise en livraison**, activez **Publier sur l’appli mobile**, puis cliquez sur **Partager** pour partager l’itinéraire avec le livreur.
 
-![](<../.gitbook/assets/image-28 (3).png>)
+![Activez Publier sur l’appli mobile, puis cliquez sur Partager](../.gitbook/assets/SubcontractorMgmt_FR_27.jpg)
 
 6. Si des conflits sont listés, examinez-les. Pour continuer malgré tout, cliquez sur **Forcer** pour valider.
 
@@ -76,7 +76,7 @@ Vous pouvez également cliquer sur **Valider les tournées** pour publier direct
 
 L’itinéraire validé est publié dans l’application mobile.
 
-<figure><img src="../.gitbook/assets/en-image (204).png" alt=""><figcaption></figcaption></figure>
+![La tournée publiée avec l’icône de l’application mobile](../.gitbook/assets/SubcontractorMgmt_FR_28.jpg)
 
 ## Rubriques connexes
 
