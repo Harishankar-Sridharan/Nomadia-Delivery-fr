@@ -28,9 +28,9 @@ Les transporteurs peuvent affecter des zones géographiques prédéfinies, basé
 
 ### Résultat
 
-Les missions sélectionnées sont affectées au sous-traitant choisi.
+Un message confirme que la mission a été assignée au sous-traitant, et la colonne **Sous-traitant** affiche le sous-traitant choisi.
 
-![](<../.gitbook/assets/image-15 (4).png>)
+![La colonne Sous-traitant affiche le sous-traitant choisi](../.gitbook/assets/SubcontractorMgmt_FR_21.jpg)
 
 ## Filtrer les missions affectées aux sous-traitants
 
@@ -45,7 +45,7 @@ Les missions sélectionnées sont affectées au sous-traitant choisi.
 
 L’onglet des missions affiche uniquement les missions attribuées au sous-traitant choisi.
 
-![](<../.gitbook/assets/image-17 (4).png>)
+![Seules les missions du sous-traitant choisi sont affichées](../.gitbook/assets/SubcontractorMgmt_FR_22.jpg)
 
 ## Conseils
 

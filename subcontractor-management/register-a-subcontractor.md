@@ -36,9 +36,9 @@ Les champs suivants sont obligatoires lors de l’ajout d’un sous-traitant :
 
 ### Résultat
 
-Une notification confirme que le sous-traitant a été ajouté avec succès.
+Le sous-traitant est ajouté et apparaît dans la liste des sous-traitants.
 
-![](<../.gitbook/assets/image-4 (6).png>)
+![Le nouveau sous-traitant dans la liste](../.gitbook/assets/SubcontractorMgmt_FR_20.jpg)
 
 ## Importer des sous-traitants en masse
 
