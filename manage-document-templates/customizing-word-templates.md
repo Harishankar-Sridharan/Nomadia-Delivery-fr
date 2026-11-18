@@ -221,3 +221,4 @@ Les deux types de configuration peuvent être affectés automatiquement en fonct
 
 * [Gérer les modèles de documents](README.md)
 * [Accès à eCMR](accessing-ecmr.md)
+* [QR codes sur les extraits de mission](qr-codes-on-mission-extracts.md)

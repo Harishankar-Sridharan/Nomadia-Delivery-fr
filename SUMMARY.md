@@ -145,6 +145,7 @@
 * [Gérer les modèles de documents](manage-document-templates/README.md)
   * [Personnalisation des modèles Word](manage-document-templates/customizing-word-templates.md)
   * [Accès à eCMR](manage-document-templates/accessing-ecmr.md)
+  * [QR codes sur les extraits de mission](manage-document-templates/qr-codes-on-mission-extracts.md)
 * [Gérer les notifications](manage-notifications/README.md)
   * [E-mail](manage-notifications/email.md)
   * [SMS](manage-notifications/sms.md)

@@ -137,3 +137,4 @@ Les modèles de documents sont supprimés avec succès.
 
 * [Personnalisation des modèles Word](customizing-word-templates.md)
 * [Accès à eCMR](accessing-ecmr.md)
+* [QR codes sur les extraits de mission](qr-codes-on-mission-extracts.md)

@@ -26,8 +26,9 @@ Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionn
 
 ## Correctif – 27 octobre 2026
 
-Le correctif du 27 octobre 2026 ajoute la fonctionnalité suivante.
+Le correctif du 27 octobre 2026 ajoute les fonctionnalités suivantes.
 
 | N° | Section  | Navigation |
 | -- | -------- | ---------- |
 | 1  | Missions | [Missions > Champs personnalisés > Comportement d’écrasement des champs personnalisés](../missions/custom-fields/custom-field-overwrite-behavior.md) |
+| 2  | Gérer les modèles de documents | [Gérer les modèles de documents > QR codes sur les extraits de mission](../manage-document-templates/qr-codes-on-mission-extracts.md) |
