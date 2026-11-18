@@ -7,13 +7,13 @@ En tant que sous-traitant, vous disposez désormais d’une flexibilité accrue 
 Avant que les sous-traitants puissent créer des itinéraires optimisés, ils doivent d’abord être autorisés par le transporteur principal. Le transporteur attribue les permissions nécessaires de la manière suivante :
 
 1. Accédez au module **Configuration**.
-2. Ouvrez la section **Gérer le profil utilisateur**.
+2. Ouvrez la section **Gérer les profils utilisateurs**.
 
-![](<../.gitbook/assets/image-18 (4).png>)
+![Configuration > Gérer les profils utilisateurs](../.gitbook/assets/SubcontractorMgmt_FR_15.jpg)
 
 3. Mettez à jour l’accès du sous-traitant en activant les droits **Véhicules** et **Optimisation**.
 
-![](<../.gitbook/assets/image-19 (4).png>)
+![Les droits Optimisation et planification du profil Subcontractor](../.gitbook/assets/SubcontractorMgmt_FR_16.jpg)
 
 4. Une fois ces autorisations accordées, les sous-traitants peuvent se connecter et utiliser les fonctionnalités d’optimisation d’itinéraires.
 
@@ -21,7 +21,7 @@ Avant que les sous-traitants puissent créer des itinéraires optimisés, ils do
 
 ## Présentation de la fonctionnalité
 
-* Droits **Véhicules** et **Optimisation** : permissions que le transporteur active dans **Gérer le profil utilisateur** pour que les sous-traitants puissent utiliser l’optimisation d’itinéraires.
+* Droits **Véhicules** et **Optimisation** : permissions que le transporteur active dans **Gérer les profils utilisateurs** pour que les sous-traitants puissent utiliser l’optimisation d’itinéraires.
 * **Optimiser** : lance l’optimisation des missions sélectionnées, selon la plage de dates, l’équipe et les véhicules que vous définissez.
 * **Arrêter** : met fin à l’optimisation lorsque le résultat vous satisfait afin que vous puissiez le consulter.
 * **Afficher la simulation** : vous permet d’analyser les résultats de l’optimisation.
@@ -35,11 +35,11 @@ Avant que les sous-traitants puissent créer des itinéraires optimisés, ils do
 2. Accédez à l’onglet **Missions**.
 3. Sélectionnez les missions à optimiser, cliquez sur le bouton **Actions**, puis choisissez **Optimiser**.
 
-![](<../.gitbook/assets/image-21 (4).png>)
+![Actions > Optimiser](../.gitbook/assets/SubcontractorMgmt_FR_17.jpg)
 
 4. Définissez le périmètre de l’optimisation en sélectionnant la plage de dates, l’équipe et les véhicules, puis cliquez sur **Optimiser**.
 
-![](<../.gitbook/assets/image-22 (4).png>)
+![Définir le périmètre de l’optimisation](../.gitbook/assets/SubcontractorMgmt_FR_18.jpg)
 
 5. Lorsque le résultat vous satisfait, cliquez sur **Arrêter** et consultez le résultat.
 
@@ -56,7 +56,7 @@ Vous pouvez également cliquer sur **Valider les itinéraires** pour publier dir
 1. Dans le panneau **Itinéraires**, sélectionnez les itinéraires à valider.
 2. Ouvrez le menu **Actions**, puis cliquez sur **Valider**.
 
-![](<../.gitbook/assets/image-25 (4).png>)
+![Actions > Valider](../.gitbook/assets/SubcontractorMgmt_FR_19.jpg)
 
 3. Confirmez en cliquant sur **OK**.
 

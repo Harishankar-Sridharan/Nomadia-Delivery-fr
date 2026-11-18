@@ -9,9 +9,9 @@ Les transporteurs peuvent affecter des zones géographiques prédéfinies, basé
 ## Présentation de la fonctionnalité
 
 * Onglet **Missions** : liste les missions parmi lesquelles vous sélectionnez celles à affecter.
-* **Actions** > **Affecter à un sous-traitant** : attribue les missions sélectionnées à un sous-traitant choisi dans la liste.
+* **Actions** > **Assigner à un sous-traitant** : attribue les missions sélectionnées à un sous-traitant choisi dans la liste.
 * **Filtre préalable** : filtre le tableau des missions afin de voir les missions affectées à un sous-traitant spécifique.
-* **Attribué à** : liste déroulante du filtre préalable dans laquelle vous sélectionnez le sous-traitant dont vous souhaitez afficher les missions.
+* **Assigné à** : liste déroulante du filtre préalable dans laquelle vous sélectionnez le sous-traitant dont vous souhaitez afficher les missions.
 
 ## Affecter des missions à un sous-traitant
 
@@ -19,12 +19,12 @@ Les transporteurs peuvent affecter des zones géographiques prédéfinies, basé
 2. Sélectionnez dans le tableau des missions celles que vous souhaitez affecter.
 3. Cliquez sur le bouton **Actions** et choisissez **Affecter à un sous-traitant**.
 
-![](<../.gitbook/assets/image-13 (4).png>)
+![Actions > Assigner à un sous-traitant](../.gitbook/assets/SubcontractorMgmt_FR_12.jpg)
 
-4. Sélectionnez dans la liste le sous-traitant auquel attribuer les missions.
+4. Dans la liste, cliquez sur **Sélectionner** à côté du sous-traitant auquel attribuer les missions.
 5. Cliquez sur **Appliquer**.
 
-![](<../.gitbook/assets/image-14 (4).png>)
+![Sélectionnez le sous-traitant, puis cliquez sur Appliquer](../.gitbook/assets/SubcontractorMgmt_FR_13.jpg)
 
 ### Résultat
 
@@ -36,10 +36,10 @@ Les missions sélectionnées sont affectées au sous-traitant choisi.
 
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Missions**. Par défaut, les transporteurs peuvent voir toutes les missions créées dans le système de gestion des livraisons.
 2. Cliquez sur l’option **Filtre préalable** dans l’onglet des missions.
-3. Sélectionnez le sous-traitant souhaité dans la liste déroulante **Attribué à**.
+3. Sélectionnez le sous-traitant souhaité dans la liste déroulante **Assigné à**.
 4. Cliquez sur **Appliquer** pour afficher les missions affectées au sous-traitant sélectionné.
 
-![](<../.gitbook/assets/image-16 (4).png>)
+![Le filtre préalable Assigné à](../.gitbook/assets/SubcontractorMgmt_FR_14.jpg)
 
 ### Résultat
 

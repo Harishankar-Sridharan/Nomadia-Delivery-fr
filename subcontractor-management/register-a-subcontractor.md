@@ -24,15 +24,15 @@ Les champs suivants sont obligatoires lors de l’ajout d’un sous-traitant :
 1. Ouvrez l’application Nomadia Delivery et accédez au module **Sous-traitants**.
 2. Cliquez sur le menu **Actions** et sélectionnez le bouton **Ajouter**.
 
-![](<../.gitbook/assets/image-1 (6).png>)
+![Ouvrez Sous-traitants, puis cliquez sur Actions > Ajouter](../.gitbook/assets/SubcontractorMgmt_FR_01.jpg)
 
 3. Renseignez les champs obligatoires. Le transporteur peut également saisir des informations supplémentaires telles que la zone et les autorisations. Une fois l’adresse du sous-traitant renseignée, la carte met automatiquement en évidence sa localisation géographique.
 
-![](<../.gitbook/assets/image-2 (6).png>)
+![Les champs du formulaire Sous-traitant](../.gitbook/assets/SubcontractorMgmt_FR_02.jpg)
 
 4. Cliquez sur **Enregistrer** pour ajouter le sous-traitant au système de gestion des livraisons.
 
-![](<../.gitbook/assets/image-3 (6).png>)
+![L’adresse sur la carte et le bouton Enregistrer](../.gitbook/assets/SubcontractorMgmt_FR_03.jpg)
 
 ### Résultat
 
@@ -44,7 +44,7 @@ Une notification confirme que le sous-traitant a été ajouté avec succès.
 
 Vous pouvez également importer des sous-traitants en masse via un fichier Excel, ce qui permet de gagner du temps et de l’effort lors de l’ajout de plusieurs entrées.
 
-![](<../.gitbook/assets/image-5 (6).png>)
+![Actions > Importer](../.gitbook/assets/SubcontractorMgmt_FR_04.jpg)
 
 ## Conseils
 

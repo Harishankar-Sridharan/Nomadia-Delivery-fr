@@ -9,42 +9,42 @@ Les transporteurs peuvent affecter des utilisateurs à chaque sous-traitant afin
 
 ## Présentation de la fonctionnalité
 
-* Onglet **Généralités** : contient le profil, l’identifiant de connexion, le nom de famille et le statut du nouvel utilisateur.
-* Onglet **Accès** : active l’accès web de l’utilisateur et le lie au site web du sous-traitant et au bon sous-traitant.
-* Onglet **Rôles et droits** : affiche les droits, que le système attribue automatiquement en fonction de l’utilisateur.
-* **Action** > **Ajouter** : lance la création d’un nouvel utilisateur, à partir de zéro ou à partir d’un utilisateur existant.
+* Onglet **Accès**, section **Information sur l’utilisateur** : contient le profil, le login, le nom et le statut du nouvel utilisateur.
+* Onglet **Accès**, section **Accès web** : active l’accès web de l’utilisateur et le lie au site sous-traitants et au bon sous-traitant.
+* Onglet **Rôles & droits** : affiche les droits, que le système attribue automatiquement en fonction de l’utilisateur.
+* **Actions** > **Ajouter** : lance la création d’un nouvel utilisateur, à partir de zéro ou à partir d’un utilisateur existant.
 
 ## Créer un utilisateur sous-traitant
 
 1. Ouvrez l’application Nomadia Delivery et accédez à **Configuration** > **Gérer les utilisateurs**.
 
-![](<../.gitbook/assets/image-6 (6).png>)
+![Configuration > Gérer les utilisateurs](../.gitbook/assets/SubcontractorMgmt_FR_05.jpg)
 
-2. Cliquez sur le bouton **Action** et sélectionnez **Ajouter**.
+2. Cliquez sur le bouton **Actions** et sélectionnez **Ajouter**.
 
-![](<../.gitbook/assets/image-7 (6).png>)
+![Actions > Ajouter](../.gitbook/assets/SubcontractorMgmt_FR_06.jpg)
 
 3. Cliquez sur **OK** pour créer un nouvel utilisateur. Vous pouvez également créer un utilisateur à partir d’un utilisateur existant. Cela accélère le processus en copiant tous les paramètres de l’utilisateur existant vers le nouvel utilisateur.
 
-![](<../.gitbook/assets/image-8 (5).png>)
+![La fenêtre Créer un nouvel utilisateur](../.gitbook/assets/SubcontractorMgmt_FR_07.jpg)
 
-4. Dans l’onglet **Généralités**, saisissez le profil, l’identifiant de connexion et le nom de famille de l’utilisateur, puis activez le statut de l’utilisateur.
-5. Accédez à l’onglet **Accès**.
+4. Dans l’onglet **Accès**, section **Information sur l’utilisateur**, saisissez le profil, le login et le nom de l’utilisateur, puis activez le statut de l’utilisateur.
+5. Accédez à la section **Accès web**.
 
-![](<../.gitbook/assets/image-9 (5).png>)
+![La section Information sur l’utilisateur](../.gitbook/assets/SubcontractorMgmt_FR_08.jpg)
 
-6. Activez l’accès web pour l’utilisateur et sélectionnez le site web du sous-traitant dans la liste déroulante.
+6. Activez l’accès web pour l’utilisateur et sélectionnez le site sous-traitants dans la liste déroulante.
 
-![](<../.gitbook/assets/image-10 (4).png>)
+![La section Accès web et le sous-traitant rattaché](../.gitbook/assets/SubcontractorMgmt_FR_09.jpg)
 
 7. Sélectionnez le bon sous-traitant (créé dans le module Sous-traitants) à associer à cet utilisateur.
-8. Accédez à l’onglet **Rôles et droits**. Le système attribue automatiquement les droits en fonction de l’utilisateur.
+8. Accédez à l’onglet **Rôles & droits**. Le système attribue automatiquement les droits en fonction de l’utilisateur.
 
-![](<../.gitbook/assets/image-11 (4).png>)
+![L’onglet Rôles & droits](../.gitbook/assets/SubcontractorMgmt_FR_10.jpg)
 
 9. Enregistrez le nouvel utilisateur. Le sous-traitant reçoit une notification par e-mail avec les instructions pour créer un mot de passe et activer le compte.
 
-![](<../.gitbook/assets/image-12 (4).png>)
+![Le bouton Enregistrer](../.gitbook/assets/SubcontractorMgmt_FR_11.jpg)
 
 ## Activer le compte du sous-traitant
 
