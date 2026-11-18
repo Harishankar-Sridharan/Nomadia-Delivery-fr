@@ -17,7 +17,7 @@ Les transporteurs peuvent affecter des zones géographiques prédéfinies, basé
 
 1. Ouvrez l’application Nomadia Delivery et accédez à l’onglet **Missions**.
 2. Sélectionnez dans le tableau des missions celles que vous souhaitez affecter.
-3. Cliquez sur le bouton **Actions** et choisissez **Affecter à un sous-traitant**.
+3. Cliquez sur le bouton **Actions** et choisissez **Assigner à un sous-traitant**.
 
 ![Actions > Assigner à un sous-traitant](../.gitbook/assets/SubcontractorMgmt_FR_12.jpg)
 
