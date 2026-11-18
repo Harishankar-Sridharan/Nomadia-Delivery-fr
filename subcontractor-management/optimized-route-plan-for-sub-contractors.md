@@ -41,15 +41,15 @@ Avant que les sous-traitants puissent créer des itinéraires optimisés, ils do
 
 ![Définir le périmètre de l’optimisation](../.gitbook/assets/SubcontractorMgmt_FR_18.jpg)
 
-5. Lorsque le résultat vous satisfait, cliquez sur **Arrêter** et consultez le résultat.
+5. Lorsque le résultat vous satisfait, cliquez sur **Arrêter et voir le résultat**.
 
-![](<../.gitbook/assets/image-23 (4).png>)
+![Cliquez sur Arrêter et voir le résultat](../.gitbook/assets/SubcontractorMgmt_FR_23.jpg)
 
 6. Consultez le récapitulatif de l’optimisation qui s’affiche. Cliquez sur **Afficher la simulation** pour analyser les résultats.
 
-![](<../.gitbook/assets/image-24 (4).png>)
+![Le récapitulatif de l’optimisation](../.gitbook/assets/SubcontractorMgmt_FR_24.jpg)
 
-Vous pouvez également cliquer sur **Valider les itinéraires** pour publier directement les résultats sans les examiner.
+Vous pouvez également cliquer sur **Valider les tournées** pour publier directement les résultats sans les examiner.
 
 ## Valider et publier les itinéraires
 
@@ -60,7 +60,7 @@ Vous pouvez également cliquer sur **Valider les itinéraires** pour publier dir
 
 3. Confirmez en cliquant sur **OK**.
 
-![](<../.gitbook/assets/image-26 (3).png>)
+![Confirmez la validation de la tournée](../.gitbook/assets/SubcontractorMgmt_FR_25.jpg)
 
 4. Consultez la notification de confirmation qui s’affiche. L’itinéraire est validé.
 
