@@ -23,3 +23,11 @@ Utilisez le tableau ci-dessous pour ouvrir le guide de chaque nouvelle fonctionn
 | 15 | Personnaliser les onglets de navigation | [Personnaliser les onglets de navigation](../customize-navigation-tabs.md) |
 | 16 | Gérer les notifications | [Gérer les notifications > Personnaliser les modèles d’e-mail > Envoyer des comptes-rendus par e-mail via l’API](../manage-notifications/send-email-reports-via-api.md) |
 | 17 | Gérer les flottes de véhicules | [Gérer les flottes de véhicules > Lieu de pause déjeuner du chauffeur](../manage-vehicle-fleets/driver-lunch-location.md) |
+
+## Correctif – 27 octobre 2026
+
+Le correctif du 27 octobre 2026 ajoute la fonctionnalité suivante.
+
+| N° | Section  | Navigation |
+| -- | -------- | ---------- |
+| 1  | Missions | [Missions > Champs personnalisés > Comportement d’écrasement des champs personnalisés](../missions/custom-fields/custom-field-overwrite-behavior.md) |

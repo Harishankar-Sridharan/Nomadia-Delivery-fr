@@ -52,6 +52,7 @@
   * [Champs personnalisés](missions/custom-fields/README.md)
     * [Création de champs personnalisés lors de l’importation](missions/custom-fields/creating-custom-fields-while-importing.md)
     * [Hériter des données de mission depuis la liste des sous-traitants et des adresses](missions/custom-fields/inherit-mission-data-from-contractor-and-address-list.md)
+    * [Comportement d’écrasement des champs personnalisés](missions/custom-fields/custom-field-overwrite-behavior.md)
     * [Configurer la visibilité des missions](missions/custom-fields/configuring-mission-visibility.md)
     * [Regroupement de champs personnalisés](missions/custom-fields/grouping-custom-field.md)
     * [Codage couleur des champs personnalisés](missions/colorcodingthecustomfields.md)
