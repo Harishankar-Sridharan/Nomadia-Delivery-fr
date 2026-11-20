@@ -173,6 +173,7 @@
   * [Personnaliser les contraintes](manage-vehicle-fleets/customize-the-constraints.md)
   * [Lieu de pause déjeuner du chauffeur](manage-vehicle-fleets/driver-lunch-location.md)
 * [Gestion sécurisée des clés d’API](secure-api-key-management.md)
+* [Actions personnalisées](custom-actions.md)
 * [Configuration des raccourcis clavier](keyboard-shortcuts-configuration.md)
 * [Retour au donneur d’ordres](return-to-contractor.md)
 * [Personnaliser les onglets de navigation](customize-navigation-tabs.md)
