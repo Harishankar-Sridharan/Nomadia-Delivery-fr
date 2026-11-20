@@ -76,5 +76,6 @@ La nouvelle configuration démarre vierge, et vous définissez chaque champ vous
 
 * [Missions](README.md)
 * [Configuration de la création des missions](mission-creation-configuration.md)
+* [Importer et exporter des configurations de mission en JSON](import-and-export-mission-configurations-as-json.md)
 * [Personnaliser les libellés des blocs de mission](customizemissionblocklabels.md)
 * [Modifier en masse les données de mission](bulk-edit-mission-data.md)

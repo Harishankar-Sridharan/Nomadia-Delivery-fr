@@ -34,3 +34,4 @@ Le correctif du 27 octobre 2026 ajoute les fonctionnalités suivantes.
 | 2  | Gérer les modèles de documents | [Gérer les modèles de documents > QR codes sur les extraits de mission](../manage-document-templates/qr-codes-on-mission-extracts.md) |
 | 3  | Missions | [Missions > Cloner une configuration de mission](../missions/clone-a-mission-configuration.md) |
 | 4  | Actions personnalisées | [Actions personnalisées](../custom-actions.md) |
+| 5  | Missions | [Missions > Importer et exporter des configurations de mission en JSON](../missions/import-and-export-mission-configurations-as-json.md) |

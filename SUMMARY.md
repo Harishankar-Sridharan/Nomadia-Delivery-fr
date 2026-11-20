@@ -63,6 +63,7 @@
   * [Mapper les champs d’adresse depuis la liste globale d’adresses](missions/map-the-addresses-fields-from-the-global-address-list.md)
   * [Configuration de la création des missions](missions/mission-creation-configuration.md)
   * [Cloner une configuration de mission](missions/clone-a-mission-configuration.md)
+  * [Importer et exporter des configurations de mission en JSON](missions/import-and-export-mission-configurations-as-json.md)
   * [Prioriser une mission](missions/prioritizing-a-mission.md)
   * [Priorité automatique via les dates de livraison](missions/automatic-priority-via-delivery-dates.md)
   * [Visite – Un nouveau type de mission](missions/visit-a-new-mission-type.md)
