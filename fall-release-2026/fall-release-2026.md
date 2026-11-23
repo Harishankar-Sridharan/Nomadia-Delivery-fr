@@ -36,3 +36,4 @@ Le correctif du 27 octobre 2026 ajoute les fonctionnalités suivantes.
 | 4  | Actions personnalisées | [Actions personnalisées](../custom-actions.md) |
 | 5  | Missions | [Missions > Importer et exporter des configurations de mission en JSON](../missions/import-and-export-mission-configurations-as-json.md) |
 | 6  | Donneurs d’ordres | [Donneurs d’ordres > Visibilité des blocs du carnet d’adresses par profil utilisateur](../contractors/address-list-block-visibility-per-user-profile.md) |
+| 7  | Missions | [Missions > Sélection d’une plage par Maj+clic](../missions/understanding-the-missions-page/shift-click-range-selection.md) |
