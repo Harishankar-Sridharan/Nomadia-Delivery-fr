@@ -115,6 +115,11 @@ La plateforme prend en charge la gestion de jusqu’à 500 000 Missions, avec de
 | Envoyer des notifications par e-mail ou par SMS | [Gérer les notifications](manage-notifications/README.md) |
 | Personnaliser un modèle de document Word | [Personnalisation des modèles Word](manage-document-templates/customizing-word-templates.md) |
 | Connecter un système externe | [Actions personnalisées](custom-actions.md) et [Gestion sécurisée des clés d’API](secure-api-key-management.md) |
+| Limiter les missions chargées sur la page Missions | [Définir l’affichage des missions (préfiltre)](missions/understanding-the-missions-page/pre-filters/set-missions-display-prefilter.md) |
+| Sélectionner plusieurs missions à la fois | [Sélection d’une plage par Maj+clic](missions/understanding-the-missions-page/shift-click-range-selection.md) |
+| Copier une configuration de mission | [Cloner une configuration de mission](missions/clone-a-mission-configuration.md) |
+| Transférer des configurations de mission vers un autre compte | [Importer et exporter des configurations de mission en JSON](missions/import-and-export-mission-configurations-as-json.md) |
+| Choisir les blocs d’adresse visibles par un profil utilisateur | [Visibilité des blocs du carnet d’adresses par profil utilisateur](contractors/address-list-block-visibility-per-user-profile.md) |
 | Voir les nouveautés | [Version d’automne 2026](fall-release-2026/fall-release-2026.md) |
 | Trouver une rubrique par son nom | [Trouver une rubrique (A–Z)](reference/find-a-topic.md) |
 | Comprendre un terme | [Glossaire](reference/glossary.md) |
