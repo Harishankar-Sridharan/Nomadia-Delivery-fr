@@ -103,3 +103,4 @@ Prérequis :
 
 * Gérer la liste d’adresses globale
 * [Gérer la liste d’adresses](manage-address-list.md)
+* [Visibilité des blocs du carnet d’adresses par profil utilisateur](address-list-block-visibility-per-user-profile.md)

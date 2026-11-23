@@ -121,6 +121,7 @@
   * [Créer un utilisateur sous-traitant](contractors/create-a-contractor-user.md)
   * [Gérer la liste d’adresses](contractors/manage-address-list.md)
   * [Personnaliser la visibilité des adresses](contractors/customizetheaddresslistvisibility.md)
+  * [Visibilité des blocs du carnet d’adresses par profil utilisateur](contractors/address-list-block-visibility-per-user-profile.md)
   * [Coloration et filtre](contractors/coloring-and-filter.md)
   * [Restrictions des sous-traitants](contractors/contractor-restrictions.md)
   * [Plans fixes et récurrents](contractors/fixed-and-recurring-plans.md)

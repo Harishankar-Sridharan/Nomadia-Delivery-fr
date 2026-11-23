@@ -35,3 +35,4 @@ Le correctif du 27 octobre 2026 ajoute les fonctionnalités suivantes.
 | 3  | Missions | [Missions > Cloner une configuration de mission](../missions/clone-a-mission-configuration.md) |
 | 4  | Actions personnalisées | [Actions personnalisées](../custom-actions.md) |
 | 5  | Missions | [Missions > Importer et exporter des configurations de mission en JSON](../missions/import-and-export-mission-configurations-as-json.md) |
+| 6  | Donneurs d’ordres | [Donneurs d’ordres > Visibilité des blocs du carnet d’adresses par profil utilisateur](../contractors/address-list-block-visibility-per-user-profile.md) |
