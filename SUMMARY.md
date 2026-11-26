@@ -189,6 +189,7 @@
   * [Photos de l’état du véhicule](vehicle-condition-photos.md)
 * [Personnaliser les onglets de navigation](customize-navigation-tabs.md)
 * [Configuration des raccourcis clavier](keyboard-shortcuts-configuration.md)
+* [Navigation par fil d’Ariane dans la configuration](configuration-breadcrumb-navigation.md)
 
 ## Intégration
 

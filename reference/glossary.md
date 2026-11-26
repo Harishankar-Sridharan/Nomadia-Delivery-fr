@@ -28,6 +28,7 @@ Les termes sont classés par ordre alphabétique. Chaque définition renvoie à 
 | **eCMR** | La lettre de voiture électronique, l’équivalent numérique de la lettre de voiture CMR papier utilisée dans le transport routier. Voir [Accès à eCMR](../manage-document-templates/accessing-ecmr.md). |
 | **Étude** | Un ensemble de zones et de secteurs utilisé pour organiser les territoires de livraison. Voir [Gérer les études et les zones](../manage-studies-and-zones/README.md). |
 | **Export JSON** | Un fichier qui contient une ou plusieurs configurations de mission, que vous pouvez importer dans le même compte ou dans un autre compte. Voir [Importer et exporter des configurations de mission en JSON](../missions/import-and-export-mission-configurations-as-json.md). |
+| **Fil d’Ariane** | La barre en haut d’une page de configuration qui affiche le chemin vers la page. Chaque niveau situé au-dessus de la page actuelle est un lien. Voir [Navigation par fil d’Ariane dans la configuration](../configuration-breadcrumb-navigation.md). |
 | **Flotte de véhicules** | Les véhicules utilisés pour les livraisons, avec leurs capacités et leurs contraintes. Voir [Gérer les flottes de véhicules](../manage-vehicle-fleets/README.md). |
 | **Géocodage** | La conversion d’une adresse en coordonnées sur la carte. Voir [Améliorer le géocodage des adresses des missions](../missions/import-missions/improve-the-missions-addresses-geocoding.md). |
 | **Journal d’audit** | L’enregistrement des modifications effectuées sur la plateforme. Voir [Journaux d’audit](../missions/auditlogs.md). |

@@ -76,6 +76,7 @@ La plateforme prend en charge la gestion de jusqu’à 500 000 Missions, avec de
 | [Configuration de sondages personnalisés](configuring-customized-surveys.md) | Les sondages et les photos de l’état du véhicule. |
 | [Personnaliser les onglets de navigation](customize-navigation-tabs.md) | L’ordre des onglets de l’en-tête. |
 | [Configuration des raccourcis clavier](keyboard-shortcuts-configuration.md) | Les raccourcis clavier du back-office. |
+| [Navigation par fil d’Ariane dans la configuration](configuration-breadcrumb-navigation.md) | Le fil d’Ariane cliquable de l’onglet Configuration. |
 
 ### Intégration
 
@@ -120,6 +121,7 @@ La plateforme prend en charge la gestion de jusqu’à 500 000 Missions, avec de
 | Copier une configuration de mission | [Cloner une configuration de mission](missions/clone-a-mission-configuration.md) |
 | Transférer des configurations de mission vers un autre compte | [Importer et exporter des configurations de mission en JSON](missions/import-and-export-mission-configurations-as-json.md) |
 | Choisir les blocs d’adresse visibles par un profil utilisateur | [Visibilité des blocs du carnet d’adresses par profil utilisateur](contractors/address-list-block-visibility-per-user-profile.md) |
+| Remonter à un niveau supérieur de l’onglet Configuration | [Navigation par fil d’Ariane dans la configuration](configuration-breadcrumb-navigation.md) |
 | Voir les nouveautés | [Version d’automne 2026](fall-release-2026/fall-release-2026.md) |
 | Trouver une rubrique par son nom | [Trouver une rubrique (A–Z)](reference/find-a-topic.md) |
 | Comprendre un terme | [Glossaire](reference/glossary.md) |

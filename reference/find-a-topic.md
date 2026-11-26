@@ -209,6 +209,7 @@ Toutes les rubriques de ce guide sont classées par ordre alphabétique, avec la
 
 | Rubrique | Section | Ce qu’elle vous permet de faire |
 | -------- | ------- | ------------------------------- |
+| [Navigation par fil d’Ariane dans la configuration](../configuration-breadcrumb-navigation.md) | Navigation par fil d’Ariane dans la configuration | La navigation par fil d’Ariane dans la configuration vous permet d’accéder à n’importe quel niveau de l’onglet Configuration en un clic. |
 | [Nomadbot](../chatbot.md) | Nomadbot | La fonctionnalité Nomadbot de Nomadia Delivery fournit un assistant virtuel automatisé aux répartiteurs et aux planificateurs. |
 | [Notifications groupées pour les missions de conteneur](../manage-container-types/groupnotificationsforthecontainermissions.md) | Gérer les types de conteneurs | Les notifications groupées pour les missions de conteneur regroupent les alertes de plusieurs missions simultanément. |
 
