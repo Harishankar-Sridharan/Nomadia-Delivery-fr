@@ -106,6 +106,7 @@
   * [Gérer la liste d’adresses](contractors/manage-address-list.md)
   * [Personnaliser la visibilité des adresses](contractors/customizetheaddresslistvisibility.md)
   * [Visibilité des blocs du carnet d’adresses par profil utilisateur](contractors/address-list-block-visibility-per-user-profile.md)
+  * [Groupes d’adresses pour les donneurs d’ordres](contractors/address-list-groups-for-contractors.md)
   * [Coloration et filtre](contractors/coloring-and-filter.md)
   * [Restrictions des sous-traitants](contractors/contractor-restrictions.md)
   * [Plans fixes et récurrents](contractors/fixed-and-recurring-plans.md)

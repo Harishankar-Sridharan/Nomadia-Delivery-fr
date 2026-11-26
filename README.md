@@ -122,6 +122,7 @@ La plateforme prend en charge la gestion de jusqu’à 500 000 Missions, avec de
 | Transférer des configurations de mission vers un autre compte | [Importer et exporter des configurations de mission en JSON](missions/import-and-export-mission-configurations-as-json.md) |
 | Choisir les blocs d’adresse visibles par un profil utilisateur | [Visibilité des blocs du carnet d’adresses par profil utilisateur](contractors/address-list-block-visibility-per-user-profile.md) |
 | Remonter à un niveau supérieur de l’onglet Configuration | [Navigation par fil d’Ariane dans la configuration](configuration-breadcrumb-navigation.md) |
+| Donner aux donneurs d’ordres l’accès à un ensemble d’adresses | [Groupes d’adresses pour les donneurs d’ordres](contractors/address-list-groups-for-contractors.md) |
 | Voir les nouveautés | [Version d’automne 2026](fall-release-2026/fall-release-2026.md) |
 | Trouver une rubrique par son nom | [Trouver une rubrique (A–Z)](reference/find-a-topic.md) |
 | Comprendre un terme | [Glossaire](reference/glossary.md) |

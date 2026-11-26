@@ -152,6 +152,7 @@ Toutes les rubriques de ce guide sont classées par ordre alphabétique, avec la
 | [Graphiques d’analyse](../simulation/simulation-analysis-charts.md) | Simulation | Cette page explique ce que montre chaque graphique du panneau Analyse. |
 | [Grouper des missions existantes dans un seul conteneur](../manage-container-types/group-existing-missions-in-one-container.md) | Gérer les types de conteneurs | Regroupez des missions déjà existantes sous un conteneur parent nouveau ou existant. |
 | [Grouper les missions lors de la création](../manage-container-types/group-missions-while-creation.md) | Gérer les types de conteneurs | Cette fonctionnalité permet de regrouper plusieurs missions dans un seul conteneur parent, tel qu’une palette, une boîte ou un conteneur en carton. |
+| [Groupes d’adresses pour les donneurs d’ordres](../contractors/address-list-groups-for-contractors.md) | Sous-traitants | Regroupez des adresses et affectez les groupes aux donneurs d’ordres pour qu’ils trouvent les bonnes adresses lorsqu’ils créent des missions. |
 
 ## H
 

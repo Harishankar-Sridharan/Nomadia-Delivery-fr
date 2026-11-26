@@ -31,6 +31,7 @@ Les termes sont classés par ordre alphabétique. Chaque définition renvoie à 
 | **Fil d’Ariane** | La barre en haut d’une page de configuration qui affiche le chemin vers la page. Chaque niveau situé au-dessus de la page actuelle est un lien. Voir [Navigation par fil d’Ariane dans la configuration](../configuration-breadcrumb-navigation.md). |
 | **Flotte de véhicules** | Les véhicules utilisés pour les livraisons, avec leurs capacités et leurs contraintes. Voir [Gérer les flottes de véhicules](../manage-vehicle-fleets/README.md). |
 | **Géocodage** | La conversion d’une adresse en coordonnées sur la carte. Voir [Améliorer le géocodage des adresses des missions](../missions/import-missions/improve-the-missions-addresses-geocoding.md). |
+| **Groupe d’adresses** | Un ensemble nommé d’adresses du carnet d’adresses, comme **Lyon Retail**, que vous affectez aux donneurs d’ordres pour qu’ils puissent utiliser ces adresses dans leurs missions. Voir [Groupes d’adresses pour les donneurs d’ordres](../contractors/address-list-groups-for-contractors.md). |
 | **Journal d’audit** | L’enregistrement des modifications effectuées sur la plateforme. Voir [Journaux d’audit](../missions/auditlogs.md). |
 | **Journal de mission** | L’historique complet des activités effectuées sur une mission. Voir [Journaux des missions](../missions/journaux-des-missions.md). |
 | **KPI** | Un indicateur clé de performance affiché sur la page d’accueil. Voir [Configurer l’affichage de mes KPI](../page-daccueil/configurer-laffichage-de-mes-kpi.md). |
