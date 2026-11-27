@@ -39,3 +39,4 @@ Le correctif du 27 octobre 2026 ajoute les fonctionnalités suivantes.
 | 7  | Missions | [Missions > Sélection d’une plage par Maj+clic](../missions/understanding-the-missions-page/shift-click-range-selection.md) |
 | 8  | Configuration | [Configuration > Navigation par fil d’Ariane dans la configuration](../configuration-breadcrumb-navigation.md) |
 | 9  | Donneurs d’ordres | [Donneurs d’ordres > Groupes d’adresses pour les donneurs d’ordres](../contractors/address-list-groups-for-contractors.md) |
+| 10 | Gérer les modèles de documents | [Gérer les modèles de documents > Agrégation des articles dans les feuilles de chargement](../manage-document-templates/article-aggregation-in-loading-sheets.md) |

@@ -158,6 +158,7 @@
   * [Personnalisation des modèles Word](manage-document-templates/customizing-word-templates.md)
   * [Accès à eCMR](manage-document-templates/accessing-ecmr.md)
   * [QR codes sur les extraits de mission](manage-document-templates/qr-codes-on-mission-extracts.md)
+  * [Agrégation des articles dans les feuilles de chargement](manage-document-templates/article-aggregation-in-loading-sheets.md)
 * [Gérer les notifications](manage-notifications/README.md)
   * [E-mail](manage-notifications/email.md)
   * [Personnaliser les modèles d’e-mail](manage-notifications/customize-email-templates.md)
