@@ -124,6 +124,7 @@ La plateforme prend en charge la gestion de jusqu’à 500 000 Missions, avec de
 | Remonter à un niveau supérieur de l’onglet Configuration | [Navigation par fil d’Ariane dans la configuration](configuration-breadcrumb-navigation.md) |
 | Donner aux donneurs d’ordres l’accès à un ensemble d’adresses | [Groupes d’adresses pour les donneurs d’ordres](contractors/address-list-groups-for-contractors.md) |
 | Afficher les totaux d’articles sur les feuilles de chargement | [Agrégation des articles dans les feuilles de chargement](manage-document-templates/article-aggregation-in-loading-sheets.md) |
+| Collecter des données de tournée comme la plaque d’immatriculation | [Champs personnalisés des tournées](routes/route-custom-fields.md) |
 | Voir les nouveautés | [Version d’automne 2026](fall-release-2026/fall-release-2026.md) |
 | Trouver une rubrique par son nom | [Trouver une rubrique (A–Z)](reference/find-a-topic.md) |
 | Comprendre un terme | [Glossaire](reference/glossary.md) |

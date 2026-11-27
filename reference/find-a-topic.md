@@ -42,6 +42,7 @@ Toutes les rubriques de ce guide sont classées par ordre alphabétique, avec la
 | Rubrique | Section | Ce qu’elle vous permet de faire |
 | -------- | ------- | ------------------------------- |
 | [Champs personnalisés](../missions/custom-fields/README.md) | Missions | Utilisez ces pages pour créer, organiser et appliquer des champs personnalisés dans Nomadia Delivery. |
+| [Champs personnalisés des tournées](../routes/route-custom-fields.md) | Itinéraires | Collectez des données au niveau de la tournée, comme la plaque d’immatriculation ou les relevés kilométriques, et utilisez-les dans tout le back-office. |
 | [Choisir ce qu’affiche la carte](../simulation/simulation-map-objects-visibility.md) | Simulation | Cette page explique comment utiliser Visibilité des objets pour choisir les objets, le style de carte et les calques du panneau Carte. |
 | [Cloner une configuration de mission](../missions/clone-a-mission-configuration.md) | Missions | Cloner une configuration de mission vous permet de créer une nouvelle configuration du créateur ou de l’éditeur de mission à partir d’une configuration existante. |
 | [Codage couleur des champs personnalisés](../missions/colorcodingthecustomfields.md) | Missions | Le codage couleur des champs personnalisés dans Nomadia Delivery met visuellement en évidence les données clés selon des plages de valeurs. |

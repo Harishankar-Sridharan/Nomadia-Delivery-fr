@@ -70,6 +70,7 @@
   * [Vue tableau](routes/tableview.md)
   * [Vue Gantt](routes/ganttview.md)
   * [Éditeur d’itinéraire](routes/routeeditor.md)
+  * [Champs personnalisés des tournées](routes/route-custom-fields.md)
 * [Simulation](simulation/simulation.md)
   * [Gérer les livraisons](simulation/simulation-deliveries.md)
     * [Optimiser les livraisons](simulation/simulation-deliveries-optimize.md)
